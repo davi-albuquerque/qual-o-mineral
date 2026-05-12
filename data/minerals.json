@@ -2,7 +2,7 @@
   {
     "slug": "albita",
     "name": "ALBITA",
-    "formula": "- ANORTITA   NaAlSi3O8         CaAl2Si2O8",
+    "formula": "NaAlSi3O8",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -82,7 +82,7 @@
   {
     "slug": "apatita",
     "name": "APATITA",
-    "formula": "Ca5(F,Cl,OH) (PO4)3",
+    "formula": "Ca5(F,Cl,OH)(PO4)3",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -90,7 +90,7 @@
   {
     "slug": "apofilita",
     "name": "APOFILITA",
-    "formula": "KCa4(Si4O10)2F.8H2O",
+    "formula": "KCa4(Si4O10)2F·8H2O",
     "type": "FILOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -146,7 +146,7 @@
   {
     "slug": "augita",
     "name": "AUGITA",
-    "formula": "(Ca,Na)(Mg,Fe,Al) (Si,Al)2O6",
+    "formula": "(Ca,Na)(Mg,Fe,Al)(Si,Al)2O6",
     "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -242,7 +242,7 @@
   {
     "slug": "borax",
     "name": "BÓRAX",
-    "formula": "Na2B4O7.10H2O",
+    "formula": "Na2B4O7·10H2O",
     "type": "BORATO",
     "isClassSummary": false,
     "sectionCount": 8
@@ -274,7 +274,7 @@
   {
     "slug": "cabazita",
     "name": "CABAZITA",
-    "formula": "(Ca,Na)2 (Al2Si4O12).6H2O",
+    "formula": "(Ca,Na)2(Al2Si4O12)·6H2O",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 12
@@ -314,7 +314,7 @@
   {
     "slug": "caolinita",
     "name": "CAOLINITA",
-    "formula": "(m.argilosos)   Al4(Si4O10)(OH)8",
+    "formula": "(m.argilosos) Al4(Si4O10)(OH)8",
     "type": "FILOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 9
@@ -330,7 +330,7 @@
   {
     "slug": "carnallita",
     "name": "CARNALLITA",
-    "formula": "KMgCl3.6H2O",
+    "formula": "KMgCl3·6H2O",
     "type": "HALÓIDE",
     "isClassSummary": false,
     "sectionCount": 8
@@ -338,7 +338,7 @@
   {
     "slug": "carnotita",
     "name": "CARNOTITA",
-    "formula": "K2(UO2)2(VO4)2.3H2O",
+    "formula": "K2(UO2)2(VO4)2·3H2O",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 9
@@ -402,7 +402,7 @@
   {
     "slug": "clinozoisita",
     "name": "CLINOZOISITA",
-    "formula": "Ca2Al3O (SIO4)(Si2O7)(OH)",
+    "formula": "Ca2Al3O(SIO4)(Si2O7)(OH)",
     "type": "SILICATOS",
     "isClassSummary": false,
     "sectionCount": 10
@@ -434,7 +434,7 @@
   {
     "slug": "colemanita",
     "name": "COLEMANITA",
-    "formula": "Ca2B6O11.5H2O",
+    "formula": "Ca2B6O11·5H2O",
     "type": "BORATO",
     "isClassSummary": false,
     "sectionCount": 8
@@ -594,7 +594,7 @@
   {
     "slug": "egirina",
     "name": "EGIRINA",
-    "formula": "NaFe3 (Si2O6)",
+    "formula": "NaFe3(Si2O6)",
     "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -634,7 +634,7 @@
   {
     "slug": "epsomita",
     "name": "EPSOMITA",
-    "formula": "MgSO4.7H2O",
+    "formula": "MgSO4·7H2O",
     "type": "SULFATOS E CROMADOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -642,7 +642,7 @@
   {
     "slug": "eritrita",
     "name": "ERITRITA",
-    "formula": "Co3(AsO4)2.8H2O",
+    "formula": "Co3(AsO4)2·8H2O",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -650,7 +650,7 @@
   {
     "slug": "escapolita",
     "name": "ESCAPOLITA",
-    "formula": "(Na,Ca)4Al3(Al,Si)3Si6O24 (Cl,CO3,SO4)",
+    "formula": "(Na,Ca)4Al3(Al,Si)3Si6O24(Cl,CO3,SO4)",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 9
@@ -658,7 +658,7 @@
   {
     "slug": "escorodita",
     "name": "ESCORODITA",
-    "formula": "FeAsO4.2H2O",
+    "formula": "FeAsO4·2H2O",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -730,7 +730,7 @@
   {
     "slug": "estilbita",
     "name": "ESTILBITA",
-    "formula": "Ca(Al2Si7O18).7H2O",
+    "formula": "Ca(Al2Si7O18)·7H2O",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 12
@@ -794,7 +794,7 @@
   {
     "slug": "franklinita",
     "name": "FRANKLINITA",
-    "formula": "(Zn,Fe,Mn) (Fe,Mn)2O4",
+    "formula": "(Zn,Fe,Mn)(Fe,Mn)2O4",
     "type": "ÓXIDO",
     "isClassSummary": false,
     "sectionCount": 8
@@ -834,7 +834,7 @@
   {
     "slug": "gipso",
     "name": "GIPSO",
-    "formula": "CaSO4.2H2O",
+    "formula": "CaSO4·2H2O",
     "type": "SULFATOS E CROMADOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -946,7 +946,7 @@
   {
     "slug": "hemimorfita",
     "name": "HEMIMORFITA",
-    "formula": "Zn4(Si2O7)(OH)2.H2O",
+    "formula": "Zn4(Si2O7)(OH)2·H2O",
     "type": "SILICATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -954,7 +954,7 @@
   {
     "slug": "heulandita",
     "name": "HEULANDITA",
-    "formula": "Ca(Al2Si7O18).6H2O",
+    "formula": "Ca(Al2Si7O18)·6H2O",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 11
@@ -1002,7 +1002,7 @@
   {
     "slug": "kernita",
     "name": "KERNITA",
-    "formula": "Na2B4O7.4H2O",
+    "formula": "Na2B4O7·4H2O",
     "type": "BORATO",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1010,7 +1010,7 @@
   {
     "slug": "lawsonita",
     "name": "LAWSONITA",
-    "formula": "CaAl2(Si2O7)(OH)2.H2O",
+    "formula": "CaAl2(Si2O7)(OH)2·H2O",
     "type": "SILICATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1026,7 +1026,7 @@
   {
     "slug": "lazurita",
     "name": "LAZURITA",
-    "formula": "- LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
+    "formula": "(Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 10
@@ -1138,7 +1138,7 @@
   {
     "slug": "mimetita",
     "name": "MIMETITA",
-    "formula": "Pb5Cl (AsO4)3",
+    "formula": "Pb5Cl(AsO4)3",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1170,7 +1170,7 @@
   {
     "slug": "natrolita",
     "name": "NATRÓLITA",
-    "formula": "Na2(Al2Si3O10).2H2O",
+    "formula": "Na2(Al2Si3O10)·2H2O",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 12
@@ -1178,7 +1178,7 @@
   {
     "slug": "nefelina",
     "name": "NEFELINA",
-    "formula": "(Na,K) (AlSiO4)",
+    "formula": "(Na,K)(AlSiO4)",
     "type": "TECTOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 11
@@ -1218,7 +1218,7 @@
   {
     "slug": "olivina",
     "name": "OLIVINA",
-    "formula": "(Mg,Fe)2 (SiO4)",
+    "formula": "(Mg,Fe)2(SiO4)",
     "type": "SILICATOS",
     "isClassSummary": false,
     "sectionCount": 9
@@ -1322,7 +1322,7 @@
   {
     "slug": "piromorfita",
     "name": "PIROMORFITA",
-    "formula": "Pb5Cl (PO4)3",
+    "formula": "Pb5Cl(PO4)3",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1346,7 +1346,7 @@
   {
     "slug": "polialita",
     "name": "POLIALITA",
-    "formula": "K2Ca2Mg(SO4)2.2H2O",
+    "formula": "K2Ca2Mg(SO4)2·2H2O",
     "type": "SULFATOS E CROMADOS",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1450,7 +1450,7 @@
   {
     "slug": "sepiolita",
     "name": "SEPIOLITA",
-    "formula": "Mg4(Si6O15)(OH)2.6H2O",
+    "formula": "Mg4(Si6O15)(OH)2·6H2O",
     "type": "FILOSSILICATOS",
     "isClassSummary": false,
     "sectionCount": 10
@@ -1650,7 +1650,7 @@
   {
     "slug": "ulexita",
     "name": "ULEXITA",
-    "formula": "NaCaB5O9.8H2O",
+    "formula": "NaCaB5O9·8H2O",
     "type": "BORATO",
     "isClassSummary": false,
     "sectionCount": 8
@@ -1666,7 +1666,7 @@
   {
     "slug": "vanadinita",
     "name": "VANADINITA",
-    "formula": "Pb5Cl (VO4)3",
+    "formula": "Pb5Cl(VO4)3",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -1674,7 +1674,7 @@
   {
     "slug": "vivianita",
     "name": "VIVIANITA",
-    "formula": "Fe3(PO4)2.8H2O",
+    "formula": "Fe3(PO4)2·8H2O",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 7
@@ -1682,7 +1682,7 @@
   {
     "slug": "wavellita",
     "name": "WAVELLITA",
-    "formula": "Al3(OH)3(PO4)2.5H2O",
+    "formula": "Al3(OH)3(PO4)2·5H2O",
     "type": "FOSFATOS, ARSENIATOS E VANADATOS",
     "isClassSummary": false,
     "sectionCount": 7

@@ -2,7 +2,7 @@
   "slug": "lazurita",
   "name": "LAZURITA",
   "rawName": "LAZURITA",
-  "formula": "- LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
+  "formula": "(Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
   "type": "TECTOSSILICATOS",
   "isClassSummary": false,
   "sections": [

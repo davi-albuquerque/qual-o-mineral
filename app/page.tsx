@@ -5,6 +5,11 @@ import { searchMinerals } from "@/lib/filter";
 import { ANY, type HardnessBucket, type SearchCriteria } from "@/types/mineral";
 import { HARDNESS_BUCKETS } from "@/lib/hardness";
 import { FILTER_INDEX, OPTIONS } from "@/lib/data";
+import { Button, LinkButton } from "@/components/ui/button";
+import { Card } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Select } from "@/components/ui/select";
+import ChemicalFormula from "@/components/chemical-formula";
 
 interface PageProps {
   searchParams: Promise<{
@@ -37,67 +42,119 @@ export default async function Home({ searchParams }: PageProps) {
   const results = submitted ? searchMinerals(criteria, FILTER_INDEX) : [];
 
   return (
-    <div className="space-y-8">
-      <section className="rounded-lg border border-zinc-200 bg-white p-6 shadow-sm">
-        <h1 className="text-2xl font-semibold tracking-tight mb-2">
+    <div className="space-y-10">
+      <section className="space-y-3">
+        <h1 className="font-serif text-4xl tracking-tight text-[var(--color-ink)]">
           Identifique um mineral
         </h1>
-        <p className="text-sm text-zinc-600 mb-6">
-          Selecione as características observadas e clique em <strong>Pesquisar</strong>.
-          Use <em>Qualquer</em> para ignorar um critério.
+        <p className="max-w-2xl text-base text-[var(--color-muted)]">
+          Selecione as características observadas e clique em{" "}
+          <span className="font-medium text-[var(--color-ink)]">
+            Pesquisar
+          </span>
+          . Deixe um campo em{" "}
+          <em className="not-italic font-medium text-[var(--color-ink)]">
+            Qualquer
+          </em>{" "}
+          para ignorá-lo.
         </p>
+      </section>
 
-        <form method="GET" className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <Field label="Brilho" name="brilho" value={params.brilho} options={OPTIONS.brilho} />
-          <Field label="Traço" name="traco" value={params.traco} options={OPTIONS.traco} />
+      <Card className="p-6 md:p-8">
+        <form
+          method="GET"
+          className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3"
+        >
+          <Field
+            label="Brilho"
+            name="brilho"
+            value={params.brilho}
+            options={OPTIONS.brilho}
+          />
+          <Field
+            label="Traço"
+            name="traco"
+            value={params.traco}
+            options={OPTIONS.traco}
+          />
           <Field
             label="Dureza"
             name="dureza"
             value={params.dureza}
             options={HARDNESS_BUCKETS}
           />
-          <Field label="Hábito" name="habito" value={params.habito} options={OPTIONS.habito} />
-          <Field label="Luz" name="luz" value={params.luz} options={OPTIONS.luz} />
-          <Field label="Cor" name="cor" value={params.cor} options={OPTIONS.cor} />
+          <Field
+            label="Hábito"
+            name="habito"
+            value={params.habito}
+            options={OPTIONS.habito}
+          />
+          <Field
+            label="Luz"
+            name="luz"
+            value={params.luz}
+            options={OPTIONS.luz}
+          />
+          <Field
+            label="Cor"
+            name="cor"
+            value={params.cor}
+            options={OPTIONS.cor}
+          />
 
-          <div className="md:col-span-2 flex gap-3 pt-2">
-            <button
-              type="submit"
-              className="rounded-md bg-zinc-900 px-4 py-2 text-sm font-medium text-white hover:bg-zinc-700"
-            >
-              Pesquisar
-            </button>
-            <Link
-              href="/"
-              className="rounded-md border border-zinc-300 bg-white px-4 py-2 text-sm font-medium text-zinc-700 hover:bg-zinc-50"
-            >
+          <div className="flex items-end gap-3 md:col-span-2 lg:col-span-3">
+            <Button type="submit">Pesquisar</Button>
+            <LinkButton href="/" variant="secondary">
               Limpar
-            </Link>
+            </LinkButton>
           </div>
         </form>
-      </section>
+      </Card>
 
       {submitted && (
-        <section>
-          <h2 className="text-sm font-medium text-zinc-500 mb-3">
-            {results.length === 0
-              ? "Nenhum mineral encontrado"
-              : `${results.length} ${results.length === 1 ? "mineral encontrado" : "minerais encontrados"}`}
-          </h2>
-          <ul className="space-y-2">
-            {results.map((m) => (
-              <li
-                key={m.slug}
-                className="rounded-lg border border-zinc-200 bg-white p-4 hover:border-zinc-400"
-              >
-                <Link href={`/mineral/${m.slug}`} className="block">
-                  <div className="font-semibold text-zinc-900">{m.name}</div>
-                  <div className="text-sm text-zinc-600">
-                    {m.rawName.replace(m.name, "").trim()} — {m.type}
-                  </div>
-                </Link>
-              </li>
-            ))}
+        <section className="space-y-4">
+          <div className="flex items-baseline justify-between">
+            <h2 className="font-serif text-2xl text-[var(--color-ink)]">
+              {results.length === 0
+                ? "Nenhum mineral encontrado"
+                : results.length === 1
+                  ? "1 mineral encontrado"
+                  : `${results.length} minerais encontrados`}
+            </h2>
+            {results.length > 0 && (
+              <span className="text-xs uppercase tracking-wide text-[var(--color-muted)]">
+                Clique para ver a ficha
+              </span>
+            )}
+          </div>
+          <ul className="grid grid-cols-1 gap-3 md:grid-cols-2">
+            {results.map((m) => {
+              const formulaInline = m.rawName.replace(m.name, "").trim();
+              return (
+                <li key={m.slug}>
+                  <Link
+                    href={`/mineral/${m.slug}`}
+                    className="group block"
+                  >
+                    <Card className="p-5 transition-colors hover:border-[var(--color-muted-soft)]">
+                      <div className="flex items-start justify-between gap-3">
+                        <div className="space-y-1.5">
+                          <div className="font-serif text-xl text-[var(--color-ink)] group-hover:text-[var(--color-accent)]">
+                            {m.name}
+                          </div>
+                          {formulaInline && (
+                            <div className="text-sm text-[var(--color-muted)]">
+                              <ChemicalFormula formula={formulaInline} />
+                            </div>
+                          )}
+                        </div>
+                        <Badge variant="outline">{m.type}</Badge>
+                      </div>
+                    </Card>
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </section>
       )}
@@ -117,26 +174,13 @@ function Field({
   options: { key: string; label: string }[];
 }) {
   return (
-    <div>
-      <label
-        htmlFor={name}
-        className="block text-sm font-medium text-zinc-700 mb-1"
-      >
-        {label}
-      </label>
-      <select
-        id={name}
-        name={name}
-        defaultValue={value ?? ""}
-        className="block w-full rounded-md border border-zinc-300 bg-white px-3 py-2 text-sm focus:border-zinc-500 focus:outline-none focus:ring-1 focus:ring-zinc-500"
-      >
-        <option value="">Qualquer</option>
-        {options.map((opt) => (
-          <option key={opt.key} value={opt.key}>
-            {opt.label}
-          </option>
-        ))}
-      </select>
-    </div>
+    <Select label={label} name={name} defaultValue={value ?? ""}>
+      <option value="">Qualquer</option>
+      {options.map((opt) => (
+        <option key={opt.key} value={opt.key}>
+          {opt.label}
+        </option>
+      ))}
+    </Select>
   );
 }

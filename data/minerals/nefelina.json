@@ -2,7 +2,7 @@
   "slug": "nefelina",
   "name": "NEFELINA",
   "rawName": "NEFELINA",
-  "formula": "(Na,K) (AlSiO4)",
+  "formula": "(Na,K)(AlSiO4)",
   "type": "TECTOSSILICATOS",
   "isClassSummary": false,
   "sections": [

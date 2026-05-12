@@ -4,6 +4,10 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { SectionKey } from "@/types/mineral";
 import PrintButton from "@/components/print-button";
+import ChemicalFormula from "@/components/chemical-formula";
+import { Badge } from "@/components/ui/badge";
+import { Separator } from "@/components/ui/separator";
+import { LinkButton } from "@/components/ui/button";
 import { loadMineral, allSlugs } from "@/lib/minerals";
 
 const SECTION_ORDER: SectionKey[] = [
@@ -40,51 +44,59 @@ export default async function MineralPage({ params }: PageProps) {
   });
 
   return (
-    <article className="space-y-6 print:space-y-4">
-      <nav className="text-sm text-zinc-500 print:hidden">
-        <Link href="/" className="hover:text-zinc-900">
+    <article className="space-y-10 print:space-y-6">
+      <nav className="text-sm text-[var(--color-muted)] print:hidden">
+        <Link
+          href="/"
+          className="transition-colors hover:text-[var(--color-ink)]"
+        >
           ← Voltar para pesquisa
         </Link>
       </nav>
 
-      <header className="border-b border-zinc-200 pb-4">
-        <h1 className="text-3xl font-semibold tracking-tight">{mineral.name}</h1>
+      <header className="space-y-4 border-b border-[var(--color-border)] pb-6">
+        <div className="flex flex-wrap items-center gap-2">
+          {mineral.type && <Badge variant="outline">{mineral.type}</Badge>}
+          {mineral.isClassSummary && (
+            <Badge variant="accent">Resumo de classe</Badge>
+          )}
+        </div>
+        <h1 className="font-serif text-5xl tracking-tight text-[var(--color-ink)] md:text-6xl">
+          {mineral.name}
+        </h1>
         {mineral.formula && (
-          <p className="mt-1 text-lg text-zinc-700">{mineral.formula}</p>
-        )}
-        {mineral.type && (
-          <p className="mt-1 text-sm text-zinc-500">{mineral.type}</p>
-        )}
-        {mineral.isClassSummary && (
-          <p className="mt-2 text-xs uppercase tracking-wide text-amber-700 bg-amber-50 inline-block px-2 py-1 rounded">
-            Página resumo de classe
+          <p className="text-xl text-[var(--color-ink-soft)] md:text-2xl">
+            <ChemicalFormula
+              formula={mineral.formula}
+              className="font-mono"
+            />
           </p>
         )}
       </header>
 
-      <div className="space-y-6">
+      <div className="space-y-8">
         {ordered.map((s, i) => (
-          <section key={`${s.key}-${i}`}>
+          <section key={`${s.key}-${i}`} className="space-y-3">
             {s.heading && (
-              <h2 className="text-base font-semibold text-zinc-800 mb-2">
-                {s.heading}
+              <h2 className="font-serif text-2xl text-[var(--color-ink)]">
+                {s.heading.replace(/:$/, "")}
               </h2>
             )}
-            <div className="whitespace-pre-wrap text-zinc-800 leading-relaxed">
+            <div className="whitespace-pre-wrap text-[15px] leading-relaxed text-[var(--color-ink-soft)]">
               {s.body}
             </div>
+            {i < ordered.length - 1 && (
+              <Separator className="mt-8 print:hidden" />
+            )}
           </section>
         ))}
       </div>
 
       <div className="flex gap-3 pt-4 print:hidden">
         <PrintButton />
-        <Link
-          href="/"
-          className="rounded-md border border-zinc-300 bg-white px-4 py-2 text-sm font-medium text-zinc-700 hover:bg-zinc-50"
-        >
+        <LinkButton href="/" variant="secondary">
           Voltar
-        </Link>
+        </LinkButton>
       </div>
     </article>
   );

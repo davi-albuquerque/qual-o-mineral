@@ -28,6 +28,10 @@
     "label": "Clivagem Perfeita"
   },
   {
+    "key": "colunar",
+    "label": "Colunar"
+  },
+  {
     "key": "compacto",
     "label": "Compacto"
   },
@@ -38,6 +42,10 @@
   {
     "key": "cristais",
     "label": "Cristais"
+  },
+  {
+    "key": "cristalino",
+    "label": "Cristalino"
   },
   {
     "key": "cubos",
