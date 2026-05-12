@@ -14,7 +14,7 @@ export default function ChemicalFormula({ formula, className }: Props) {
     <span className={className}>
       {tokens.map((t, i) =>
         t.type === "sub" ? (
-          <sub key={i} className="text-[0.7em]">
+          <sub key={i} className="align-sub text-[0.7em] leading-none">
             {t.value}
           </sub>
         ) : (
