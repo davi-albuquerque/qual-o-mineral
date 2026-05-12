@@ -1,0 +1,50 @@
+{
+  "slug": "magnesita",
+  "name": "MAGNESITA",
+  "rawName": "MAGNESITA",
+  "formula": "MgCO3",
+  "type": "CARBONATO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal - R, escalenoédrica-hexagonal. Raramente em cristais. Usualmente, criptocristalina, em massas brancas, terrosas, compactas; menos frequentemente, em massas granulares, suscetíveis de clivagem, de granulação grossa a fina."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem Perfeita {101´1} (ângulo de clivagem = 72°36').  Dureza 3,5 - 5,0. Densidade 3,0 - 3,2. Brilho vítreo ; Cor: branco, cinzento, amarelo e castanho. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Carbonato de  magnésio, MgCO3. CaO   30,4   - MgO  47,8  - CO2  52,2  por cento. O ferro ferroso substitui o magnésio, estendendo-se uma série completa até a siderita. podem estar presentes pequenas quantidades de cálcio e de manganês."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Depois de calcinação intensa, da reação alcalina fraca com papel de ensaio umedecido. O ácido clorídrico frio a ataca escassamente, mas se dissolve, com efervescência no ácido clorídrico quente."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "As variedades suscetíveis de clivagem distinguem-se da dolomita apenas por densidade relativa mais elevada e pela ausência de cálcio abundante. A variedade maciça, branca, assemelha-se a calcedônia impura, distinguindo-se dela por dureza inferior."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A magnesita existe comumente em veios e massas irregulares, derivada da alteração da serpentina através da ação de águas contendo ácido carbônico. Estas magnesitas são criptocristalinas, compactas e muitas vezes, contêm sílica opalina.  As camadas de magnesita cristalina, suscetível de clivagem são (1) de origem metamórfica, associadas com talco xistos, clorita xistos e mica xistos e (2) de origem sedimentar: as rochas calcíticas são substituídas por soluções contendo magnésio, formando-se a dolomita como um produto intermediário.\n\nOs depósitos notáveis do tipo sedimentar da magnesita estão na Mandchúria; em Satka, nos Montes Urais e na Estíria, na Áustria. O depósito mais famoso do tipo criptocristalino está na Ilha de Euboea, na Grécia.\n\nNos Estados Unidos, encontra-se a variedade compacta em massas irregulares, na serpentina, na Coast Range, na Califórnia. Encontram-se grandes massas do tipo sedimentar em Chewelah, em Stevens County, no Estado de Washington, e em Paradise Range, em Nye County, no Estado de Nevada.  Existem numerosas localidades de menor importância na região oriental dos Estados Unidos, nas quais a magnesita esta associada com  a serpentina, talco ou rochas dolomíticas."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "A magnesita calcinada, MgO, isto é, a magnesita que foi calcinada em uma temperatura elevada e contém menos do que 1 por cento de CO2, usa-se na fabricação de tijolos para revestimento de fornalhas.  A magnesita é a fonte de magnésia para a fabricação de produtos químicos. Foi usada, também como um minério de magnésio metálico, mas presentemente  toda  a produção de magnésio provém das salmoras e da água do mar."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Denomina-se assim, aludindo-se a sua composição."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "cobre",
+  "name": "COBRE",
+  "rawName": "COBRE",
+  "formula": "Cu",
+  "type": "METAL NATIVO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico; hexaoctaédrica. Comumente  com faces tetraexaédricas, também o cubo, o dodecaedro e o octaedro. Cristais usualmente malformados e em grupos ramificados e arborescentes. Usualmente em escamas, placas e massas irregulares. Em formas torcidas e semelhantes a fios."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 2,5 - 3. Densidade 8,90. Altamente dúctil e maleável. Fratura serrilhada. Cor: vermelho do cobre sobre superfície recente, usualmente escuro, com brilho apagado, por causa do embaciamento."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Cobre, contendo muitas vezes pequenas quantidades de prata, bismuto, mercúrio, arsênico e antimônio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao nº 3 (1.083 °C) na escala de fusibilidade, fundindo-se sob a forma de um glóbulo. Dissolve-se prontamente no ácido nítrico, tomando a solução uma cor azul intensa ao juntar-se um excesso de hidróxido de amônio."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos Diagnósticos:",
+      "body": "O cobre nativo pode ser reconhecido por sua cor vermelha nas superfícies recentes, sua fratura serrilhada, densidade relativa alta e maleabilidade."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Distribui-se o cobre nativo amplamente em filões de cobre, mas usualmente em pequenas quantidades. Encontram-se comumente, nas zonas oxidadas dos depósitos de cobre, associado com a cuprita, malaquita e azurita.\n\nO depósito de cobre nativo mais notável conhecido no mundo está na península de Keweenaw, no norte de Michigan, na margem meridional do Lago Superior. A região é constituída por uma série de derrames magmáticos, em degraus, intercalados com conglomerados. Toda a série mergulha na direção norte. Acha-se o cobre nos filões que cortam esta série de rochas, nas faixas amigdalóides situadas no topo de vários dos derrames, e como material de cimentação no conglomerado. Este último tipo forneceu os depósitos de minério mais importantes, tendo sido alguns trabalhados bem mais de um quilometro e meio de profundidade. O cobre  atuou não somente como cimento para unir o conglomerado, mas penetrou muitas vezes nos matacões da rocha a uma profundidade de 30 cm ou mais. está associado com minerais como o epídoto, a datolita, a calcita e várias zeólitas.\n\nEncontram-se ocorrências esporádicas, semelhantes  à do distrito do Lago Superior, nas áreas de arenito da região oriental dos Estados Unidos, notavelmente em Nova Jersey, e no depósito glacial que cobre uma área semelhante, em Connecticut. Na Bolívia, em Corocora, a sudoeste de La Paz, existe ocorrência notável no arenito. O cobre nativo ocorre em pequenas quantidades, associado com minérios de cobre oxidade, no Arizona, Novo México e México setentrional."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de cobre secundário, Os sulfetos de cobre são hoje os principais minérios do metal. Usa-se o cobre principalmente para fins elétricos, especialmente sob a forma de fios. Usa-se também amplamente em ligas, como o latão (cobre e zinco), o bronze (cobre e estanho com algum zinco) e prata alemã (argentão) (cobre, zinco e níquel). Estes e muitos outros empregos de menor importância fazem do cobre o segundo metal, em essencialidade, da civilização moderna, o primeiro sendo o ferro"
+    }
+  ]
+}

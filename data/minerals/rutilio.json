@@ -1,0 +1,55 @@
+{
+  "slug": "rutilio",
+  "name": "RUTÍLIO",
+  "rawName": "RUTÍLIO",
+  "formula": "TiO2",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Tetragonal; bipiramidal-ditetragonal. Os cristais prismático com terminações bipiramidais são comuns. Estriados verticalmente. Frequentemente em geminados configurados em cotovelo, repetidos muitas vezes. O plano de geminação é a bipirâmide de segunda ordem {011}. Os cristais frequentemente aciculares, delgados. Também compacto, maciço."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 6,0 - 6,5 ;  Densidade 4,18 -  4,25.  Brilho adamantino a submetálico. Cor: vermelho, castanho-avermelhado a preto. Traço castanho-pálido. Usualmente subtranslúcido, podendo ser transparente."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Bióxido de titânio,  TiO2.   Ti 60  -  O 40 por cento. Usualmente está presente um pouco de ferro, podendo elevar-se sua quantidade a 10%."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível.  Insolúvel.  Depois de fusão com carbonato de sódio, pode ser dissolvido em ácido sulfúrico, tornando-se a solução de cor amarela, quando se adiciona peróxido de hidrogênio (titânio)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizado por seu brilho adamantino peculiar e cor vermelha. Distingue-se da cassiterita por sua densidade relativa mais baixa."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Encontra-se o rutilo no granito, nos pegmatitos graníticos, gnaisse, mica-xistos, calcários metamórficos e dolomita. Pode estar presente como mineral acessório na rocha, ou em filões de quartzo que a atravessam. Ocorre, muitas vezes, como cristais delgados que penetram no quartzo. Encontrado em quantidades consideráveis nas areias negras, associado com magnetita, zircão e manazita.\n\nAs localizações notáveis na Europa são: Krägerö, na Noruega;  Yrieix, perto de Limoges, na França; na Suíça e no Tirol. O rutilio oriundo das minas nas áreas costeiras da região norte da Nova Gales do Sul e do sul de Queensland, faz da Austrália o seu maior produtor. Nos Estados Unidos, cristais dignos de nota procedem de Montanha Graves, em Lincoln County, no Estado da Geórgia. Encontrados também em Alexander County, no Estado da Carolina do Norte e em Magnet Cove, em Arkansas. Tem sido expolorado em Amherst e Nelson Counties, no Estado de Virgínia e derivado em quantidades comerciais das areias pretas do nordeste da Flórida.\n\nArtificial:  Fabricam-se cristais de rutílio pelo processo Verneuil. Co o tratamento técnico adequado, podem tornar-se transparentes e quase incolores, inteiramente diferentes do mineral natural. Por causa de seu índice de refração elevado e alta dispersão, este material sintético fornece uma gema bonita tendo apenas leve tonalidade amarela. É vendida sob uma variedade de nomes, sendo os seguintes os melhores conhecidos: titânia, gêma do Kênia e miridis."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Usa-se a maior parte do rutílio produzido como revestimento de hastes de solda. Emprega-se em ligas algum titânio derivado do rutilo; em eletrodos, em arcos voltáticos; para dar cor amarela a porcelana e aos dentes postiços. Usa-se o óxido fabricado, como pigmento, na pintura  (ver ilmenita)."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém  do latim, rutilus, em alusão à cor."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A octaedrita ou anatásio (tetragonal) e a brookita (ortorrômbico) são formas polimorfas do TiO2.\n\nA  peroskita, CaTiO3, é um mineral de titânio, isométrico, encontrado usualmente nas rochas metamórficas."
+    }
+  ]
+}

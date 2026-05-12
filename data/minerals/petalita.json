@@ -1,0 +1,60 @@
+{
+  "slug": "petalita",
+  "name": "PETALITA",
+  "rawName": "PETALITA",
+  "formula": "Li(AlSi4O10)",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "GRUPO DOS FELDSPATÓIDES"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os feldspatóides são quimicamente semelhantes aos feldspatos, porque são aluminossilicatos de potássio, de sódio e de cálcio, como elementos principais, mais com quantidades menores de outros íons. A princiapl diferença química entre os feldspatóides e os feldspatos reside no conteúdo de sílica. Os feldspatóides contêm cerca de dois terços da sílica existente nos feldspatos alcalinos e, por isto, tendem a formar soluções ricas em álcalis (sódio e potássio) e pobres em sílica. Suas estruturas são de aluminossilicatos tridimensionais em cujos interstícios estão os catíons; ocasionalmente, hospedam também aníons raros. Assim, na sodalita, o cloro é um constituinte essencial e na, carcrinita, o íon carbonato, ao passo que a noseana contém sulfato, e a lazurita, sulfato, sulfeto e íons de cloro.  As fórmulas destes minerais podem ser concebidas como constituídas por três fórmulas, em peso, de nefelina (NaAlSiO4) para uma fórmula em peso, de NaCl, relativamente à sodalita; uma fórmula, em peso, de Na2SO4, para a noseana, etc.  As estruturas não mostram, naturalmente, esta relação simples e os aníons estranhos estão incluídos  simplesmente nos espaços abertos da estrutura bem espaçosa do aluminossilicato."
+    },
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; domática. Crsiatis raros, achatados sobre {010} ou alongados segundo [100]. Usualmente maciça ou em massas laminadas suscetíveis de clivagem."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {001} perfeita, {201} boa. Fratura concóide imperfeita. Quebradiça. Dureza  6,0 - 6,5. Densidade  2,4. Brilho vítreo; nacarado sobre {001}. Incolor, branca, cinzenta. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de alumínio e lítio, Li(AlSi4O10).  LiO  4,9  -  Al2O3  16,7   - SiO2  78,4   por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 5 na escala de fusibilidade, produzindo a chama vermelha do lítio. Quando aquecida levemente, emite luz fosforescente azul. Insolúvel em ácidos."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por seu hábito em placas. Distingue-se do espodumênio por sua clivagem e sua densidade relativa menor."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A petalita encontra-se em pegmatitos, nos quais está associada ao quartzo e aos minerais portadores de lítio: espodumênio, turmalina e lepidolita. Até a metade do século XX, foi considerado um mineral bem raro, tendo sido assinalado em Utö, na Suécia;  em Peru, no Estado do Maine, e com a escapolita, em Bolton, Estado de Massachusetts. As descobertas recentes da petalita na Rodésia do Sul e na África do Sudeste tornaram-na um mineral abundante. Nestas localidades, associada à lepidolita e a eucriptita, é explorada extensamente."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de lítio importante."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Do grego folha em alusão a clivagem."
+    }
+  ]
+}

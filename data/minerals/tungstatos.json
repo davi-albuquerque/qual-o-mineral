@@ -1,0 +1,45 @@
+{
+  "slug": "tungstatos",
+  "name": "TUNGSTATOS",
+  "rawName": "TUNGSTATOS",
+  "formula": null,
+  "type": null,
+  "isClassSummary": true,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os íons hexavalentes do tungstênio e do molibdeno (Raio iônico de ambos = 0,62 A°) são consideravelmente maiores do que os do enxofre hexavalente e os do fósforo pentavalente. Em consequência, quando estes íons entram em grupos iônicos anisodésmicos com o oxigênio, os quatro íons entram em grupos iônicos anisodésmicos com o oxigênio, os quatro íons coordenados de oxigênio não ocupam os vértices dos tetraedricos regulares, como ocorre nos sulfatos e nos fosfatos, mas formam um agrupamento algo achatado de contorno quadrado. Embora o W 184 tenha um peso atômico muito maior do que o Mo 96, ambos pertencem à mesma família da tabela periódica e, por causa da contração lantânida, tem os mesmos raios iônicos. Como resultado disto, cada um pode substituir livremente o outro na qualidade de cátion coordenador nos agrupamentos de oxigênio, tetraédricos, arqueados. Na Natureza, todavia, o funcionamento dos processos de diferenciação geoquímica separa, muitas vezes, estes elementos, talvez por causa de seus pesos atômicos muito diferentes, e não é raro encontrar tungstatos primários quase inteiramente isentos de molibdeno e virce-versa. Nos minerais secundários, os dois elementos estão associados mais comumente, em relações de solução sólida, um com outro."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os minerais desta classe química distribuem-se em dois grupos isoestruturais principais. O grupo da wolframita consiste em pequenos cátions bivalentes, como o ferro, manganês, magnésio, níquel e cobalto, em coordenação 6 com os íons tungstato. Observa-se nos minerais solução sólida completa entre o ferro ferroso e o manganês bivalente."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "O grupo da scheelita contém compostos de íons bivalentes maiores, como o cálcio e o chumbo, em coordenação 8 com os íons tungstato e molibdato. O tungstênio e o molibdeno podem substituir-se mutualmente, formando séries parciais entre a scheelita, CaWO4, e a powellita, CaMoO4; e entre a stolzita, PbWO4 e a wulfenita, PbMoO4. A substituição entre si do cálcio e do chumbo forma série parcial entre a scheelita e a stolzita e entre a powellita e a wulfenita."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Tungstatos e Molibdatos"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Wolframita                                                  (Fe,Mn)WO4"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Scheelita                                                    CaWO4"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Wulfenita                                                    PbMoO4"
+    }
+  ]
+}

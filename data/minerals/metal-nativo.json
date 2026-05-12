@@ -1,0 +1,90 @@
+{
+  "slug": "metal-nativo",
+  "name": "METAL NATIVO",
+  "rawName": "METAL NATIVO",
+  "formula": null,
+  "type": null,
+  "isClassSummary": true,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "É adequado que a mineralogia descritiva comece com uma discussão do grupo do ouro, porque o conhecimento humano das propriedades e utilidade dos metais se originou da descoberta casual de pepitas e massas desses minerais. Muitas culturas primitivas, relativamente avançadas, como a aneríndia, restringiram-s, em seu uso de metal, ao que acharam no seu estado nativo."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "os elementos do grupo do ouro pertencem à mesma família na classificação periódica dos elementos, e portanto, seus átomos tem propriedades, química algo semelhantes; todos são suficientemente inertes para ocorrerem livres na natureza. Quando não estão combinados com outros elementos, os átomos destes cristais estão unidos em estruturas cristalinas mediante ligação metálica relativamente fraca. Os minerais são isoestruturais e construídos em retículo cúbico de faces centradas com átomos idênticos em coordenação 12."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As propriedades semelhantes dos membros deste grupo originam-se da estrutura comum. Todos são relativamente moles;  todos são maleáveis, dúcteis e sécteis. Todos são excelentes condutores de calor e eletricidade, exibem brilho metálico e fratura serrilhada, tendo pontos de fusão bem baixos. Estas propriedades são conferidas pela ligação metálica. Todos são isométricos, hexaoctaédricos, e tem densidades muito elevadas. Estas propriedades provêm do empacotamento muito econômico, chmado empacotamento cúbico compacto."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As propriedades, relativamente às quais diferem os minerais deste grupo, originam-se das dos átomos dos elementos individuais. Assim, o amarelo do aouro, o branco da prata, o vermelho docobre são propriedades atômicas. As densidades relativas dependem igualmente das propriedades atômicas e mostram proporcionalidade aproximada para com os pesos atômicos."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os membros deste grupo são isoestruturais e o fator dominante que controla a solução sólida entre eles é o raio atômico. Assim, o ouro e a prata, com o mesmo raio atômico (1,44A°), apresentam solubilidade sólida mútua, completa, mas ordinariamente contêm apenas quantidades de cobre pequenas (raio atômico 1,28 A°). Inversalmente, o cobre nativo tem somente traços de ouro e prata na solução sólida."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os membros do grupo da platina, dos quais somente esta será tratada neste estudo, são mais duros e tem pontos de fusão mais alto do que os do grupo do ouro. A platina assemelha-se em sua estrutura ao ouro."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os cristais dos metais do grupo do ferro, embora isométricos, tem um retículo cúbico de corpo centrado em que cada átomo toca os outros oito. Sua estrutura é assim semelhante à do cloreto de césio. O ferro e o níquel têm ambos raios atômicos de 1,24 A°, podendo o ferro substituir, de maneira parcial e, usualmente o faz, o níquel. Esta solução sólida, ferro-níquel, é particularmente característica dos meteoritos de ferro, acreditando-se que constitua grande parte do núcleo da terra."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "METAIS NATIVOS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo do Ouro:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Ouro           Au"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Prata          Ag"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Cobre         Cu"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo da Platina:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Platina        Pt"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo de Ferro:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Ferro          Fe"
+    }
+  ]
+}

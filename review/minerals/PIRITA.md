@@ -1,0 +1,43 @@
+# PIRITA
+
+**Fórmula:** FeS2
+
+**Tipo:** SULFETO
+
+## Cristalografia:
+
+Isométrico, diploédrica. Frequentemente em cristais. As formas mais comuns são o cubo, tendo as faces usualmente estriadas; as estrias nas faces adjacentes são perpendiculares entre si; o piritoedro e octaedro, podem ser geminado de penetração, conhecido como cruz de ferro (com {011} sendo o plano de geminação). Apresenta-se também maciça, granular, reniforme, globular e estalactítica.
+
+A pirita tem um tipo modificado de estrutura do NaCl, com Fe ocupando a posição do Na e com os grupos S2, a do Cl. Os pares de enxofre estão juntos ao longo dos eixos ternários e cada enxofre de um par troca três átomos de ferro. Cada átomo de ferro é rodeado por seis átomos de enxofre. Notar-se-á que somente um par de enxofre, em quatro, se situa ao longo de um dado eixo ternário.
+
+## Propriedades físicas:
+
+Quebradiça. Dureza: 6,5 (de dureza pouco comum para um sulfeto); Densidade  5,02. Brilho metálico, reluzente. Cor : amarelo do latão, pálido; pode ser mais escuro pelo embaçamento. Traço: esverdeado ou preto acastanhado. Opaca.
+
+## Composição:
+
+Bissulfeto de ferro, FeS2. Fe  46,6  -  S 53,4 por cento.  Pode conter pequenas quantidades de níquel e cobalto.  Algumas análises mostram níquel em quantidade considerável, podendo existir um série completa de solução sólida, entre a pirita e a bravolita (Ni,Fe)S2. Contém frequentemente quantidades diminutas de ouro e cobre, mas provavelmente como impurezas microscópicas.
+
+## Ensaios:
+
+Situa-se além do meio caminho entre os números 2 e 3 da escala de fusibilidade, produzindo um glóbulo magnético. Produz muito enxofre no tubo fechado. Desprende anidrito sulfuroso quando aquecida no tubo aberto ou sobre o carvão vegetal.
+
+## Aspectos diagnósticos:
+
+Distingue-se da calcopirita por sua cor mais pálida e pelo fato que não pode ser riscada pelo aço; do ouro, por sua fragilidade e dureza, e da marcassita por sua cor mais escura e forma cristalina.
+
+Alteração:    A pirita altera-se facilmente dando óxidos de ferro, usualmente, limonita. Em geral, todavia, é muito mais estável do que a marcassita. São comuns os cristais pseudomorfos de limonita sobre a pirita. Os filões de pirita estão recobertos usualmente por um depósito celular de limonita, denominado gossan. As rochas que contém pirita são impróprias para as construções porque a pronta oxidação daquele mineral serviria não só para desintegrar a rocha, mas também para mancha-la, com o óxido de ferro produzido.
+
+## Ocorrência:
+
+A pirita é o sulfeto mais comum e disseminado. Formou-se tanto nas temperaturas altas como baixas, mas as massas maiores se formaram provavelmente em temperaturas altas. Ocorre como segregação magmática direta e como um mineral acessório na rocha ígnea, também em depósitos de filões e metamórficos de contato. A pirita é um mineral comum nas rochas sedimentares, sendo tanto de origem primária como secundária. Está associada com muitos minerais, sendo encontrada, mais frequentemente com a calcopirita, a esfalerita e a galena.
+
+Em Rio Tinto a alhures na Espanha, também em Portugal, ocorrem depósitos grandes e extensamente desenvolvidos. Nos estados Unidos, os depósitos importantes de pirita estão em Prince William, Louisa e Pulaski Counties; em St. Lawrence County, no Estado de Nova York, na mina Davis, perto de Charlemont, em Massachusetts e em vários lugares na Califórnia, no Colorado e no Arizona.
+
+## Uso:
+
+Explora-se muitas vezes a pirita pelo ouro ou cobre associados. por causa da grande quantidade de enxofre presente no mineral, usam-no como minério de ferro somente nos países onde não se dispõe de minérios de óxido de ferro. É usada principalmente parta fornecer enxofre para a fabricação de ácido sulfúrico e caparrosas (sulfato ferroso). O ácido sulfúrico é talvez o produto químico mais importante de todos, sendo usado para muitos fins diferentes, dos quais alguns dos mais importantes são a purificação do querosene e a preparação dos fertilizantes minerais. O gás SO2 derivado seja pela queima do enxofre, seja pela calcinação da pirita, usa-se extensamente na preparação da polpa de madeira para a fabricação do papel. Usam-se as caparrosas na tinturaria, na manufatura de tintas, como preservativo da madeira e como desinfetante.
+
+## Nome:
+
+O nome pirita provém do grego, significando fogo, aludindo-se ao fato que, quando golpeada com aço, emite fagulhas brilhantes.

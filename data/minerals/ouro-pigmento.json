@@ -1,0 +1,50 @@
+{
+  "slug": "ouro-pigmento",
+  "name": "OURO-PIGMENTO",
+  "rawName": "OURO-PIGMENTO",
+  "formula": "As2S3",
+  "type": "SULFETO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismática. Cristais pequenos tabulares ou prismáticos curtos e raramente distintos. Usualmente, em massas laminadas ou colunares."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem perfeita {010}, lâminas de clivagem flexíveis mas não elásticas. Séctil. Dureza: 1,5 - 2,0; Densidade  3,49. Brilho resinoso, nacarado na face de clivagem. Cor: amarelo do limão. Translúcido."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Trissulfeto de arsênico, As2S3 - As 61  -  S 39 por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Na escala de fusibilidade, corresponde ao número 1. Aquecido sobre carvão vegetal, produz um sublimado branco, volátil, de óxido arsenioso, com odor de alho característico. calcinado no tubo aberto, dá sublimado cristalino, volátil, de óxido arsenioso e odor de anidrido sulfuroso."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizado por sua cor amarela e estrutura laminada. Distingue-se do enxôfre por sua clivagem perfeita."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O ouro-pigmento é um mineral raro, associado, usualmente com o realgar e formado sob condições semelhantes. Encontrado em vários lugares na Rumânia, no Kurdistão, no Peru, no Japão, etc. Nos Estados Unidos, ocorre em Mercur, no Utah e em Manhattan, no Estado de Nevada. Depositado com o realgar, existentes ambos nas águas dos gêiseres de Norris Geyser Basin, no Parque Nacional de Yellowstone."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Usado na tinturaria e em um preparado para a remoção de cabelos das peles. Usa-se amplamente o sulfeto de arsênico artificial em lugar do mineral. No passado, usavam-se o realgar e o ouro-pigmento como pigmentos, mas não os empregam mais presentemente, por causa de sua natureza venenosa."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado do latim, auripigmentum, \"pigmento de ouro\", aludindo-se a sua cor e porque se supunha que a substância continha ouro."
+    }
+  ]
+}

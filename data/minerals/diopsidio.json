@@ -1,0 +1,50 @@
+{
+  "slug": "diopsidio",
+  "name": "DIOPSÍDIO",
+  "rawName": "DIOPSÍDIO",
+  "formula": "CaMg(Si2O6)",
+  "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico, prismática. Em cristais prismáticos, mostrando seção transversal com oito lados, ou quadrada. Também, maciça, granular, colunar e lamelar. Frequentemente, geminado polissinteticamente segundo {001}; menos comumente geminado segundo {100}"
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem prismática, {110}, imperfeita. Com frequ~encia, partição paralela ao pinacóide basal {001} e emnos comumente, paralela a {100}. A partição segundo o pinacóide frontal é caracter´sitica da variedade dialágio. Dureza 5,0 - 6,0. Densidade 3,2 - 3,3. Cor: branco a verde-claro; escurece com o aumento do ferro. Brilho vítreo. Transparente a translúcido."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de  cálcio e magnésio, CaMg(Si2O6).  CaO  25,9  - MgO  18,5  - SiO2  55,6  por cento.  O magnésio pode ser substituído pelo ferro ferroso, em todas as proporções, e existe uma série completa entre o diopsídio e a hedenbergita, CaFe(Si2O6)."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 4 na escala de fusibilidade. Funde-se produzindo um vidro verde. Insolúvel nos ácidos. Com fluxos, dá os ensaios para o cálcio e  magnésio."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Carcaterizado pela sua forma cristalina, côr clara e clivagem prismática imperfeita, formando ângulos de 87° e 93°."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O diopsídio é encontrado, característicamente, como mineral metamórfico de contato, nos calcários cristalinos. Nesses depósitos, está associado com atremolita, escapolita, idiocrásio, granada e titanita. Encontrado, também em rochas metamorfoseadas regionalmente. Encontra-se a variedade diálogio, com frequência nos gabros, peridotitos e serpentinas.\n\nNos Montes Urais, na Rússia, têm sido encontrados belos cristais; também, no Tirol Austríaco; em Binnenthal, na Suíça e no Piemonte na Itália. Em Nordmark, na Suécia, belos cristais alinham-se entre o diopsídio e a hedenbergita. Encontrado nos Estados Unidos, em Canaan, Litchfield County, no Estado de Connecticut; e em DeKalb Junction e Gouverneur, St. Lawrence County, no de Nova Iorque."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "As variedades transparentes do diopsídio, após lapidação, usam-se como pedras preciosas."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém de duas palavras gregas com a significação dupla e aparência, dado que a zona prismática vertical pode estar orientada, aparentemente, em duas direções."
+    }
+  ]
+}

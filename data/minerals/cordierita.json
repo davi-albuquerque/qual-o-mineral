@@ -1,0 +1,50 @@
+{
+  "slug": "cordierita",
+  "name": "CORDIERITA",
+  "rawName": "CORDIERITA",
+  "formula": "Mg2Al3(AlSi5O18)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Ususalmente, os cristais são geminados curtos, prismáticos, pseudo-hexagonais. Também com grãos embutidos e maciça."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem pinacoidal {010} má. Dureza 7,0 - 7,5. Densidade 2,60 - 2,66. Brilho vítreo. Cor: difrentes tonalidades do azul. Transparente a translúcida. Mostra pleocroísmo."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de alumínio e alumínio,  Mg2Al3(AlSi5O18). O ferro ferroso e o manganês podem substituir parcialmente o magnésio, o ferro férrico, em parte, o alumínio. Também a água pode estar presente."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se entre os números  5,0 e 5,5  na escala de fusibilidade.Atacada pelos ácidos só parcialmente."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A cordierita assemelham-se ao quartzo, distinguindo-se dele com dificuldade. Diferentemente do quartzo, funde-se nas bordas delgadas. Distingue-se do coríndon pela dureza menor. Se observado, o pleocroísmo é característico.\n\nAlteração:   Alterada. muito comumente, em alguma forma de mica, clorita ou talco, exibindo, então, várias tonalidades de verde-acinzentado."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Encontra-se a cordierita como mineral acessório, no granito, gnaisse (cordierita gnaisse), xistos e nas zonas metamórficas de contato. As localidades notáveis por sua ocorrência são: a Bavária, Filândia, Groelândia e madagascar. Do Ceilão, tem vindo material com qualidade de gema. Nos Estados Unidos, encontra-se, principalmente, nos Estados de Connecticut e New Hampshire."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "A cordierita transparente, de boa cor, tem sido usada, como gema, sendo conhecida entre os joalheiros por safira de água."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em homenagem ao geólogo francês, P. L. A. Cordier (1777 - 1861)."
+    }
+  ]
+}

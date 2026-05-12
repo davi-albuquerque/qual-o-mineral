@@ -1,0 +1,49 @@
+# GALENA
+
+**Fórmula:** PbS
+
+**Tipo:** SULFETO
+
+## Cristalografia:
+
+Isométrico; hexaoctaédrica. A forma mais comum é o cubo. Algumas vezes, o octaedro esta presente como truncaturas do cubo. São raros os dodecaedro e o trioctaedro.
+
+A galena tem um tipo de estrutura do NaCl, com o Pb em lugar do Na e o S, no do Cl.
+
+## Propriedades físicas:
+
+Clivagem Perfeita {001}, Dureza 2,5 .Densidade: 7,4-7,6.  Brilho metálico reluzente. Cor e Traço: cinza do chumbo.
+
+## Composição:
+
+Sulfeto de chumbo PbS. Pb 86,6 - S 13,4 por cento. Usualmente, a prata esta presente, com probabilidade sob a forma de misturas de minerais de prata como a argentita ou a tetraedrita. A galena pode conter também pequenas quantidades de zinco, cádmio, antimônio, bismuto e cobre. O enxofre pode ser substituído pelo selênio, tendo sido referida uma série completa de PbS - PbSe.
+
+## Ensaios:
+
+Corresponde ao número 2 da escala de fusibilidade. Reduzida sobre o carvão vegetal a um glóbulo de chumbo, com formação de uma auréola de óxido de chumbo, indo do amarelo ao branco. Quando a galena é aquecida rapidamente na chama oxidante, a auréola é mais pesada e consiste principalmente em uma combinação branca, volátil, de óxidos de chumbo e enxofre, que se assemelha à auréola do óxido de antimônio. Odor de anidrido sulfuroso, quando calcinada sobre o carvão vegetal.
+
+## Aspectos diagnósticos:
+
+A galena pode ser reconhecida facilmente por sua boa clivagem, densidade relativa elevada, maciez e traço cinza do chumbo.
+
+Alteração:   Pela oxidação, a galena se converte em sulfato, anglesita, e em carbonato, cerussita.
+
+## Ocorrência:
+
+A galena é um sulfeto metálico muito comum, encontrada em veios, associada com a esfalerita, pirita, marcassita, calcopirita, cerussita, anglesita, dolomita, calcita, quartzo, barita e fluorita. Quando encontrada em filões que mostram ligações estreita com as rochas ígneas, a galena esta associada frequentemente com minerais de prata; contém muitas vezes a própria prata, tornando-se assim minério de prata importante. Uma grande parte do suprimento de chumbo origina-se, como produto secundário, dos minérios explorados principalmente por causa de sua prata. Um segundo tipo de depósito de galena está associado com calcários, seja como veios, preenchendo espaços abertos, ou como depósitos de substituição. Os depósitos de substituição em calcários, acompanham -se comumente de uma dolomitização da rocha, e podem não ter associação aparente com as rochas ígneas. Encontra-se também a galena nos depósitos metamórficos de contato.
+
+As localidades estrangeiras mais famosas são: Freiberg, na Saxônia; as Montanhas do Harz; Westfália e Nassau; Pribram, na Boêmia; Cornwall, Derbyshire, e Cumberland, na Inglaterra, e Broken Hill na Austrália.
+
+Nos Estados Unidos, existem muitos distritos produtores de chumbo; mencionam-se aqui somente os mais importantes. No Sudeste do Missouri, o minério ocorre sob a forma de camadas com a galena disseminada através do calcário. No distrito triestadual de Missouri, Kansas e Oklahoma, tendo como centro Joplin, no Missouri, a galena está associada com minérios de zinco, encontrando-se em veios e bolsões irregulares no calcário e no sílex. Encontra-se de maneira semelhante, mas em menor quantidade, em Illinois, Iowa e Wisconsin. Os depósitos do sudeste do Missouri são particularmente produtivos. Em Idaho, um importante estado produtor, o chumbo deriva principalmente de depósitos de veios plumbo-argentíferos, localizados perto de Wallace, em Shoshone County. Produz-se o chumbo em Utah, na localidade de Brigham, e também dos depósitos de prata dos distritos de Tintic e Park City; no Colorado, principalmente dos minérios prata-chumbo do distrito de Leadville.
+
+## Uso:
+
+Praticamente, a única fonte de chumbo, e um minério importante de prata. O chumbo metálico é usado principalmente: para conversão em branco de chumbo (carbonato básico de chumbo), principal ingrediente de muitas tintas brancas, ou em óxidos (litargírio, PbO, e mínio, Pb3O4), usados na fabricação de vidros e em dar brilho a cerâmica; como tubos e folhas, e para chumbo de caça. É um ingrediente principal de várias ligas como a solda (chumbo e estanho), metal para tipos (chumbo e antimônio) e ligas de baixa fusão (chumbo, bismuto e estanho). Usam-se grandes quantidades de chumbo metálico em acumuladores, e como proteção no trabalho com o urânio e outras substâncias radioativas.
+
+## Nome:
+
+O nome galena derivou-se da palavra latina galena, dado originalmente ao minério de chumbo.
+
+## Espécies semelhantes:
+
+A altaíta, PbTe, e a alabandita, MnS, como a galena, tem uma estrutura do tipo NaCl.

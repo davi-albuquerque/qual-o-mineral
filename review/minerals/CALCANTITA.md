@@ -1,0 +1,35 @@
+# CALCANTITA
+
+## Cristalografia:
+
+Triclínico; pinacoidal. Encontrada em cristais comumente tabulares, paralelamente a {111}. Também maciça, estalactítica e reniforme, pode ter aparência fibrosa..
+
+## Propriedades físicas:
+
+Dureza  2,5 ;  Densidade 2,12 - 2,30. Brilho  vítreo. Cor: azul-celeste intenso. Transparente a translúcido. Sabor metálico.
+
+## Composição:
+
+Sulfato de cobre  hidratado. CuSO4. 5H2O.  -  CuO  31,8  - SO3  32,1  - H2O 36,1  por cento.
+
+## Ensaios:
+
+Não é fusível. Produz um glóbulo de cobre quando fundida com carbonato de sódio sobre o carvão vegetal. Solúvel na água. No tubo fechado, torna-se branca e produz muita água.
+
+## Aspectos diagnósticos:
+
+Caracterizada por sua cor azul, sabor metálico e solubilidade na água.
+
+## Ocorrência:
+
+A calcanita ocorre raramente; encontrada somente em regiões áridas, como mineral supérgeno, situando-se próximo da superfície nos filões de cobre. Deriva, por oxidação, dos sulfetos de cobre originários. Muitas vezes, depositada sobre o ferro pelas águas, nas minas de cobre.
+
+Encontra-se a calcantita abundantemente em Chuquicamata e em outras localidades áridas no Chile, onde tem servido como minério importante. Outras ocorrências carecem de importância do ponto de vista comercial.
+
+## Uso:
+
+A calcantita é um minério de cobre secundário. O vitríolo azul artificial é empregado na estampagem de tecidos, nos elementos galvânicos, como inseticida e para fins industriais.
+
+## Nome:
+
+Provém de duas palavras gregas significando latão e flor.

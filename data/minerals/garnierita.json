@@ -1,0 +1,50 @@
+{
+  "slug": "garnierita",
+  "name": "GARNIERITA",
+  "rawName": "GARNIERITA",
+  "formula": "(Ni,Mg)SiO3.nH2O",
+  "type": "FILOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Aparentemente amorfa. Encontrada sob a forma de incrustações e de massas terrosas."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 2,0 - 3,0. Densidade 2,2 - 2,8. Brilho terroso e opaco. Cor: verde da maçã a branco."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um silicato de magnésio e níquel hidratado, (Ni,Mg)SiO3.nH2O."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível, tornando-se magnética, entretanto, pelo aquecimento. O ácido clorídrico a decompõe com dificuldade, dando sílica separada. Na chama oxidante, confere à pérola de bórax a cor parda. No tubo fechado, fica preta e produz água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracteriza-se por sua cor verde da maçã, seu brilho terroso e pela falta de estrutura cristalina."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A  garnierita é um mineral de origem secundária, associado com a serpentina, e provavelmente um produto de alteração de peridotitos que contém níquel. Encontrada em quantidade  considerável, associada com a serpentina e a cromita, próximo de Numéia, na Nova Caledônia. Também no Transvaal, na Rússia, na África do Sul e em Madagascar. Encontrada nos Estados Unidos, em Riddle, no Estado de Oregon e em Webster, no da Carolina do Norte."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de níquel."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra de Jules Garnier, o descobridor do mineral."
+    }
+  ]
+}

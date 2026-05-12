@@ -1,14 +1,10 @@
-// Technical sheet route. Loads the JSON for a slug and renders sections in fixed order.
+// Technical sheet route — loads <slug>.json from data/minerals/.
 
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import type { Mineral, SectionKey } from "@/types/mineral";
-import quartzoJson from "@/data/minerals/quartzo.json";
+import type { SectionKey } from "@/types/mineral";
 import PrintButton from "@/components/print-button";
-
-const KNOWN: Record<string, Mineral> = {
-  quartzo: quartzoJson as Mineral,
-};
+import { loadMineral, allSlugs } from "@/lib/minerals";
 
 const SECTION_ORDER: SectionKey[] = [
   "cristalografia",
@@ -24,20 +20,24 @@ const SECTION_ORDER: SectionKey[] = [
   "outros",
 ];
 
+export async function generateStaticParams() {
+  return allSlugs().map((slug) => ({ slug }));
+}
+
 interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
 export default async function MineralPage({ params }: PageProps) {
   const { slug } = await params;
-  const mineral = KNOWN[slug];
+  const mineral = loadMineral(slug);
   if (!mineral) notFound();
 
-  const ordered = [...mineral.sections].sort(
-    (a, b) =>
-      SECTION_ORDER.indexOf(a.key as SectionKey) -
-      SECTION_ORDER.indexOf(b.key as SectionKey),
-  );
+  const ordered = [...mineral.sections].sort((a, b) => {
+    const ia = SECTION_ORDER.indexOf(a.key as SectionKey);
+    const ib = SECTION_ORDER.indexOf(b.key as SectionKey);
+    return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+  });
 
   return (
     <article className="space-y-6 print:space-y-4">
@@ -54,6 +54,11 @@ export default async function MineralPage({ params }: PageProps) {
         )}
         {mineral.type && (
           <p className="mt-1 text-sm text-zinc-500">{mineral.type}</p>
+        )}
+        {mineral.isClassSummary && (
+          <p className="mt-2 text-xs uppercase tracking-wide text-amber-700 bg-amber-50 inline-block px-2 py-1 rounded">
+            Página resumo de classe
+          </p>
         )}
       </header>
 

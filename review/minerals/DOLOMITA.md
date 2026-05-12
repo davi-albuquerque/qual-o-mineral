@@ -1,0 +1,43 @@
+# DOLOMITA
+
+**Fórmula:** CaMg(CO3)2
+
+**Tipo:** CARBONATO
+
+## Cristalografia:
+
+Hexagonal - R, Usualmente os cristais são o romboedro fundamental, mais raramente um romboedro agudo e base. Frequentemente as faces são curvas, algumas de tal forma que formam cristais configurados em sela de montar. Outras formas são raras. Em massas susceptíveis de clivagem e de granulação grossa. Também em massas de granulação fina e compactas.
+
+## Propriedades físicas:
+
+Clivagem Perfeita {101´1} (ângulo de clivagem = 73°45').  Dureza 3,5 - 4,0. Densidade 2,85. Brilho vítreo ; nacarado em algumas variedades, espato nacarado. Cor: usualmente alguma tonalidade do róseo, cor da carne, pode ser incolor, branco, cinzento, verde, castanho ou preto. Transparente a translúcida.
+
+## Composição:
+
+Carbonato de Cálcio e magnésio, CaMg(CO3)2. CaO   30,4   - MgO  21,7  - CO2  47,9  por cento. Na dolomita comum a proporção do CaCO3 para o MgCO3 é 1:1. Todavia o magnésio pode substituir o cálcio até aproximadamente Ca:Mg = 1:5, nas posições do magnésio, e o cálcio pode substituir o magnésio até aproximadamente Mg:Ca = 1:20, nas posições do cálcio. Assim na dolomita, a relação do cálcio para o magnésio oscila entre 58:42 e 47,5:52,5. O magnésio pode ser substituído pelo ferro ferroso e, quando a quantidade de ferro ferroso excede a do magnésio, o mineral chama-se ankerita. O magnésio pode ser substituído por pequenas quantidades de manganês bivalente e zinco e o cálcio, por pequenas quantidades de chumbo.
+
+## Ensaios:
+
+Infusível. Depois de ignição intensa, um fragmento dará reação alcalina com o papel de ensaio umedecido. No ácido clorídrico diluído, os fragmentos grandes são atacados apenas vagarosamente, mas o pó se dissolve prontamente, com efervescência. Os fragmentos grandes são solúveis, com efervescência no ácido clorídrico quente.
+
+## Aspectos diagnósticos:
+
+A variedade cristalizada distingue-se por seus cristais romboédricos curvos e usualmente por sua cor rósea da carne. A variedade rochosa maciça distingue-se do calcário por sua reação menos intensa com o ácido clorídrico.
+
+## Ocorrência:
+
+A dolomita ocorre, principalmente sob a forma de massas rochosas, muitos extensas, como calcário dolomítico e seu equivalente cristalino, o mármore dolomítico. A ocorrência é a mesma que para as rochas calcíticas. Muitas vezes, intimamente misturada com a calcita. Imagina-se que a dolomita, com massa rochosa, seja de origem secundária, tendo sido formada a partir do calcário comum pela substituição do cálcio pelo magnésio. ocorre também como mineral de filão, principalmente nos veios de zinco e chumbo que atravessam o calcário.
+
+Encontrada em grandes extratos rochosos na região dolomítica do Tirol Meridional; em cristais oriundos de Binnenthal, na Suíça, Traversella, no Piemonte; Inglaterra Setentrional e Guanajuato no México. Encontrada nos Estados Unidos, sob a forma de massas de rocha sedimentar em muito estados do Meio-Oeste, e de cristais no distrito de Joplin, no Estado de Missouri.
+
+## Uso:
+
+Emprega-se a dolomita como pedra de construção e ornamental. Para a fabricação de certos cimentos. Para a fabricação de magnésia, usada na preparação de revestimentos refratários dos conversores, nos processos básicos de fabricação de aço. A dolomita é um minério potencial de magnésio metálico.
+
+## Nome:
+
+Em honra do químico francês, Dolomieu (1750 - 1801)
+
+## Espécies semelhantes:
+
+A ankerita, Ca(Mg,Fe)(CO3)2 é um carbonato romboédrico, análoga a estrutura da dolomita, na qual o ferro ferrosos substitui parte do magnésio.

@@ -1,0 +1,51 @@
+# CORÍNDON
+
+**Fórmula:** Al2O3
+
+**Tipo:** ÓXIDO
+
+## Cristalografia:
+
+Hexagonal-R; ecalenoédrica. Cristais  usualmente prismáticos no hábito ou em pirâmides hexagonais pontiagudas. Muitas vezes arredondados sob a forma de barris. Frequentemente com estriações horizontais profundas. Porém podem mostrar faces  romboédricas. Usualmente, cristais malformados ou maciços, com planos de partição quase cúbicos no ângulo, granular com dimensões grossas ou finas.
+
+## Propriedades físicas:
+
+Partição {0001} e {101´1}, esta última produzindo ângulos quase cúbicos, a partição prismática é mais rara.. Dureza: 9,0 ; (próximo do diamante em dureza). O coríndon  pode-se alterar-se; transformando-se em mica, devendo tomar-se cuidado em obter uma superfície recente para o ensaio de dureza. Densidade 4,02 (excessivamente elevada para um mineral não metálico).  Brilho adamantino a vítreo. Transparente à translúcido. Apresenta várias cores; usualmente algum matiz de castanho, rosa ou azul. Pode ser branco, cinzento, verde, vermelho-rubi ou azul-safira.
+
+As diferenças de cor dão origem a diversas variedades do corídon sob a forma de gema. O rubi é vermelho intenso e a safira é azul.  O coríndon sob a forma de gema de outras cores, e denominado segundo outras gemas, com o prefixo oriental. Assim, a ametista oriental é purpúrea, o topázio oriental é amarelo e a esmeralda oriental é verde. Embora estes termos sejam comuns, são enganadores e seu uso esta sendo desencorajado pelas organizações de joalheiros. As variedades do coríndon, tendo uma opalescência estrelada, quando vistas na direção do eixo c do cristal, denominam-se estreladas (astéricas), ou safira-estrela ou rubi-estrela.
+
+O esmeril é um coríndon granular negro misturado intimamente com a magnetita, a hematita ou hercinita.
+
+## Composição:
+
+Óxido de alumínio, Al2O3.   Al  52,9  -  O  47,1 por cento
+
+## Ensaios:
+
+Não é fusível. Insolúvel. O material finamente pulverizado, umedecido com nitrato de cobalto e aquecido intensamente, torna-se azul (alumínio).
+
+## Aspectos diagnósticos:
+
+Caracterizado principalmente por sua grande dureza, brilho intenso, densidade relativa e partição.
+
+## Ocorrência:
+
+O coríndon é comum como um mineral acessório nas rochas metamórficas, tais como calcário cristalino, mica-xisto e gnaisse. Também encontrado como constituinte primário de certas rochas ígneas; usualmente as deficientes em sílica, como os sienitos e nefelina sienitos. Pode ser encontrado em grandes massas na zona que separa os peridotitos das rochas encaixantes adjacentes.  Esta disseminado em pequenos cristais em certos diques de lamprófiros, encontrando-se em grandes cristais nos pegmatitos. Encontrado frequentemente em cristais e seixos rolados, em solos detríticos e nas areias das águas correntes, em que se preservou por sua dureza e inércia química. Os minerais associados são comumente a clorita, as micas, a olivina, a serpentina, a amgnetita, o espinélio, a cianita e o diásporo.
+
+Encontram-se os rubis principalmente na Birmânia, Sião e Ceilão. Na Birmânia, a localização mais importante é perto de Mogok, cerca de 150 quilômetros ao norte de mandalay. Aqui encontra-se  as pedras principalmente no solo resultante da solução de um calcário metamórfico. Os rubis são encontrados "in situ" no calcário. Os rubis do Sião  encontram-se perto de Bangkok, no Golfo do Sião, onde ocorrem em uma argila, derivada da decomposição de um basalto. Encontram-se os rubis do Ceilão, com outras pedras preciosas, nos cascalhos dos rios. Nos Estados Unidos, encontram-se alguns rubis nos cascalhos e em conexão com os grandes depósitos de coríndon da Carolina do Norte.
+
+Encontra-se as safiras associadas com os Rubis do Sião e do Ceilão. Ocorrem em Kashmir, na Índia e sobre extensa área no Queensland Central, na Austrália. Nos Estados Unidos, encontram-se pequenas safiras de bela cor em várias localidades, no Estado de Montana. Foram descobertas pela primeira vez nas areias dos rios a leste de Helena, durante a mineração do ouro existentes em pláceres e mais recentemente, foram encontradas incluídas na rocha de um dique lamprófiro, em Yogo Gulch. Expõe-se a rocha ao ar, por algum tempo, para que se decomponha, deixando as safiras. esta mina deixou de ser operada em 1929, em virtude de razões econômicas mais do que por falta de safiras.
+
+Encontram-se o coríndon comum em grandes cristais no Transvaal, na União Sul-Africana. Estes cristais encontrados soltos no solo ou em pegmatitos constituem a principal fonte do coríndon abrasivo importado nos Estados Unidos. O coríndon comum encontra-se nos Estados Unidos em várias localidades, ao longo da vertente oriental dos Montes Apalaches, nos estados da Carolina do Norte e da Geórgia. Antigamente, foi explorado extensamente na parte sudoeste da Carolina do Norte. Ocorre, aqui, em grandes massas situadas nas bordas das massas intrusivas de uma rocha de olivina (dunito), pensando-se ter sido uma separação do magma original. Encontrado como constituinte primitivo de um nefelina sienito na Província de Ontário, no Canadá. Em certos lugares, o coríndon é tão abundante que forma mais de 10 por cento da rocha.
+
+O esmeril encontra-se em grandes quantidades no cabo Emeri, na ilha de Naxos e em várias localidades na Ásia Menor, onde foi explorado extensivamente por séculos. Nos Estados Unidos, o esmeril tem sido explorado em Chester, no Estado de Massachusetts e em Peekskill, no de Nova Iorque.
+
+Artificial:   Do bauxito, fabrica-se em larga escala e coríndon artificial. Este material sintético juntamente com outros  abrasivos manufaturados, notadamente o carbeto de silício, tomou amplamente o lugar do coríndon natural como abrasivo.
+
+Desde 1902, frabricam-se pelo processo Verneuil, rubis e safiras sintéticos, coloridos com pequenas quantidades de cromo e de titânio. As safiras e os rubis sintéticos eram feitos somente na Suiça, França e Alemanha, até 1940, quando a Linde Company teve muito bom êxito na síntese do coríndon; sua realização máxima foi o desenvolvimento das safiras e rubis sintéticos estrelados. Isto foi alcançado introduzindo-se titânio que, durante tratamento térmico adequado, sofreu processo de exsolução como rutílio orientado, produzindo a estrela. As pedras artificiais rivalizam-se com as naturais em beleza, sendo difícil para a pessoa não exercitada distinguir uma das outras.
+
+Antes do processo Verneuil, fundiam-se juntamente pequenos grãos e lascas de rubi natural, obtendo-se massas maiores das quais se podiam lapidar pedras de dois a três quilates em tamanho. Estas pedras são conhecidas como rubis reconstruídos ou reconstituídos.
+
+## Uso:
+
+Como pedra preciosa. O Rubi vermelho intenso é uma das gemas mais valiosas, superando-a somente a esmeralda. A safira azul é também valiosa e as pedras de outras cores se vendem por bons preços.  As pedras com qualidade de gemas usam-se na relojoaria e, como rolamentos, nos instrumentos científicos. Usa-se o coríndon como um abrasivo, seja moído a partir do material maciço puro, seja em sua forma impura, como esmeril.

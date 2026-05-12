@@ -1,0 +1,59 @@
+# CALCITA
+
+**Fórmula:** CaCO3
+
+**Tipo:** CARBONATO
+
+## Cristalografia:
+
+Hexagonal - R, escalenoédrica-hexagonal. Os cristais são extremamente variados no hábito, muitas vezes altamente complexos. Foram descritas mais de 300 formas diferentes. Três hábitos importantes: (1)  prismático, em prismas longos ou curtos, nos quais as faces do prisma são bem desenvolvidas, com terminações em pinacóide basal ou romboédricas, (2) romboédrico, em que predominam as formas romboédricas,  tanto obtusas como  agudas; a forma fundamental (clivagem) não é comum; (3) escalenoédrico, em que predominam os escalenoédros, frequentemente com faces do prisma e truncaturas romboédricas. O escalenoedro mais comum é o {213´1}. Encontram-se todas as variações e combinações possíveis destes tipos.
+
+É muito comum a geminação tendo como plano geminado. O romboedro negativo {011´2}, muitas vezes apresenta-se com lamelas geminadas de origem secundária, por exemplo nos calcários cristalinos. Esta geminação pode ser produzida artificialmente. São comuns os geminados em que o plano de geminação é o pinacóide basal {0001}. É menos comum a geminação segundo o romboedro fundamental {1011}.
+
+A calcita apresenta-se, usualmente, em cristais ou em agregados de grânulos entre grossos e finos. Também em massas de granulação fina a compacta, terrosas, e sob forma de estalactites.
+
+## Propriedades físicas:
+
+Clivagem Perfeita {10111} (ângulo de clivagem = 74°55'). Partição  ao longo das lamelas de geminação segundo {011´2}. Dureza 03 sobre a clivagem e 2,50 sobre a base. Densidade 2,72. Brilho vítreo a terrosos. Cor:  usualmente branco ou incolor, podendo ser colorida variadamente, cinza, vermelho, verde, azul e amarelo. Também, quando impura, entre o castanho e o preto. Transparente a translúcida. Mostra intensa  dupla refração, donde o nome de espato de dupla refração. Conhece-se como espato da Islândia, por causa de sua ocorrência na Islândia, a variedade quimicamente pura e opticamente clara e incolor.
+
+## Composição:
+
+Carbonato de Cálcio, CaCO3. CaO   56,0   - CO2  44,0  por cento. O cálcio pode ser substituído pelo manganês e pelo ferro ferroso,  estendendo-se uma série completa até a rodocrosita e uma parcial em direção a smithsonita e a siderita.  O magnésio substitui o cálcio somente em pequenas quantidades.
+
+## Ensaios:
+
+Infusível. Depois de ignição intensa, o resíduo dá reação alcalina com o papel de ensaio, úmido. Um fragmento do mineral umedecido com ácido clorídrico e aquecido produz uma chama vermelha-alaranjada.  Os fragmentos de calcita são atacados facilmente pelo ácido clorídrico diluído, frio, com efervescência.
+
+## Aspectos diagnósticos:
+
+A calcita distingue-se por sua dureza (3), sua clivagem perfeita, cor clara e brilho vítreo.  Distingue-se da dolomita porque os fragmentos de calcita apresentam efervescência no ácido clorídrico frio, ao passo que não acontece o mesmo com os de dolomita. Distingue-se da aragonita por ter densidade relativa mais baixa e clivagem romboédrica.
+
+## Ocorrência:
+
+Como um Mineral de Rocha:   A calcita é um dos minerais mais comuns e disseminados. Ocorre como massas rochosas sedimentares enormes e espalhadas amplamente, nas quais é o mineral preponderante, sendo o único mineral, presentes em certos calcários. Conhecem-se como mármores os calcários metamórficos cristalinos. O giz é um depósito de carbonato de cálcio pulverulento, de granulação fina. A calcita é um constituinte importante das margas e arenitos calcários. As rochas calcárias formaram-se em grande parte pela deposição, sobre um fundo de mar, de grandes camadas de material calcário, sob a forma de carapaças e esqueletos de animais marinhos. Uma proporção menor destas rochas formaram-se diretamente pela precipitação do carbonato de cálcio.
+
+Como Depósitos em Cavernas etc.:   As águas calcárias, evaporando-se nas cavernas de rochas carbonatadas, depositam muitas vezes, a calcita sob forma de estalactites, estalagmites e incrustações. Estes depósitos são, com frequência, belos e espetaculares. Usualmente, a calcita apresenta-se semitranslúcida e colorida em amarelo-claro. As águas de fontes calcárias frias ou quentes podem formar um depósito de calcita que se conhece com o nome de travertino ou tufa, em torno de seus orifícios. Muitos depósitos de travertino de estrutura celular encontram-se nas regiões calcárias. O depósito em Mammoth Hot Springs, no Parque de Yellowstone é o mais espetacular do que a maioria de origem semelhante. O mármore ônix, conhecido como ônix mexicano, apresenta-se em faixas de calcita e aragonita, ou de uma ou outra espécie, sendo usado como material decorativo. Provém em sua maior parte da Baixa Califórnia, no México.
+
+Calcitas Silícicas:   Os cristais de calcita podem incluir quantidades consideráveis de areia de quartzo (até 60%) e formam o que se conhece como cristais de arenito. Encontra-se tais ocorrências em Fontainebleau, na França, (calcário de Fontainebleau), e em Bad Londs, no Estado de Dakota do Sul.
+
+A calcita ocorre como mineral secundário nas rochas ígneas, como produto da decomposição de silicatos de cálcio. Encontra-se como revestimento das cavidades amigdalóides, nas lavas.  Ocorre em proporção maior ou menor em muitas rochas sedimentares e metamórficas. É o material de cimentação em alguns arenitos de coloração clara. A calcita é também um dos minerais mais comuns dos filões, ocorrendo como material de ganga, com todas as espécies de minérios metálicos.
+
+Seria inteiramente impossível especificar todos os distritos importantes de ocorrência da calcita, em suas várias formas. Algumas das localidades mais notáveis onde se encontra a calcita muito bem cristalizada são: Andreasberg, nas Montanhas do Harz; vários lugares da Saxônia; Cumberland, Derbyshire, Durhan, Cornwall e Lancashire, na Inglaterra; Islândia e Guanajuato, no México. Nos Estados Unidos, em Joplin, no Estado de Missouri; no distrito do cobre do Lago Superior e em Rossie, no Estado de Nova Iorque.
+
+## Uso:
+
+O emprego mais importante da calcita é na fabricação de cimentos e cal para argamassa. O calcário é a principal matéria-prima que, quando aquecido a 900°C aproximadamente, perde CO2 e se converte em cal viva, CaO. Esta quando misturada com água, forma hidrato de cálcio (cal extinta), incha, cede muito calor e endurece, ou "sets". A cal viva quando misturada com areia forma a argamassa comum.
+
+O maior consumo de calcário é na fabricação de cimentos. o tipo particular produzido mais amplamente é o cimento portland, composto aproximadamente, de 75% de carbonato de cálcio (calcário), 13% de sílica e 5% de alumina. Também estão presentes pequenas quantidades de carbonato de magnésio e óxido de ferro. A sílica e a alumina são fornecidas pela argila ou folhelho, misturados com o calcário, antes da "queima". Quando se mistura água com o cimento, formam-se silicatos e aluminatos de cálcio hidratados. Certos calcários possuem vários materiais argilosos como impurezas, em proporções exatas, sendo conhecidos como rocha-cimento ou cimentos naturais. Conhecem-se como cimentos hidráulicos os que têm a valiosa propriedade de endurecer debaixo da água.
+
+Usa-se a greda ou giz como fertilizante, para embranquecer e água ou leite de cal, giz  para louças, etc.  Encontra-se, em muitos lugares da Europa, sendo famosos os penhascos calcários de Dover.
+
+O calcário, particularmente de Indiana, utiliza-se como pedra para construção. Exploram-se anualmente  grandes quantidades de calcários, utilizado como fundente, na fusão de vários minérios metálicos. usa-se na litografia um calcário de granulação fina.
+
+Empregam-se amplamente os mármores como material de construção e ornamentação. As jazidas de mármore mais importantes dos Estados Unidos acham-se em Vermont, Nova Iorque, Geórgia e Tenessee.
+
+O espato da Islândia tem grande valor para a fabricação de vários instrumentos de óptica;  seu uso, melhor conhecido, é sob a forma de prisma de Nicol para a produção da luz polarizada.
+
+## Nome:
+
+Provém da palavra latina calx, significando cal queimada.

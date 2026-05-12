@@ -1,0 +1,160 @@
+{
+  "slug": "tectossilicatos",
+  "name": "TECTOSSILICATOS",
+  "rawName": "TECTOSSILICATOS",
+  "formula": null,
+  "type": null,
+  "isClassSummary": true,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Em quase seus três quartos a crosta rochosa da terra é constituida de minerais formados em torno de uma estrutura tridimensional de tetraédros SiO4 ligados. estes minerais pertencem à classe dos tectossilicatos na qual todos os íons de oxigênio em cada tetraedro SiO4 são compartilhados com os tetraedros vizinhos. Resulta disto uma estrutura fortemente unida, estável, em que a relação Si:O é 1:2."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Tectossilicatos"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo da Sílica"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Quartzo                                 SiO2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Tridimita                                SiO2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Cristobalita                            SiO2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Opala                                    SiO2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo dos Feldspatos"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Série dos Feldspatos -K"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Microclínio                        K(AlSi3O8)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Ortoclásio                         K(AlSi3O8)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Série dos Feldspatos Na-Ca"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Albita                              Na(AlSi3O8)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Anortita                           Ca(Al2Si2O8)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Danburita                                     Ca(B2Si2O8)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Família dos Feldspatóides"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Leucita                               K(AlSi2O6)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Nefelina                              (Na,K)(AlSiO4)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Sodalita                              Na4(AlSiO4)3Cl"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Lazurita                               (Na,Ca)4(AlSiO4)3(SO4, S,Cl)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Pentalita                             Li(AlSi4O10)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Grupo da Escapolita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Marialita                              Na4(AlSi3O8)3(Cl)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Meionita                              Ca4(Al2Si2O8)3(CO3)"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Família das Zeólitas"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Analcima                             Na(AlSi2O6).H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Natrólita                               Na2(Al2Si3O10).2H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Cabazita                              (Ca,Na)2(Al2Si4O12).6H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Heulandita                            Ca(Al2Si7O18).6H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Estilbita                                Ca(Al2Si7O18).7H2O"
+    }
+  ]
+}

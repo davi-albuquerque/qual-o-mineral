@@ -1,0 +1,50 @@
+{
+  "slug": "colemanita",
+  "name": "COLEMANITA",
+  "rawName": "COLEMANITA",
+  "formula": "Ca2B6O11.5H2O",
+  "type": "BORATO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismático. Em cristais prismático curtos, altamente modificados. Maciça, suscetível de clivagem a granular e compacta."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem perfeita {010}. Dureza 4,0 - 4,5;  Densidade 2,42.  Brilho vítreo. Cor: incolor a branco. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Borato de cálcio hidratado, Ca2B6O11.5H2O.   CaO 27,2  - B2O3  50,9  -  H2O  2,9  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se, na escala de fusibilidade a meio caminho entre os números 1 e 2. Sob a ação do maçarico, esfolia, espedaça e produz chama verde (boro). Água no tubo fechado."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada  por uma direção de clivagem muito perfeita e por uma esfoliação ao aquecimento."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Os depósitos de colemanita estão interestratificados com os depósitos lacustres da idade Terceária. A ulexita esta usualmente associada com ela, acreditando-se que a colemanita se tenha originado de sua alteração. Encontrada na Califórnia, em Los Angeles, Ventura, San Bernadino e Inyo Counties e no Estado de Nevada, em Muddy Mountains e White Basin, Clark County."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Uma fonte de bórax que ao mesmo tempo do descobrimento da kernita, produzia mais do que a metade do suprimento mundial."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra de William T. Coleman, negociante de São Francisco, que comerciava o produto das minas de colemita."
+    }
+  ]
+}

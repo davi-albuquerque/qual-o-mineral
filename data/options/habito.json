@@ -1,0 +1,238 @@
+[
+  {
+    "key": "agulhas",
+    "label": "Agulhas"
+  },
+  {
+    "key": "alta-densidade",
+    "label": "Alta Densidade"
+  },
+  {
+    "key": "amorfo",
+    "label": "Amorfo"
+  },
+  {
+    "key": "baixa-densidade",
+    "label": "Baixa Densidade"
+  },
+  {
+    "key": "botoidral",
+    "label": "Botoidral"
+  },
+  {
+    "key": "clivagem",
+    "label": "Clivagem"
+  },
+  {
+    "key": "clivagem-perfeita",
+    "label": "Clivagem Perfeita"
+  },
+  {
+    "key": "compacto",
+    "label": "Compacto"
+  },
+  {
+    "key": "concrecoes",
+    "label": "Concreções"
+  },
+  {
+    "key": "cristais",
+    "label": "Cristais"
+  },
+  {
+    "key": "cubos",
+    "label": "Cubos"
+  },
+  {
+    "key": "dentritico",
+    "label": "Dentritíco"
+  },
+  {
+    "key": "disseminado",
+    "label": "Disseminado"
+  },
+  {
+    "key": "efervecente-em-hcl-frio",
+    "label": "Efervecente em HCl Frio"
+  },
+  {
+    "key": "efervecente-em-hcl-quente",
+    "label": "Efervecente em HCl Quente"
+  },
+  {
+    "key": "estalactites",
+    "label": "Estalactites"
+  },
+  {
+    "key": "facilmente-sectil",
+    "label": "Facilmente Séctil"
+  },
+  {
+    "key": "fibroso",
+    "label": "Fibroso"
+  },
+  {
+    "key": "fio",
+    "label": "Fio"
+  },
+  {
+    "key": "foliado",
+    "label": "Foliado"
+  },
+  {
+    "key": "fragil",
+    "label": "Frágil"
+  },
+  {
+    "key": "fragmentos",
+    "label": "Fragmentos"
+  },
+  {
+    "key": "fratura-concoide",
+    "label": "Fratura Concóide"
+  },
+  {
+    "key": "fratura-estilhacada",
+    "label": "Fratura Estilhaçada"
+  },
+  {
+    "key": "fratura-irregular",
+    "label": "Fratura Irregular"
+  },
+  {
+    "key": "fratura-serrilhada",
+    "label": "Fratura Serrilhada"
+  },
+  {
+    "key": "friavel",
+    "label": "Friável"
+  },
+  {
+    "key": "funde-em-chama-de-vela",
+    "label": "Funde em Chama de Vela"
+  },
+  {
+    "key": "geodo",
+    "label": "Geodo"
+  },
+  {
+    "key": "gorduroso",
+    "label": "Gorduroso"
+  },
+  {
+    "key": "granular",
+    "label": "Granular"
+  },
+  {
+    "key": "graos-irregulares",
+    "label": "Grãos Irregulares"
+  },
+  {
+    "key": "lamelar",
+    "label": "Lamelar"
+  },
+  {
+    "key": "laminado",
+    "label": "Laminado"
+  },
+  {
+    "key": "macico",
+    "label": "Maciço"
+  },
+  {
+    "key": "magnetico",
+    "label": "Magnético"
+  },
+  {
+    "key": "maleavel",
+    "label": "Maleável"
+  },
+  {
+    "key": "marca-o-papel",
+    "label": "Marca o Papel"
+  },
+  {
+    "key": "massas-achatadas",
+    "label": "Massas Achatadas"
+  },
+  {
+    "key": "massas-irregulares",
+    "label": "Massas irregulares"
+  },
+  {
+    "key": "micaceo",
+    "label": "Micáceo"
+  },
+  {
+    "key": "nodular",
+    "label": "Nodular"
+  },
+  {
+    "key": "odor-de-so2-quando-queima",
+    "label": "Odor de SO2 quando queima"
+  },
+  {
+    "key": "oolitico-psolitico",
+    "label": "Oolítico/Psolítico"
+  },
+  {
+    "key": "oxidacao-verde-amarela",
+    "label": "Oxidação verde/amarela"
+  },
+  {
+    "key": "pepitas",
+    "label": "Pepitas"
+  },
+  {
+    "key": "pesado",
+    "label": "Pesado"
+  },
+  {
+    "key": "placas-flexiveis",
+    "label": "Placas Flexivéis"
+  },
+  {
+    "key": "prismatico",
+    "label": "Prismático"
+  },
+  {
+    "key": "pulverulento",
+    "label": "Pulverulento"
+  },
+  {
+    "key": "quebradico",
+    "label": "Quebradiço"
+  },
+  {
+    "key": "radiais",
+    "label": "Radiais"
+  },
+  {
+    "key": "raramente-vista",
+    "label": "Raramente Vista"
+  },
+  {
+    "key": "romboedrico",
+    "label": "Romboédrico"
+  },
+  {
+    "key": "sectil",
+    "label": "Séctil"
+  },
+  {
+    "key": "soluvel-em-h2o",
+    "label": "Solúvel em H2O"
+  },
+  {
+    "key": "suja-os-dedos",
+    "label": "Suja os dedos"
+  },
+  {
+    "key": "tato-graxo",
+    "label": "Tato Graxo"
+  },
+  {
+    "key": "terroso",
+    "label": "Terroso"
+  }
+]

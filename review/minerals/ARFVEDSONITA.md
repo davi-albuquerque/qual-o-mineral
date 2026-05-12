@@ -1,0 +1,37 @@
+# ARFVEDSONITA
+
+**Fórmula:** Na3Mg4Al(Si8O22)(OH,F)2
+
+**Tipo:** SILICATOS - FAMÍLIA DOS ANFIBÓLIOS
+
+## Cristalografia:
+
+Monoclínico; prismática. Cristais prismáticos, longos, muitas vezes, tabulares paralelamente a {010}. Encontrada em agregados prismáticos, bem como em cristais isolados.
+
+## Propriedades físicas:
+
+Clivagem {110}, perfeita formando um ângulo de 56° e 124°. Dureza 6,0. Densidade 3,45.   Brilho vítreo. Cor: verde intenso a negro. Translúcida, transmitindo a luz somente nas bordas delgadas.
+
+## Composição:
+
+Um anfibólio rico em sódio, Na3Mg4Al(Si8O22)(OH,F)2, essencialmente. Está presente considerável  substituição iônica: cálcio no lugar do sódio, ferro ferroso e titânio, no do magnésio, ferro férrico, no de alumínio, e alumínio, no de silício.
+
+## Ensaios:
+
+Corresponde ao número 2 na escala de fusibilidade. Incha, ao fundir-se, produzindo um glóbulo negro, magnético. Confere cor amarela à chama (sódio). Insolúvel no ácido.
+
+## Aspectos diagnósticos:
+
+Caracterizada  por sua cor, indo do verde-escuro ao preto, e por sua presença nas rochas ígneas pobres em sílica. Funde-se mais facilmente do que a hornblenda e a actinolita.
+
+## Ocorrência:
+
+A arfvedsonita e outros anfibólios ricos em sódio são minerais formadores das rochas ígneas pobres em sílica, tais como os nefelina sienitos. Encontram-se grandes cristais nos diques de pegmatito, associados com essas rochas, no distrito de Julianehaab, na parte sul da Groenlândia. Também ocorre nos nefelina sienitos e rochas afins, próximo de Oslo, na Noruega, e na península de Kola, na Rússia.
+
+## Nome:
+
+Em honra do químico sueco, Prof. J. A. Arfvedson.
+
+## Espécies semelhantes:
+
+A riebeckita é um anfibólio de composição semelhante à arfvedsonita e um mineral formador de rocha de ocorrência semelhante. Da crocidolita, uma variedade asbestiforme da riebeckita, faz-se a mineração visando a produção de asbesto, na África do Sul, no Brasil e na Austrália. A holmquistita e a glaucofana são outros membros da família dos anfibólios, ricos em sósio.

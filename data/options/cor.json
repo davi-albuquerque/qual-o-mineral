@@ -1,0 +1,218 @@
+[
+  {
+    "key": "acinzentado",
+    "label": "Acinzentado"
+  },
+  {
+    "key": "amarelo",
+    "label": "Amarelo"
+  },
+  {
+    "key": "amarelo-esverdeado",
+    "label": "Amarelo Esverdeado"
+  },
+  {
+    "key": "amarelo-laranja",
+    "label": "Amarelo Laranja"
+  },
+  {
+    "key": "amarelo-latao",
+    "label": "Amarelo Latão"
+  },
+  {
+    "key": "amarelo-limao",
+    "label": "Amarelo Limão"
+  },
+  {
+    "key": "amarelo-ouro",
+    "label": "Amarelo Ouro"
+  },
+  {
+    "key": "amarelo-palido",
+    "label": "Amarelo Pálido"
+  },
+  {
+    "key": "azul",
+    "label": "Azul"
+  },
+  {
+    "key": "azul-celeste",
+    "label": "Azul celeste"
+  },
+  {
+    "key": "azul-escuro",
+    "label": "Azul Escuro"
+  },
+  {
+    "key": "azul-intenso",
+    "label": "Azul Intenso"
+  },
+  {
+    "key": "azul-turquesa",
+    "label": "Azul Turquesa"
+  },
+  {
+    "key": "branco",
+    "label": "Branco"
+  },
+  {
+    "key": "branco-prata",
+    "label": "Branco Prata"
+  },
+  {
+    "key": "bronze",
+    "label": "Bronze"
+  },
+  {
+    "key": "cinza",
+    "label": "Cinza"
+  },
+  {
+    "key": "cinza-aco",
+    "label": "Cinza Aço"
+  },
+  {
+    "key": "cinza-azulado",
+    "label": "Cinza Azulado"
+  },
+  {
+    "key": "cinza-chumbo",
+    "label": "Cinza Chumbo"
+  },
+  {
+    "key": "cinza-escuro",
+    "label": "Cinza Escuro"
+  },
+  {
+    "key": "cinza-perola",
+    "label": "Cinza Pérola"
+  },
+  {
+    "key": "creme",
+    "label": "Creme"
+  },
+  {
+    "key": "esfumacado",
+    "label": "Esfumaçado"
+  },
+  {
+    "key": "incolor",
+    "label": "Incolor"
+  },
+  {
+    "key": "laranja",
+    "label": "Laranja"
+  },
+  {
+    "key": "lilas",
+    "label": "Lilás"
+  },
+  {
+    "key": "marrom",
+    "label": "Marrom"
+  },
+  {
+    "key": "marrom-amarelado",
+    "label": "Marrom Amarelado"
+  },
+  {
+    "key": "marrom-palido",
+    "label": "Marrom Pálido"
+  },
+  {
+    "key": "prata",
+    "label": "Prata"
+  },
+  {
+    "key": "preto",
+    "label": "Preto"
+  },
+  {
+    "key": "preto-acinzentado",
+    "label": "Preto Acinzentado"
+  },
+  {
+    "key": "preto-aco",
+    "label": "Preto Aço"
+  },
+  {
+    "key": "preto-azul",
+    "label": "Preto Azul"
+  },
+  {
+    "key": "preto-fosco",
+    "label": "Preto Fosco"
+  },
+  {
+    "key": "roseo",
+    "label": "Róseo"
+  },
+  {
+    "key": "rubi",
+    "label": "Rubi"
+  },
+  {
+    "key": "salmao",
+    "label": "Salmão"
+  },
+  {
+    "key": "verde",
+    "label": "Verde"
+  },
+  {
+    "key": "verde-brilhoso",
+    "label": "Verde Brilhoso"
+  },
+  {
+    "key": "verde-esmeralda",
+    "label": "Verde Esmeralda"
+  },
+  {
+    "key": "verde-maca",
+    "label": "Verde Maça"
+  },
+  {
+    "key": "verde-oliva",
+    "label": "Verde Oliva"
+  },
+  {
+    "key": "verde-palido",
+    "label": "Verde Pálido"
+  },
+  {
+    "key": "vermelho",
+    "label": "Vermelho"
+  },
+  {
+    "key": "vermelho-brilhante",
+    "label": "Vermelho Brilhante"
+  },
+  {
+    "key": "vermelho-castanho",
+    "label": "Vermelho Castanho"
+  },
+  {
+    "key": "vermelho-cobre",
+    "label": "Vermelho Cobre"
+  },
+  {
+    "key": "vermelho-escarlate",
+    "label": "Vermelho Escarlate"
+  },
+  {
+    "key": "vermelho-escuro-cinza",
+    "label": "Vermelho Escuro(cinza)"
+  },
+  {
+    "key": "vermelho-palido",
+    "label": "Vermelho Pálido"
+  },
+  {
+    "key": "vermelho-sangue",
+    "label": "Vermelho Sangue"
+  },
+  {
+    "key": "violeta",
+    "label": "Violeta"
+  }
+]

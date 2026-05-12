@@ -1,0 +1,55 @@
+{
+  "slug": "colombita",
+  "name": "COLOMBITA",
+  "rawName": "COLOMBITA",
+  "formula": null,
+  "type": null,
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Comumente em cristais. O hábito é prismático curto, ou tabular delgado; muitas vezes ocorre em prismas quadrados, dado o desenvolvimento acentuado dos pinacóides verticais. Os cristais terminam pelo plano basal, pelas pirâmides e pelos prismas horizontais; formas complexas, frequentemente. Também em geminados com a forma de coração."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {110} boa. Dureza: 6,0;  Densidade 5,2 - 7,9 variando com a composição, densidade aumenta de valor de acordo com a elevação da percentagem do óxido de tântalo presente. Brilho sub-metálico. Cor: preto do ferro. Subtranslúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um óxido de nióbio, tântalo, ferro ferroso e manganês (Fe,Mn) (Nb,Ta)2O6 que varia de composição desde a columbita pura (Fe,Mn)Nb2O6 até  a tantalita pura (Fe,Mn)Ta2O6.\n\nContém muitas vezes, pequenas quantidades de estanho e tungstênio. A variedade conhecida pelo nome de manganotantalita é, essencialmente, uma tantalita com manganês bivalente que substitui a maior parte do ferro ferroso."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Fusível dificialmente, estando situada entre os números 5 e 5,5 na escala de fusibilidade. Funde-se com o bórax; a pérola dissolve-se em ácido clorídrico; a solução aquecida com estanho adquire cor azul (nióbio). Geralmente, quando fundida com carbonato de sódio produz uma pérola opaca, verde-azulada (manganês). Fundida com carbonato de sódio, sobre o carvão vegetal, produz massa magnética."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhece-se a columbita-tantalita, usualmente pela sua cor preta, traço mais claro e densidade relativa alta. Distingue-se da wolframita por ter densidade relativa mais baixa e clivagem menos distinta; distingue-se da turmalina  por seus cristais ortorrômbicos e densidade relativa mais alta."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A columbita ocorre em rochas graníticas e em diques de pegmatitos, associada aos minerais: quartzo, feldspato, mica, turmalina, berilo, espodumênio, cassiterita, samarskita, wolframita, microlita e monazita.\n\nLocalidades dignas de menção por suas ocorrências são: o Congo Belga; a Nigéria; o Brasil; a região próxima de Moss, na Noruega; Bodenmais, na Bavária; os Montes Ilmen, na Rússia; a Austrália Ocidental (manganotantalita) e Madagscar. Nos Estados Unidos é encontrada em Standish, no Maine; Haddam, Middletown e Branchville, no Connecticut;  em Amélia County, na Virgínia; em Mitchell County, na Carolina do Norte; Black Hills, no Estado de Dakota do Sul e Canon City, no Colorado."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Fonte dos elementos raros, tântalo e nióbio. Usou-se o tântalo, entre os anos de 1903 e 1911, para a fabricação de filamentos das lâmpadas elétricas incandescentes. Dada a sua resistência a ação corrosiva dos ácidos, o tântalo é usado para a fabricação de equipamentos químicos; em cirurgia, para placas e suturas do crânio e também em alguns aços para ferramentas e tubos eletrônicos. O principal uso do nióbio é na produção de ligas para aços de soldagem de alta velocidade; em aços inoxidáveis e ligas resistentes às altas temperaturas, tais como as usadas nas turbinas de gás da indústria aeronáutica."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "o nome columbita vem de Colômbia, donde foi obtido o espécime original. O nome tantalita deriva do nome mítico, Tântalo, em alusão a dificuldade com que se dissolve em ácido."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A microlita, CaTa2O6, encontra-se em pegmatitos; o pirocloro e a fergusonita são óxidos de níobio, tântalo e terras raras que se acham associados a rochas alcalinas."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "filossilicatos",
+  "name": "FILOSSILICATOS",
+  "rawName": "FILOSSILICATOS",
+  "formula": null,
+  "type": null,
+  "isClassSummary": true,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Como está implícito na derivação do nome deste grupo importante (grego: phyllon - folha), todos os seus numerosos membros tem hábito achatado, ou em escama, e clivagem distinta. São em geral, moles e de densidade relativa comparativamente baixa. Suas lamelas de clivagem podem mostrar flexibilidade e mesmo elasticidade. Todas estas pecularidades características originam-se da predominância, na estrutura, da folha silício-oxigênio estendida indefinidamente.Nesta folha três dos quatro oxig~enios em cada tetraedro SiO4 são compartilhados com os tetraedros vizinhos, levando a uma relação Si:O = 2:5. esta unidade estrutural denomina-se algumas vezes, \"folha de siloxana\"."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "A maior parte dos minerais desta classe contém a hidroxila, e as peculiaridades estruturais associadas com o íon hidroxila são de grande importância na determinação de suas propriedades. Todos os filossilicatos comuns podem ser distribuídos em um ou outro de dois clãs, na dependência do modo de coordenação dos grupos de hidroxila. Um destes clãs possui como parte integrande de sua estrutura, folhas de íons hidroxila coordenados por íons magnésio, formando a estrutura da brucita, Mg3(OH)6.  A folha da brucita consite em duas camadas de íons hidroxila em empacotamento hexagonal muito compacto com os íons magnésio ocupando os interstícios. A relação dos raios entre o magnésio e a hidroxila é tal que a coordenação 6 da hidroxila em torno do magnésio tem a máxima estabilidade. Donde, os íons hidroxila em torno do magnésio podem ser considerados como ocupando os vértices de um octaedros tombados e agrupados, de modo que sejam coplanares certas das faces (111)."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "o outro clã é construído em torno de folhas semelhantes de íons hidroxila coordenados pelos íons alumínio, na estrutura gibbsita, Al2(OH)6. O alumínio, semelhante ao magnésio, forma um poliedro estável de coordenação 6 com a hidroxila, mas, por causa da carga mais elevada do íon alumínio, somente dois terços de íons alumínio podem entrar  na estrutura da folha. Consequentemente, embora os íons hidroxila formem folhas duplas com empacotamento hexagonal muito compacto, nem todos os interstícios podem ser ocupados. Os íons alumínio formam um padrão de aneis hexagonais em que a posição no centro do anel não esta ocupada, sendo a configuração denominada folha dioctaédrica. Esta estrutura somente pode acomodar íons trivalentes de tamanho apropriado a coordenação octaédrica com a hidroxila."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As estruturas dos membros comuns e importantes da classe dos filossilicatos podem ser todas derivadas pela combinação da folha de Si2O5 com qualquer das folhas da gibbsita ou da brucita."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As estruturas derivadas mais simples, formadas desta maneira, são as dos minerais do grupo da caolinita e do grupo da antigorita ou serpentina. Formam-se   estas estrututras, respectivamente, pela combinação de uma folha única de gibbsita com uma de siloxana, e de uma folha única de brucita com uma de siloxana. tanto a folha de brucita como a da gibbsita são eletricamente neutras e os minerais gibbsita e brucita estão unidos somente pela ligação fraca de van der Waals. A camada de Si2O5, contudo, não é eletricamente neutra e não pode, por si só, formar uma estrutura  estável. Quiando se permite que os oxigênios dos vértices, os que não são compartilhados no plano da folha, ocupem as posições da hidroxila na folha da gibbsita ou da brucita, ficam satisfeitas as exigências de espaço. Além disso, resulta uma estrutura eletricamente neutra, pois a hidroxila e o oxigênio tem, essencialmente, o mesmo raio iônico, e a carga unitária residual no oxigênio do vértice é igual a carga da hidroxila. esta estrutura, no clã dioctaédrico, é a folha da caolinita, e no clã trioctaédrico, a folha da antigorita. O grupo da caolinita dos minerais argilosos é constituído a partir da primeira destas unidades estruturais, ao passo que se forma a partir da segunda o grupo das serpentinas. Seguindo a nomenclatura de P. Niggli, podemos dar a folha de siloxana o nome de folha t, pois a coordenação é tetraédrica, e de folhas o às da brucita ou da gibbsita, dado que a coordenação é octaédrica. Consequentemente, a união delas forma uma folha t - o e podemos aludir à unidade estrutural básica, seja do grupo da caolinita, seja do da serpentina, como sendo uma folha t-o. Já que os oxig~enios dos vértices de uma folha t substituem duas hidroxilas de uma folha de gibbsita, ou de brucita, as fórmulas resultantes, em cada caso, são:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Dioctaédrica"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "o                  t                       t-o"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Al2(OH)6 - (OH)2 + Si2O5  ->  Al2(Si2O5)(OH)4       caolinita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Trioctaédrica"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Mg3(OH)6 - (OH)2 + Si2O5 -> Mg3(Si2O5)(OH)4      antigorita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "de maneira exatamente semelhante, podemos deduzir membros mais complexos da árvore da família dos filossilicatos. Substituamos os oxigênios dos vértices de uma folha de O5 por duas dentre as seis hidroxilas de uma folha de gibbsita, ou de uma de brucita, em um lado, e depois façamos o mesmo no outro lado da mesma folha. Agora, aparece uma folha trípece constituída de uma folha t de Si2O5 unida a uma folha o que, por sua vez, esta unida a outra folha invertida, t de Si2O5. Como cada folha de brucita ou de gibbsita, permanecem duas, e as fórmulas das folhas triplas resultantes devem ser:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Dioctaédrica"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "t                o                   t                     t-o-t"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Si2O5  +  Al2(OH)6 - (OH)4 + Si2O5  ->  Al2(Si4O10)(OH)2   Pirofilita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Trioctaédrica"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Si2O5  +  Mg3(OH)6 - (OH)4Si2O5  ->  Mg3(Si4O10)(OH)2    Talco"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Estas unidades estruturais, que chamaremos folhas t-o-t, são eletricamente neutras e formam estruturas estáveis em que as folhas estão unidas somente pela ligação de van der Waals. Desde que esta ligação é fraca, podemos esperar que estas estruturas tenham clivagem excelente, deslizamento fácil e dêem tato sensação de gordura. Estas espectativas verificam-se nos minerais talco e pirofilita."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Se levarmos o processo de evolução um passo adiante, podemos substituir algum silício por íons de alumínio nas posições tetraédricas das folhas de Si2O5. Tendo em conta que o alumínio é trivalente, ao passo que o silício é tetravalente, cada substituição desta espécie faz parecer, na superfície da folha, uma carga elétrica livre."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Se cada quarto silício é substituído por alumínio, produz-se uma carga de grandeza suficiente para ligar catíons monovalentes em coordenação 12 regular, entre as folhas t-o-t. Em virtude destas ligações folha-cátion-folha, as camadas ficam unidas mais firmemente, diminui a facilidade de deslizamento, aumenta a dureza e perde-se a sensação untosa. As estruturas minerais resultantes são as das micas verdadeiras. na linha descendente dioctaédrica, o cátion é, comumente, o sódio (paragonita) ou o potássio (moscovita); no ramo trioctaédrico da família, é o potássio, tanto na flogopita como na biotita. É fácil lembrar as fórmulas das micas quando se recorda que um dos alumínios está nas posições tetraédricas; em consequência, as fórmulas podem ser escritas assim:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Dioctaédrica                KAl2(AlSi3O10)(OH)2          Moscovita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Trioctaédrica                KMg3(AlSi3O10)(OH)2        Flogopita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Quando se substituem metade dos íons silício nas posições tetraédricas das camadas Si2O5 por alumínio, tornam-se disponíveis duas cargas por folha t-o-t para a ligação de um cátion situado entre as camadas. Íons cálcio, magnésio e ferro ferroso podem entrar na estrutura da mica, presos por ligações iônicas entre as camadas de folhas triplas. Nestas estruturas, a ligação entre as camadas é tão forte que a qualidade da clivagem diminui, a dureza aumenta, perde-se, quase completamente, a flexibilidade das camadas, e a densidade aumenta. Os minerais resultantes são as micas quebradiças. São típicas a margarita e a xantofilita, cujas fórmulas são as seguintes:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Dioctaédrica            CaAL2(Al2Si2O10)(OH)2             Margarita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Trioctaédrica            CaMg3(Al2Si2O10)(OH)2            Xantofilita"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Existe escassa solução sólida entre os membros das séries dioctaédrica e trioctaédrica, embora possa haver substituição iônica extensa e substancialmente completa do magnésio pelo ferro ferroso, do alumínio pelo ferro férrico, do sódio pelo cálcio, nas posições apropriadas. Em escala limitada, o bário pode substituir o potássio, o cromo ao alumínio, o fluor a oxidrila. O manganês, o titânio e o césio são constituintes mais raros de algumas micas. As micas contendo lítio são estruturalmente distintas da moscovita e da biotita, por causa do menor tamanho do íon lítio"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Um certo número de ramos pode ser adicionado à nossa árvore da família dos filossilicatos. A família importante das cloritas pode ser descrita, simplesmente, como tendo a estrutura do talco em camadas triplas, com uma folha de brucita simples situada entre as camadas. Isto conduz a fórmula Mg3Si4O10 (OH)2.Mg3(OH)6. Contudo na maior parte das cloritas, o magnésio é substituído, nas posições octaédricas, pelo ferro ferroso, pelo ferro férrico e pelo alumínio, tanto nas camadas de talco como nas folhas de brucita; e o silício é substituído pelo alumínio nas posições tetraédricas. Pode generalizar-se, agora a fórmula do seguinte modo:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "(Mg,Fe\",Fe'\",Al)3(Al,Si)4O10(OH)2.(Mg,Fe\",Fe'\",Al)3(OH)6"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os vários membros do grupo diferem entre si nas quantidades de substituição e na maneira pela qual as camadas estão dispostas umas sobre as outras."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "O grupo importante das montmorillonitas pode ser derivado da estrutura da pirofilita mediante a inserção das folhas de água molecular contendo cátions livres, entre as camadas triplas t-o-t da pirofilita. As folhas da pirofilita essencialmente desprovidas de carga podem expandir-se, por esta forma, de modo a atingir dimensões da cela extraordinariamente grandes e, nessa conformidade, os minerais deste grupo apresentam capacidade, sem par, de intumescência quando umedecidos. As vermiculitas derivam, semelhantemente, da estrutura do talco pela interposição de folhas de água molecular."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Se ocorre, ocasionalmente, substituição fortúita do silício pelo alumínio nas posições tetraédricas das folhas de pirofilita, pode não haver carga agregada suficiente nas camadas triplas, para produzir uma estrutura ordenada de mica, com preenchimento de todas as posições catiônicas possíveis, situadas entre as camadas. Localmente  todavia, podem estar ocupadas posições ocasionais de cátions, originando propriedades intermediárias entre as das argilas e as das micas. Este quadro pode complicar-se ulteriormente pela introdução de alguma água molecular. referem-se os minerais deste tipo, intermediários entre as argilas montmorilloníticas e as micas verdadeiras, ao grupo da ilita ou hidromica."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "A grande importância dos filossilicatos reside, em parte, no fato de que os produtos do intemperismo rochoso e, por conseguinte, os constituintes dos solos são na maioria das vezes deste tipo estrutural.  A liberação e a retenção dos alimentos das plantas, o armazenamento da água no solo entre a estação úmida e a seca, e a acessibilidade do solo aos gases atmosféricos e aos organismos dependem, emgrande parte, das propriedades dos filossilicatos."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Filossilicatos"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Apofilita        KCa4(Si4O10)F.8H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Caolinita       Al4(Si4O10)(OH)8"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Serpentina    Mg6(Si4O10)(OH)8"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Garnierita      (Ni,Mg)SiO3.nH2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Pirofilita         Al2(Si4O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Talco            Mg3(Si4O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Moscovita      KAl2(AlSi3O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Flogopita       KMg3(AlSi3O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Biotita           K(Mg,Fe)3(AlSi3O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Lepidolita       K2Li3Al3(AlSi3O10)(O,OH,F)4"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Margarita       CaAL2(Al2Si2O10)(OH)2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Clorita           (Mg,Fe\",Fe'\",Al)3(Al,Si)4O10(OH)2.(Mg,Fe\",Fe'\",Al)3(OH)6"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Sepiolita        Mg6(Si3O15)(OH)2.6H2O"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Geologicamente, os filossilicatos são de grande importância. As micas são os principais minerais dos xistos e estão espalhadas nas rochas ígneas. Elas se formam em temperaturas mais baixas do que os anfibólios ou piroxênios e com frequência, representam substituição de minerais mais precoces como resultado da alteração hidrotermal."
+    }
+  ]
+}

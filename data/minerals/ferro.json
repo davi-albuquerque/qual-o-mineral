@@ -1,0 +1,40 @@
+{
+  "slug": "ferro",
+  "name": "FERRO",
+  "rawName": "FERRO",
+  "formula": "Fe",
+  "type": "METAL NATIVO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico; hexaoctaédrica. Os cristais são raros. Terrestre: em massas grandes e em vesículas; meteórico: em placas e em massas lamelares, mostra frequentemente um padrão octeédrico na corrosão em superfície polida; artificial: em cristais ocotaédricos, raramente cúbicos e crescimentos dentríticos."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {010} má. Dureza 4,5. Densidade 7,3 - 7,9. Fratura serrilhada. Maleável. Opaco. Brilho metálico. Cor: do cinzento do aço ao negro. Fortemente magnético."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Ferro, sempre com algum níquel e frequentemente com pequenas quantidades de cobalto, cobre, manganês, enxofre e carvão. O mineral ferro - níquel contém aproximadamente 76 por cento de níquel."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Solúvel no ácido clorídrico. O hidróxido de amônio precipita-o, da solução ácida, sob a forma de hidróxido férrico vermelho, em flocos."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos Diagnósticos:",
+      "body": "Pode-se reconhecer o ferro por seu magnetismo forte, sua maleabilidade e pelo revestimento de óxido, usualmente, sobre sua superfície."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Ocorre, escassamente, como ferro terrestre e nos meteoritos. O ferro terrestre é considerado como um constituinte magmático primário, ou um produto secundário, formado pela redução dos compostos de ferro pelo carbono assimilado. A localidade mais importante esta na costa ocidental da Groelândia, onde estão incluídos, nos basalto, fragmentos oscilando entre pequenos grãos e massas de muitas toneladas. Sabia-se, em 1819, que os nativos o usavam, mas só em 1870 foi que a fonte se tornou conhecida. Encontrou-se o ferro terrestre em algumas outras localidades, em associação semelhante.\n\nO ferro meteórico, com um conteúdo de níquel variando entre 5 e 15%, forma quase toda a massa de meteoritos de ferro e mostra um padrão hexagonal sobre uma superfície  polida e corroída. O ferro acha-se disseminado em meteoritos silicatados, em grânulos pequenos. Reconhecem-se usualmente os meteoritos por sua superfície fundida, cheia de cavidades e por um revestimento de óxido férrico."
+    }
+  ]
+}

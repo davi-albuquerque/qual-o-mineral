@@ -1,0 +1,43 @@
+# ENARGITA
+
+**Fórmula:** Cu3AsS4
+
+**Tipo:** SULFOSSAL
+
+## Cristalografia:
+
+Ortorrômbico; piramidal. Cristais alongados paralelamente ao eixo c e estriados verticalmente; também tabulares, paralelamente a {001}. Colunar, laminada, maciça.
+
+## Propriedades físicas:
+
+Clivagem prismática perfeita {110}; Dureza: 3,0; Densidade 4,43 - 4,45. Brilho metálico. Cor e Traço: entre o preto acinzentado me o preto do ferro. Opaca.
+
+## Composição:
+
+Sulfeto de arsênico e cobre, Cu3AsS4.  Cu  48,2 - As 19,1  - S 32,6 por cento. O  antimônio pode substituir o arsênico até 6 por cento, em peso. Estão presentes usualmente algum ferro e zinco.
+
+## Ensaios:
+
+Corresponde  ao número 1 na escala de fusibilidade. Sobre o carvão vegetal, produz sublimado de óxido arsenioso branco, volátil, desprendendo odor de alho característico. Calcinada sobre o carvão vegetal, depois umedecida com ácido clorídrico e, de novo, posta em ignição, produz a chama azul-celeste do cloreto de cobre.
+
+## Aspectos diagnósticos:
+
+Caracterizada por sua cor e sua clivagem. Distingue-se da estibnita pela reação do cobre.
+
+## Ocorrência:
+
+A enargita  é um mineral comparativamente raro, encontrado em filões e em depósitos de substituição, associado com a pirita, esfalerita, bornita, galena, tetraedrita, covellita e calcocita.
+
+Localizações dignas de nota: Bor, perto de Zajecar, na Iugoslávia. Encontrada abundantemente em Morococha e Cerro de Pasco, no Peru; também no Chile e na Argentina; ilha de Luzon, nas Filipinas. Nos Estados Unidos é um mineral importante em Butte, no Estado de Montana e , em menor escala em Binghan Canyon no Estado de Utah. Ocorre nas minas de prata das montanhas de San Juan, no Colorado.
+
+## Uso:
+
+Um minério de cobre. Em Butte, também se obtém dela o óxido de arsênico.
+
+## Nome:
+
+Provém da palavra grega significando distinto, em alusão a clivagem.
+
+## Espécies semelhantes:
+
+A famatinita, Cu3SbS4, é o análogo de antimônio da enargita, mas os dois minerais não são isoestruturais.

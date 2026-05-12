@@ -1,0 +1,45 @@
+# MAGNETITA
+
+**Fórmula:** Fe3O4
+
+**Tipo:** ÓXIDO
+
+## Cristalografia:
+
+Isométrico, hexaoctaédrica.  Frequentemente em cristais de hábito octaédrico, geminado ocasionalmente. Os dodecaedros são mais raros. Os dodecaedros podem ser estriados paralelamente a interseção com as faces do octaedro. Outras formas são raras. Usualmente maciça granular; granulação grossa ou fina.
+
+## Propriedades físicas:
+
+Partição octaédrica em alguns espécimes. Dureza: 6,0;  Densidade 5,18.   Brilho Metálico. Cor: preto do ferro. Traço preto. Fortemente magnética; comporta-se como um imã natural, conhecida como lodestone. Opaca.
+
+## Composição:
+
+Fe3O4 ou FeFe2O4. Fe  72,4   - O  27,6  por cento. A composição da magnetita usualmente corresponde aquela mostrada pela fórmula. Contudo algumas análises mostram alguns por cento de magnésio e manganês bivalente.
+
+## Ensaios:
+
+Infusível. vagorosamente solúvel em ácido clorídrico, a solução reagindo tanto para o ferro ferroso como para o ferro férrico.
+
+## Aspectos diagnósticos:
+
+Caracterizada principalmente pelo seu forte magnetismo, cor preta e sua dureza (6). Distingue-se da franklinita magnética pelo traço.
+
+## Ocorrência:
+
+A magnetita é um minério de ferro comum. Encontra-se distribuída sob a forma de um mineral acessório em muitas rochas magmáticas. Em certos tipos de rocha, através de segregação magmática, torna-se um dos principais constituintes e pode assim, formar grandes corpos de minério. Estes corpos são muitas vezes altamente titaníferos. A magnetita está associada, mais comumente, com rochas metamórficas cristalinas; ocorre também, frequentemente, em rochas ricas de minerais  ferro-magnesianos, como dioritos, gabros e peridotitos. Ocorre também, sob a forma de camadas ou lentes imensas, incluídas em rochas metamórficas antigas. Encontra-se nas areias pretas das praias. Aparece em placas delgadas e sob a forma de crescimento dendríticos entre as lâminas das micas.  Associa-se intimamente, com o coríndon, para formar o material conhecido pela designação de esmeril.
+
+Os maiores depósitos do mundo estão situados na parte norte da Suécia, em Kiruna e Gellivare; estes depósitos, acredita-se, ter-se-iam formado por segregação magmática. Outros depósitos importantes encontram-se na Noruega, na Rumânia e nos Montes Urais. Os ímãs naturais mais poderosos encontram-se na Sibéria, nas Montanhas do Harz, na ilha d'Elba e no complexo rochoso de Bushveld, no Transvaal.
+
+Nos Estados Unidos, a magnetita encontra-se, em quantidades comerciais em diversas localidades da região dos Adirondack, no Estado de Nova Iorque; em Utah, na Califórnia, em Nova Jersey e na Pensilvânia. Encontra-se sob a forma de lodestone (ímãs naturais) e cristais, em Magnet Cove, no Arkansas.
+
+## Uso:
+
+Um importante minério de ferro.
+
+## Nome:
+
+Deriva-se, provavelmente da localidade Magnesia, nos limites da Macedônia. Uma fábula, atribuída a Plínio, liga seu nome a um pastor chamado Magnês que descobriu o mineral pela primeira vez no Monte Ida, ao notar que os pregos de seus sapatos e a argola de ferro de seu bordão aderiam ao chão.
+
+## Espécies semelhantes:
+
+A magnésio-ferrita , MgFe2O4, é um mineral raro que se encontra principalmente em fumarolas. A jacobsita , MnFe2O4,  é um mineral raro que se encontra em Langban, na Suécia.

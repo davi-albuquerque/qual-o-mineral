@@ -1,0 +1,39 @@
+# JADEÍTA
+
+**Fórmula:** NaAl(Si2O6)
+
+**Tipo:** SILICATOS - FAMÍLIA DOS PIROXÊNIOS
+
+## Cristalografia:
+
+Monoclínico, prismática. Raramente, em cristais isolados. habitualmente, fibrosa em agregados maciços, compactos.
+
+## Propriedades físicas:
+
+Clivagem {110} perfeita, formando ângulos de 87° e 93°. Extremamente tenaz e difícil de quebrar.  Dureza 6,5 - 7,0. Densidade 3,3 - 3,5. Cor: verde da maçã ao verde da esmeralda, branco. Pode ser branco com manchas verdes. Brilho vítreo; nacarado nas superfícies de clivagem.
+
+## Composição:
+
+Silicato de  alumínio e sódio, NaAl(Si2O6).   Na2O  15,4  -  Al2O3   25,2  -  SiO2   59,4 por cento. Contém algum ferro férrico, cálcio e magnésio.
+
+## Ensaios:
+
+Situado a meio caminho entre os números 2 e 3 na escala de fusibilidade. Ao fundir-se, produz  um vidro transparente, vesiculoso. Insolúvel nos ácidos.
+
+## Aspectos diagnósticos:
+
+Caracterizado por sua cor verde e agregados de fibras compactas, tenazes. Distingue-se da nefrita por sua fusão fácil.
+
+Alteração:     O espodumênio altera-se, mui facilmente, em outras espécies, tornando-se opaco. Os produtos da alteração incluem a albita, eucriptita, LiAl(SiO4), moscovita e microclínio.
+
+## Ocorrência:
+
+A jadeíta ocorre em grandes massas na serpentina, aparentemente formada pelo metamorfismo de uma rocha com nefelina e albita. Encontra-se principalmente na Ásia Oriental, na Birmânia Superior. Também encontrada no Tibet e na China Meridional.
+
+## Uso:
+
+Aprecia-se desde há muito, a jadeíta, no Oriente, especialmente na China, onde é utilizada na fabricação de ornamentos e utensílios de grande variedade e beleza. Foi usada, também, pelo homem primitivo em várias armas e implementos.
+
+## Nome:
+
+A jadeíta recebeu este nome porque se verificou que muitas espécimes de jade eram constituídos por ela. Sob o termo jade, estão incluídos tanto o anfibólio nefrita como o  piroxênio jadeíta.

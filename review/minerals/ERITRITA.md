@@ -1,0 +1,37 @@
+# ERITRITA
+
+**Fórmula:** Co3(AsO4)2.8H2O
+
+**Tipo:** FOSFATOS, ARSENIATOS E VANADATOS
+
+## Cristalografia:
+
+Monoclínico; prismática. Cristais prismáticos, estriados verticalmente. Usualmente , como crostas, nas configurações globular e reniforme.  Também pulverulenta e terrosa.
+
+## Propriedades físicas:
+
+Clivagem {010} perfeita. Dureza 1,5 - 2,5. Densidade 3,06. Brilho adamantino a vítreo, nacarado na superfície de clivagem. Cor: carmesim a róseo. Translúcida.
+
+## Composição:
+
+Arseniato de cobalto hidratado, Co3(AsO4)2.8H2O. CoO  37,5  - As2O5  38,4  - H2O  24,1  por cento. O níquel substituí o cobalto, formando uma série completa até a annabergita, Ni3(AsO4)2.8H2O. A annabergita, ou flores de níquel, é de cor verde claro.
+
+## Ensaios:
+
+Corresponde ao número 2 na escala de fusibilidade, produzindo uma pérola cizenta. Confere  cor azul intensa à pérola de bórax (cobalto). Quando aquecida sobre o carvão vegetal, produz odor arsenical. Solúvel no ácido clorídrico, dando solução vermelha.
+
+## Aspectos diagnósticos:
+
+A associação da eritrita com  outros minerais de cobalto e sua cor rósea são, usualmente, suficientes para distingui-la de todos os outros minerais.
+
+## Ocorrência:
+
+A  eritrita é um mineral raro, secundário, que ocorre como um produto de alteração dos aseniatos de cobalto. Raramente, está presente em grandes quantidades, e usualmente aparece sob a forma de crostas ou agregados finos, preenchendo rachaduras. As localidades dignas de menção por sua ocorrência estão em Schneeberg, na Saxônia, e Cobalt, em Ontário.
+
+## Uso:
+
+Embora a eritrita não tenha importância econômica, o explorador a emprega como guia em relação a outros minerais de cobalto, e à prata nativa, associada a ela.
+
+## Nome:
+
+Provém da palavra grega significando vermelho.

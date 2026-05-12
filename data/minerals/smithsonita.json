@@ -1,0 +1,55 @@
+{
+  "slug": "smithsonita",
+  "name": "SMITHSONITA",
+  "rawName": "SMITHSONITA",
+  "formula": "ZnCO3",
+  "type": "CARBONATO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal - R, escalenoédrica-hexagonal. Raramente em cristais pequenos, romboédricos ou escalenoédricos. Usualmente reniforme, botrioidal ou estalactítica e em incrustações cristalinas ou em massas com a forma de favos de mel, conhecidas como minério osso seco. Também granular a terrosa."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem  romboédrica perfeita {1011} observada raramente (ângulo de clivagem = 72°20').  Dureza 4,0 - 4,5 (extraordinariamente alta para um carbonato). Densidade 4,30 - 4,45. Brilho vítreo. Cor: usualmente castanho sujo. Pode ser incolor, branca, vermelha, azul e rósea. A variedade amarela contém cádmio, sendo conhecida por minério gordura de peru. Traço branco. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Carbonato de  zinco, ZnCO3. ZnO   64,8  - CO2  35,2  por cento. O zinco pode ser substituído, parcialmente pelo ferro ferroso e pelo manganês bivalente; também menos comumente, pelo cálcio, magnésio, cádmio, cobre, cobalto e chumbo."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Solúvel com efervescência, no ácido clorídrico frio. Um fragmento aquecido na chama redutora produz traços verde-azulados na chama, em consequência da queima do zinco volatilizado. Aquecida na chama redutora sobre o carvão vegetal, produz uma auréola não-volátil de  óxido de zinco, amarela, a frio, branca a quente; quando se umedece a auréola com nitrato de cobalto e se aquece novamente ela se torna verde."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se por sua efervescência nos ácidos, seus ensaios para o zinco, sua dureza (5) e sua densidade relativa elevada."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A smithsonita é um minério de zinco de origem supérgena, encontrada usualmente com depósitos de zinco existentes em rochas calcárias. Associada com a esfalerita, galena, hemimorfita, cerussita, calcita e limonita. Encontrada muitas vezes como pseudomorfos sobre a calcita. O minério osso seco é massa alveolar, com a aparência de osso seco, cuja textura resultou da maneira de deposição do mineral. Algumas hemimorfitas, o silicato de zinco, estão incluídos sobre este termo. Encontrada em certas localidades sob a forma de material translúcido verde ou azul-esverdeado, usado para fins ornamentais.  A localidade de Laurium, na Grécia, é afamada por suas smithsonitas ornamentais e a Sardenha pelas estalactites amarelas com faixas concêntricas. Da mina de Broken Hill, na Rodésia do Norte e de Tsumeb na África do Sudoeste, tem vindo espécimes cristalizadas muito bonitos.  Nos Estados Unidos, a smithsonita ocorre como um minério nos depósitos de zinco de Leadville no Colorado; Missouri; Arkansas; Wisconsin e Virgínia. Em Kelly, no Novo México, tem sido encontrado material azul-esverdeado, bem cristalizado."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de zinco. O emprego para fins de ornamentação é de menor importância."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra de Janes Smithson (1754 - 1829), fundador da Smithsonian Institution, em Washington. Anteriormente, os mineralogistas ingleses deram a este mineral o nome calamina."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A hidrozincita, Zn5(OH)6(CO3)2  ocorre como mineral secundário nos depósitos de zinco."
+    }
+  ]
+}

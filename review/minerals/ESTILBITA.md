@@ -1,0 +1,53 @@
+# ESTILBITA
+
+**Fórmula:** Ca(Al2Si7O18).7H2O
+
+**Tipo:** TECTOSSILICATOS
+
+## preamble
+
+FAMÍLIA DAS ZEÓLITAS
+
+## preamble
+
+As zeólitas formam uma grande família de silicatos hidratados e mostram semelhanças íntimas na composição, em suas associações e no modo de ocorrência. elas são silicatos de alumínio com sódio  e cálcio como as bases importantes. A dureza média varia entre 3,5 e 5,5 e a densidade relativa entre 2,0 e 2,4. muitas delas fundem rapidamente com intumescência pronunciada, donde o nome de zeólita, de duas palavras gregas, significando fever e pedra. São minerais secundários e encontram-se, de forma característica, em cavidades e veios em rochas ígneas básicas.
+
+## preamble
+
+Todas as zeólitas são aluminossilicatos cujas composições, a grosso modo, lembram de alguma forma, as do feldspatos e, como os feldspatos, estão formadas em cadeias construídas de anéis tetragonais de Sio e tetraédros de AlO4. As cadeias, ligadas pelos cátions, intersticiais, sódio, potássio, cálcio e bário, formam uma estrutura aberta, com grandes cristais, nos quais a água e outras moléculas podem alojar-se prontamente. Grande parte do interesse nas zeólitas, liga-se a presença destes canais espaçosos. Quando uma zeólita é aquecida, a água nos canais desprende-se fácil e continuamente, à medida que a temperatura aumenta, deixando a estrutura intacta. este comportamente está em contraste nítido com outros compostos hidratados, por exemplo, o gipso, no qual as moléculas de água desempenham um papel estrutural e uma desidratação completa produz o colápso da estrutura. Após a desidratação completa de uma zeólita, os canais podem ser preenchidos novamente com água ou com amônia, vapor de mercúrio, vapor de iodo ou uma variedade de outras substâncias. este processo é seletivo e depende da estrutura particular da zeólita e do tamanho das moléculas, e dai, serem as zeólitas usadas como "peneiras moleculares".
+
+## preamble
+
+As zeólitas tem uma propriedade útil, adicional que se prende à sua estrutura. A água pode passar facilmente através dos canais, e no processo, os íons em solução podem ser trocados por íons na estrutura. este processo é denominado "troca de base" ou "troca de catíon", e por sua atividade as zeólitas ou os compostos sintéticos coma estrutura zeólitica são usados para o amolecimento da água. A zeólita usada tem uma composição aproximada de Na2Al2Si3O10.2H2O (como a natrólita). A água "dura", isto é, a água contendo muitos íons de cálcio em solução, passa através de um tanque cheio de grânulos de zeólita. Os íons de cálcio substituem os íons de sódio na zeólita, formando CaAl2Si3O10.2H2O, fornecendo íons de sódio para a solução. A água contendo sódio não forma escuma e é conhecida pela designação de "mole". Quando a zeólita posta no tanque ficou saturada de cálcio, faz-se passar por ele uma salmora de NaCl, forte. A alta concentração de íon sódio força a reação na direção inversa, com a reconstituição do Na2Al2Si3O10.2H2O, o cálcio passando para a solução. Pela troca de base, muito íons, incluindo a prata, podem substituir o cátion metal-alcalino da estrutura da zeólita.
+
+## Cristalografia:
+
+Monoclínico; prismática. geminados, uniformenemte em cruz (pseudo-ortorrômbico). Comumente tabular paralelamente ao pinacóide lateral. Usualmente em cristais individuais distintos ou em agregados semelhantes a feixes.
+
+## Propriedades físicas:
+
+Clivagem perfeita paralela a {010}. Dureza  3,5 - 4,0. Densidade  2,10 - 2,20. Brilho vítreo, nacarado sobre o pinacóide lateral.  Cor: branca, mais raramente amarela, castanha e vermelha.  Translúcida.
+
+## Composição:
+
+Essencialmente um silicato hidratado de alumínio e cálcio,  Ca(Al2Si7O18).7H2O.  Estão usualmente presentes, em pequenas quantidades, o sódio e o potássio.
+
+## Ensaios:
+
+Corresponde ao número 3 na escala de fusibilidade. Funde com intumescência produzindo um  esmalte branco. Decompõe-se pelo ácido clorídrico com a separação de sílica mas sem a formação de uma geléia. Fornece água no tubo fechado.
+
+## Aspectos diagnósticos:
+
+Caracterizada, principalmente, pela clivagem, brilho nacarado sobre a face de clivagem e os grupos comuns de cristais com a forma de feixes.
+
+## Ocorrência:
+
+A   estilbita é um mineral de origem segundária e encontra-se em cavidades nos basaltos e rochas relacionadas. Associada  com outras zeólitas e calcita.  Localidades dignas de mensão pelas ocorrências são:  Poonah, Índia; ilha de Skye; Ilhas Faeroe; Kilpatrick, Escócia; Islândia. Encontrada, ainda em Nova Scotia.
+
+## Nome:
+
+Derivado da palavra grega significando brilho, em alusão ao brilho nacarado.
+
+## Espécies semelhantes:
+
+As zeólitas monoclínicas, phillipsita e harmotomo, pertencem ao grupo da estilbita e possuem composição variável e complexa.

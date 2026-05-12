@@ -1,0 +1,50 @@
+{
+  "slug": "bornita",
+  "name": "BORNITA",
+  "rawName": "BORNITA",
+  "formula": "Cu5FeS4",
+  "type": "SULFETO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico; hexaoctaédrica. Raramente em cristais cúbicos e menos comumente em cristais dodecaédricos e octaédricos. Usualmente maciça."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 3 .Densidade: 5,06 - 5,08.  Brilho metálico. Cor: bronze pardacento em superfície recente. Exposta ao ar, embaça-se rapidamente, adquirindo cores purpúrea e azul variegadas, chegando finalmente quase ao preto. traço preto-acinzentado."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Sulfeto de ferro e cobre, Cu5FeS4. Cu 63,3 - Fe 11,2 - S 25,5 por cento. Vesículas microscópicas, misturadas, de outros minerais fazem com que a composição do que parece ser bornita varie consideravelmente, mas as análises do material puro concordam com a fórmula anteriormente citada."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se a meio caminho entre os números 2 e 3 da escala de fusibilidade. Desprende odor de anidrido sulfuroso sobre o carvão vegetal. No tubo fechado, produz muito pouco enxofre. na chama redutora, torna-se magnética. Se, depois de calcinada, se umedece com ácido clorídrico e aquece, produz chama azul-celeste (cobre)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se a bornita por sua cor de bronze característica em fratura recente, e por adquirir cor purpúrea, quando embaçada.\n\nAlteração:   A bornita altera-se prontamente, dando calcocita e covellita."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A bornita é um minério de cobre que ocorre amplamente; encontra-se, usualmente associada com outros minerais de cobre em depósitos hipógenos. Encontram-se muito menos frequentemente como mineral supérgeno, formado na zona enriquecida, superior dos filões de cobre, pela ação das soluções descendentes contendo cobre sobre a calcopirita. Encontra-se disseminada nas rochas básicas, nos depósitos metamórficos de contato, nos depósitos de substituição e nos pegmatitos. A bornita ocorre com frequência em misturas íntimas com a calcopirita e calcocita. Quantitativamente o minério de cobre não é tão importante quanto a calcocita e a calcopirita.\n\nEncontraram-se belos cristais de bornita associados com cristais de calcocita em Bristol, em Connecticut, e em Cornwall, na Inglaterra. Encontrada em grandes massas no Chile, Peru, Bolívia e México. Encontra-se nos Estados Unidos na mina Magma, em Pioneer, no Arizona; em Butte, no Estado de Montana; na mina Engels, em Plumas County na Califórnia; em Halifax County, na Virginia e em Superior, no Arizona."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de cobre."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Bornita provém do nome de um mineralogista alemão, von Born (1742 - 1791)."
+    }
+  ]
+}

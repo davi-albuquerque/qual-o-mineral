@@ -1,0 +1,55 @@
+{
+  "slug": "diasporo",
+  "name": "DIÁSPORO",
+  "rawName": "DIÁSPORO",
+  "formula": "HAlO2",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico, bipiramidal. Usualmente em cristais delgados, tabulares paralelamente a {010}. Laminar, maciço laminado, disseminado."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem perfeita pinacoidal {010}. Dureza: 6,5 - 7,0;  Densidade 3,35 - 3,45. Brilho vítreo, exceto na face de clivagem onde é nacarado. Transparente a translúcido. Cor: branco, cinza, amarelo, esverdeado."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Óxido de alumínio e hidrogênio, HAlO2.  Al2O3  85  -  H2O  15 por cento.\n\nO  diásporo corresponde a formula geral tipo ABO2 e difere da boehmita AlO(OH) por não ter grupos (OH). O hidrogênio atua como um catíon na coordenação 2 com o oxigênio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Insolúvel. Decrepita e produz água quando aquecido em tubo fechado. Aquecido com nitrato de cobalto, torna-se azul (alumínio)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizado por sua boa clivagem, hábito laminar e dureza (6,5 - 7,0)."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O diásporo associa-se comumente com o coríndon na rocha esmeril e com aquele mineral em dolomitos e clorita xistos. Ocorre em depósitos de bauxita e nas argilas aluminosas. Tem sido encontrado em calcários metamórficos, sob a forma de mineral acessório.\n\nAs localidades dignas de nenção são: Os Montes Urais; Schemnitz, na Checoeslováquia; Campolungo, na Suíça. Nos Estados Unidos, encontra-se em Chester County, na Pensilvânia, em Chester, no Massachusetts; em Mt. Robinson, Rosita Hills, no Colorado, associado a alunita, formando massas rochosas. É encontrado, abundantemente, em bauxita e argilas aluminosas em Arkansas, no Missouri e em outras regiões dos Estados Unidos."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Como um refratário"
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado da palavra grega significando espalhar uma alusão a decrepitação quando aquecido."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A boehmita AlO(OH) e a gibbsita Al(OH)3 encontram-se sob a forma de partículas disseminadas como constituíntes do bauxito."
+    }
+  ]
+}

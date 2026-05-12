@@ -1,0 +1,50 @@
+{
+  "slug": "turquesa",
+  "name": "TURQUESA",
+  "rawName": "TURQUESA",
+  "formula": "CuAl6(PO4)4(OH)82H2O",
+  "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Triclínico; pinacoidal. Raramente em cristais minúsculos, ordinariamente, criptocristalina. Maciça compacta, reniforme, estalactítica. Em camadas delgadas, incrustações e grãos disseminados."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 6,0. Densidade 2,6 - 2,8. Brilho parecido com o da cera. Cor: azul, verde-azulado, verde. Transmite a luz em seções delgadas."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um fosfato básico, hidratado,de alumínio, CuAl6(PO4)4(OH)8. O ferro férrico pode substituir o alumínio, existindo uma série completa entre a turquesa e a calcossiderita, em que o ferro excede o alumínio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível. Quando umedecida com ácido clorídrico e aquecida dá a chama azul do cloreto de cobre. Solúvel no ácido clorídrico depois da calcinação. A solução dá um precipitado amarelo com um excesso de solução de molibdato de amônio (ensaio do fosfato). Produz uma chama verde passageira. No tubo fechado torna-se escura e produz água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A turquesa pode ser reconhecida, facilmente, por sua cor. É mais dura que a crisocola, o único mineral comum com que se assemelha."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A turquesa é um mineral de origem secundária, encontrada usualmente sob a forma de pequenos veios e cordões atravessando as rochas vulcânicas mais ou menos decompostas. Os famosos depósitos da Pérsia encontram-se no traquito, próximo de Nishâpûr, na província de Khorasan. Nos Estados Unidos, encontra-se a turquesa em uma rocha traquítica muito alterada em Los Cerillos Mountains, perto de Santa Fé, e alhures no Estado do Novo México. Tem-se encontrado a turquesa também no Arizona, Nevada e Califórnia."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Como pedra preciosa. Lapidada sempre em formas arredondadas ou ovais. Muitas turquesas apresentam vênulas dos vários materiais da ganga, sendo lapidadas e vendidas sob o nome de matriz da turquesa."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "A palavra turquesa provém do francês e significa turco, dado que as pedras que chegadas, por primeiro à Europa, vieram da localidade persa através da Turquia."
+    }
+  ]
+}

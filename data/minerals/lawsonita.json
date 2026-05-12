@@ -1,0 +1,50 @@
+{
+  "slug": "lawsonita",
+  "name": "LAWSONITA",
+  "rawName": "LAWSONITA",
+  "formula": "CaAl2(Si2O7)(OH)2.H2O",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; usualmente, em cristais tabulares, ou prismáticos. Frequentemente, geminado polissinteticamente sobre {110}"
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {010} e {110} boa . Dureza  8,0. Densidade 3,09. Incolor, azul-pálido a cinza-azulada. Brilho vítreo a gorduroso. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de cálcio a alumínio, CaAl2(Si2O7)(OH)2.H2O. è interessante notar que a composição da lawsonita é a mesma que a da anortita, mais água."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Funde-se formando um vidro cheio de bolhas, mas uma vez fundida, não se funde de novo. Calcinada intensamente, em tubo fechado, produz água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A lawsonita caracteriza-se por sua dureza elevada e por sua tendência de produzir água no tubo fechado."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A lawsonita encontra-se nos gnaisses e xistos, em grãos bem formados, assim como nos veios em rochas metamórficas. A localidade típica está na península de Tiburon, na Baía de São Francisco, na Califórnia. Encontrada, também em xistos, na França e na Nova Caledônia."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra do professor Abdrew Lawson, da Universidade da Califórnia."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A ilvaíta, CaFe\"Fe\"O(Si2O7)(OH), relaciona-se com a lawsonita, com uma estrutura semelhante, embora não idêntica. Uma combinação de ferro ferroso e ferro férrico, na ilvaíta, parece ser aproximadamente equivalente ao alumínio na lawsonita: Fe\"Fe\"'(OH) em lugar de Al2(OH)2."
+    }
+  ]
+}

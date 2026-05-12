@@ -1,0 +1,41 @@
+# CERUSSITA
+
+**Fórmula:** PbCO3
+
+**Tipo:** CARBONATO
+
+## Cristalografia:
+
+Ortorrômbico; bipiramidal. O hábito dos cristais é variado, mostrando muitas formas. Muitas vezes, tabular paralelamente a {010}. Geminada frequentemente; pode formar grupos reticulados com as placas cruzando entre si, formando ângulos de 60°. O hábito pode ser piramidal; também geminada em pirâmides pseudo-hexagonais, frequentemente com ângulos reentrantes, profundos na zona vertical. Também em agregados cristalinos, granulares, fibrosa, maciça, granular, compacta e terrosa.
+
+## Propriedades físicas:
+
+Boa Clivagem   {110} e regular {121}.  Dureza 3,0  -  3,5. Densidade 6,55 (elevada para um mineral com brilho não-metálico).  Brilho adamantino. Incolor, branca ou cinzenta. Transparente a subtranslúcida.
+
+## Composição:
+
+Carbonato de  chumbo, PbCO3.   PbO  83,5  - CO2  16,5  por cento.
+
+## Ensaios:
+
+Situa-se a meio caminho entre os números 1 e 2 da escala de fusibilidade. Com carbonato de sódio, sobre o carvão vegetal, produz glóbulos de chumbo e auréola de óxido de chumbo, de coloração indo do amarelo ao branco. Solúvel, com efervescência. no ácido nítrico diluído, quente.
+
+## Aspectos diagnósticos:
+
+Reconhecida por sua densidade relativa elevada, cor branca e brilho adamantino. A forma cristalina e a efervescência no ácido nítrico servem para distingui-la da anglesita.
+
+## Ocorrência:
+
+A cerussita é um minério de chumbo supérgeno, importante e amplamente disseminado, formado pela ação da águas carbonatadas sobre a galena, na zona superior dos veios de chumbo. Está associada com os minerais primários: galena e esfalerita e, com vários minerais secundários, tais como, a anglesita, piromorfita, smithsonita e limonita.
+
+As localidades notáveis por sua ocorrência são: Em, em Nassau; Mies, na Boêmia; Nerchinsk, na Sibéria, na Sardenha; em Tunis; em Tsumeb, Otavi, na África Sudoeste e em Broken Hilll, na Nova Gales do Sul. Encontrada nos Estados Unidos, em Phoenixville, na Pensilvânia; em Leadville, no Colorado; em vários distritos no Arizona; nas Organ Mountais, no Novo México e no distrito de Coeur d'Alene, no Estado de Idaho.
+
+## Uso:
+
+Um minério de chumbo importante.
+
+## Nome:
+
+Provém da palavra latina significando chumbo branco.
+
+Espécimes semelhantes:   A fosgenita, um clorocarbonato de chumbo Pb2Cl2CO3, tetragonal na cristalização, é um carbonato anidro raro.

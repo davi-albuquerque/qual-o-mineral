@@ -1,0 +1,23 @@
+# NITRATOS
+
+> _Esta é uma página resumo de classe (não um mineral individual)._
+
+## preamble
+
+O nitrogênio pentavalente forma com o oxigênio grupos iônicos achatados, configurados em trevo, muito semelhantes ao grupo carbonato. Estes triângulos são o radical nitrato monovalente, NO3-, constituíndo o bloco de construção dominante dos nitratos. da mesma forma que o carbono no grupo carbonato, o íon nitrogênio altamente carregado e polarizado une seus três oxigênios coordenados em um grupo compacto, em que a força da ligação nityrogênio-oxigênio (12/3) é menor do que qualquer outra ligação possível no cristal. Por causa da maior força desta ligação N-O, os nitratos se decompõem menos facilmente pelos ácidos do que os carbonatos.
+
+## preamble
+
+Quando estes triângulos nitrogênio-oxig~enio se combinam, em proporções de um para um, com os cátions monovalentes, cujos raios permitem a coordenação 6, resultam estruturas análogas às do grupo calcita. Assim, o nitrato de sódio, NaNO3, e a calcita são isoestruturais, com a mesma cristalografia e a mesma clivagem e homeomorfos. Todavia, por causa de sua carga menor, o nitrato de sódio é mais mole do que a calcita e funde-se em uma temperatura mais baixa e, dado o peso atômico mais baixo do sódio, tem densidade relativa mais baixa. O nitro, KNO3 (raio iônico do K = 1,33 A°) é semelhante um análogo estrutural da aragonita, exceto pela monovalência dos íons.
+
+## preamble
+
+É particularmente significativo que o salitre do Chile, como a calcita, tenha um polimorfo ortorrômbico com o nitro, tornando assim, completa a analogia. Alude-se muitas vezes, à estrutura da calcita como a do NaNO3 e à da aragonita como a do tipo de estrutura do KNO3.
+
+## preamble
+
+Nitratos
+
+## preamble
+
+Nitro de sódio       NaNO3                              Nitro   KNO3

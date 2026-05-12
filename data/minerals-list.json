@@ -1,0 +1,1148 @@
+[
+  {
+    "slug": "albita",
+    "name": "ALBITA",
+    "rawName": "ALBITA - ANORTITA   NaAlSi3O8         CaAl2Si2O8",
+    "formula": "- ANORTITA   NaAlSi3O8         CaAl2Si2O8"
+  },
+  {
+    "slug": "alunita",
+    "name": "ALUNITA",
+    "rawName": "ALUNITA    KAl3(OH)6(SO4)2",
+    "formula": "KAl3(OH)6(SO4)2"
+  },
+  {
+    "slug": "ambligonita",
+    "name": "AMBLIGONITA",
+    "rawName": "AMBLIGONITA   LiAlFPO4",
+    "formula": "LiAlFPO4"
+  },
+  {
+    "slug": "analcima",
+    "name": "ANALCIMA",
+    "rawName": "ANALCIMA      Na(AlSi2O6)H2O",
+    "formula": "Na(AlSi2O6)H2O"
+  },
+  {
+    "slug": "andaluzita",
+    "name": "ANDALUZITA",
+    "rawName": "ANDALUZITA    AlAlO(SiO4)",
+    "formula": "AlAlO(SiO4)"
+  },
+  {
+    "slug": "anglesita",
+    "name": "ANGLESITA",
+    "rawName": "ANGLESITA      PbSO4",
+    "formula": "PbSO4"
+  },
+  {
+    "slug": "anidrita",
+    "name": "ANIDRITA",
+    "rawName": "ANIDRITA    CaSO4",
+    "formula": "CaSO4"
+  },
+  {
+    "slug": "antlerita",
+    "name": "ANTLERITA",
+    "rawName": "ANTLERITA    Cu(OH)4SO4",
+    "formula": "Cu(OH)4SO4"
+  },
+  {
+    "slug": "antofilita",
+    "name": "ANTOFILITA",
+    "rawName": "ANTOFILITA   (Mg,Fe)7(Si8O22)(OH)2",
+    "formula": "(Mg,Fe)7(Si8O22)(OH)2"
+  },
+  {
+    "slug": "apatita",
+    "name": "APATITA",
+    "rawName": "APATITA    Ca5(F,Cl,OH) (PO4)3",
+    "formula": "Ca5(F,Cl,OH) (PO4)3"
+  },
+  {
+    "slug": "apofilita",
+    "name": "APOFILITA",
+    "rawName": "APOFILITA     KCa4(Si4O10)2F.8H2O",
+    "formula": "KCa4(Si4O10)2F.8H2O"
+  },
+  {
+    "slug": "aragonita",
+    "name": "ARAGONITA",
+    "rawName": "ARAGONITA   CaCO3",
+    "formula": "CaCO3"
+  },
+  {
+    "slug": "arfvedsonita",
+    "name": "ARFVEDSONITA",
+    "rawName": "ARFVEDSONITA       Na3Mg4Al(Si8O22)(OH,F)2",
+    "formula": "Na3Mg4Al(Si8O22)(OH,F)2"
+  },
+  {
+    "slug": "argentita",
+    "name": "ARGENTITA",
+    "rawName": "ARGENTITA   Ag2S",
+    "formula": "Ag2S"
+  },
+  {
+    "slug": "arsenico",
+    "name": "ARSÊNICO",
+    "rawName": "ARSÊNICO  As",
+    "formula": "As"
+  },
+  {
+    "slug": "arsenopirita",
+    "name": "ARSENOPIRITA",
+    "rawName": "ARSENOPIRITA  FeAsS",
+    "formula": "FeAsS"
+  },
+  {
+    "slug": "atacamita",
+    "name": "ATACAMITA",
+    "rawName": "ATACAMITA      Cu2Cl(OH)3",
+    "formula": "Cu2Cl(OH)3"
+  },
+  {
+    "slug": "augita",
+    "name": "AUGITA",
+    "rawName": "AUGITA     (Ca,Na)(Mg,Fe,Al) (Si,Al)2O6",
+    "formula": "(Ca,Na)(Mg,Fe,Al) (Si,Al)2O6"
+  },
+  {
+    "slug": "autunita",
+    "name": "AUTUNITA",
+    "rawName": "AUTUNITA     Ca(UO2)(PO4)2.10-12H2O",
+    "formula": "Ca(UO2)(PO4)2.10-12H2O"
+  },
+  {
+    "slug": "axinita",
+    "name": "AXINITA",
+    "rawName": "AXINITA       Ca2(Fe,Mn)Al2(BO3)(Si4O12)(OH)",
+    "formula": "Ca2(Fe,Mn)Al2(BO3)(Si4O12)(OH)"
+  },
+  {
+    "slug": "azurita",
+    "name": "AZURITA",
+    "rawName": "AZURITA   Cu3(CO3)2(OH)2",
+    "formula": "Cu3(CO3)2(OH)2"
+  },
+  {
+    "slug": "barita",
+    "name": "BARITA",
+    "rawName": "BARITA      BaSO4",
+    "formula": "BaSO4"
+  },
+  {
+    "slug": "bauxita",
+    "name": "BAUXITA",
+    "rawName": "BAUXITA  Al(OH)3",
+    "formula": "Al(OH)3"
+  },
+  {
+    "slug": "berilo",
+    "name": "BERILO",
+    "rawName": "BERILO         Be3Al2(Si6O18)",
+    "formula": "Be3Al2(Si6O18)"
+  },
+  {
+    "slug": "biotita",
+    "name": "BIOTITA",
+    "rawName": "BIOTITA     K(Mg,Fe)3(AlSi3O10)(OH)2",
+    "formula": "K(Mg,Fe)3(AlSi3O10)(OH)2"
+  },
+  {
+    "slug": "bismutinita",
+    "name": "BISMUTINITA",
+    "rawName": "BISMUTINITA    Bi2S3",
+    "formula": "Bi2S3"
+  },
+  {
+    "slug": "bismuto",
+    "name": "BISMUTO",
+    "rawName": "BISMUTO   Bi",
+    "formula": "Bi"
+  },
+  {
+    "slug": "boracita",
+    "name": "BORACITA",
+    "rawName": "BORACITA    Mg3B7O13Cl",
+    "formula": "Mg3B7O13Cl"
+  },
+  {
+    "slug": "borax",
+    "name": "BÓRAX",
+    "rawName": "BÓRAX   Na2B4O7.10H2O",
+    "formula": "Na2B4O7.10H2O"
+  },
+  {
+    "slug": "bornita",
+    "name": "BORNITA",
+    "rawName": "BORNITA    Cu5FeS4",
+    "formula": "Cu5FeS4"
+  },
+  {
+    "slug": "bournonita",
+    "name": "BOURNONITA",
+    "rawName": "BOURNONITA    PbcuSbS3",
+    "formula": "PbcuSbS3"
+  },
+  {
+    "slug": "brucita",
+    "name": "BRUCITA",
+    "rawName": "BRUCITA     Mg(OH)2",
+    "formula": "Mg(OH)2"
+  },
+  {
+    "slug": "cabazita",
+    "name": "CABAZITA",
+    "rawName": "CABAZITA     (Ca,Na)2 (Al2Si4O12).6H2O",
+    "formula": "(Ca,Na)2 (Al2Si4O12).6H2O"
+  },
+  {
+    "slug": "calaverita",
+    "name": "CALAVERITA",
+    "rawName": "CALAVERITA   AuTe2",
+    "formula": "AuTe2"
+  },
+  {
+    "slug": "calcanita",
+    "name": "CALCANITA",
+    "rawName": "CALCANITA    CuSO4.5H2O",
+    "formula": "CuSO4.5H2O"
+  },
+  {
+    "slug": "calcita",
+    "name": "CALCITA",
+    "rawName": "CALCITA   CaCO3",
+    "formula": "CaCO3"
+  },
+  {
+    "slug": "calcocita",
+    "name": "CALCOCITA",
+    "rawName": "CALCOCITA    Cu2S",
+    "formula": "Cu2S"
+  },
+  {
+    "slug": "calcopirita",
+    "name": "CALCOPIRITA",
+    "rawName": "CALCOPIRITA   CuFeS2",
+    "formula": "CuFeS2"
+  },
+  {
+    "slug": "caolinita",
+    "name": "CAOLINITA",
+    "rawName": "CAOLINITA (m.argilosos)   Al4(Si4O10)(OH)8",
+    "formula": "(m.argilosos)   Al4(Si4O10)(OH)8"
+  },
+  {
+    "slug": "carnallita",
+    "name": "CARNALLITA",
+    "rawName": "CARNALLITA  KMgCl3.6H2O",
+    "formula": "KMgCl3.6H2O"
+  },
+  {
+    "slug": "carnotita",
+    "name": "CARNOTITA",
+    "rawName": "CARNOTITA    K2(UO2)2(VO4)2.3H2O",
+    "formula": "K2(UO2)2(VO4)2.3H2O"
+  },
+  {
+    "slug": "cassiterita",
+    "name": "CASSITERITA",
+    "rawName": "CASSITERITA   SnO2",
+    "formula": "SnO2"
+  },
+  {
+    "slug": "celestita",
+    "name": "CELESTITA",
+    "rawName": "CELESTITA     SrSO4",
+    "formula": "SrSO4"
+  },
+  {
+    "slug": "cerargirita",
+    "name": "CERARGIRITA",
+    "rawName": "CERARGIRITA   AgCl",
+    "formula": "AgCl"
+  },
+  {
+    "slug": "cerussita",
+    "name": "CERUSSITA",
+    "rawName": "CERUSSITA  PbCO3",
+    "formula": "PbCO3"
+  },
+  {
+    "slug": "cianita",
+    "name": "CIANITA",
+    "rawName": "CIANITA    AlAlO(SiO4)",
+    "formula": "AlAlO(SiO4)"
+  },
+  {
+    "slug": "cinabrio",
+    "name": "CINÁBRIO",
+    "rawName": "CINÁBRIO    HgS",
+    "formula": "HgS"
+  },
+  {
+    "slug": "clinozoisita",
+    "name": "CLINOZOISITA",
+    "rawName": "CLINOZOISITA     Ca2Al3O (SIO4)(Si2O7)(OH)",
+    "formula": "Ca2Al3O (SIO4)(Si2O7)(OH)"
+  },
+  {
+    "slug": "clorita",
+    "name": "CLORITA",
+    "rawName": "CLORITA   Mg3(Si4O10)(OH)2.Mg3(OH)6",
+    "formula": "Mg3(Si4O10)(OH)2.Mg3(OH)6"
+  },
+  {
+    "slug": "cobaltita",
+    "name": "COBALTITA",
+    "rawName": "COBALTITA    (Co,Fe)AsS",
+    "formula": "(Co,Fe)AsS"
+  },
+  {
+    "slug": "cobre",
+    "name": "COBRE",
+    "rawName": "COBRE Cu",
+    "formula": "Cu"
+  },
+  {
+    "slug": "colemanita",
+    "name": "COLEMANITA",
+    "rawName": "COLEMANITA     Ca2B6O11.5H2O",
+    "formula": "Ca2B6O11.5H2O"
+  },
+  {
+    "slug": "columbita-tantalita",
+    "name": "COLUMBITA-TANTALITA",
+    "rawName": "COLUMBITA-TANTALITA (Fe,Mn) (Nb,Ta)2O6",
+    "formula": "(Fe,Mn) (Nb,Ta)2O6"
+  },
+  {
+    "slug": "condrodita",
+    "name": "CONDRODITA",
+    "rawName": "CONDRODITA      Mg5(SiO4)2(F,OH)2",
+    "formula": "Mg5(SiO4)2(F,OH)2"
+  },
+  {
+    "slug": "cordierita",
+    "name": "CORDIERITA",
+    "rawName": "CORDIERITA      Mg2Al3(AlSi5O18)",
+    "formula": "Mg2Al3(AlSi5O18)"
+  },
+  {
+    "slug": "corindon",
+    "name": "CORÍNDON",
+    "rawName": "CORÍNDON    Al2O3",
+    "formula": "Al2O3"
+  },
+  {
+    "slug": "covellita",
+    "name": "COVELLITA",
+    "rawName": "COVELLITA    CuS",
+    "formula": "CuS"
+  },
+  {
+    "slug": "criolita",
+    "name": "CRIOLITA",
+    "rawName": "CRIOLITA     Na3AlF6",
+    "formula": "Na3AlF6"
+  },
+  {
+    "slug": "crisoberilo",
+    "name": "CRISOBERILO",
+    "rawName": "CRISOBERILO   BeAl2O4",
+    "formula": "BeAl2O4"
+  },
+  {
+    "slug": "crisocola",
+    "name": "CRISOCOLA",
+    "rawName": "CRISOCOLA            CuSiO3.nH2O",
+    "formula": "CuSiO3.nH2O"
+  },
+  {
+    "slug": "crocoita",
+    "name": "CROCÓITA",
+    "rawName": "CROCÓITA   PbCrO4",
+    "formula": "PbCrO4"
+  },
+  {
+    "slug": "cromita",
+    "name": "CROMITA",
+    "rawName": "CROMITA   FeCr2O4",
+    "formula": "FeCr2O4"
+  },
+  {
+    "slug": "cuprita",
+    "name": "CUPRITA",
+    "rawName": "CUPRITA  Cu2O",
+    "formula": "Cu2O"
+  },
+  {
+    "slug": "danburita",
+    "name": "DANBURITA",
+    "rawName": "DANBURITA     Ca(B2Si2O8)",
+    "formula": "Ca(B2Si2O8)"
+  },
+  {
+    "slug": "datolita",
+    "name": "DATOLITA",
+    "rawName": "DATOLITA       CaB(SiO4)(OH)",
+    "formula": "CaB(SiO4)(OH)"
+  },
+  {
+    "slug": "diamante",
+    "name": "DIAMANTE",
+    "rawName": "DIAMANTE     C",
+    "formula": "C"
+  },
+  {
+    "slug": "diasporo",
+    "name": "DIÁSPORO",
+    "rawName": "DIÁSPORO    HAlO2",
+    "formula": "HAlO2"
+  },
+  {
+    "slug": "diopsidio",
+    "name": "DIOPSÍDIO",
+    "rawName": "DIOPSÍDIO     CaMg(Si2O6)",
+    "formula": "CaMg(Si2O6)"
+  },
+  {
+    "slug": "dolomita",
+    "name": "DOLOMITA",
+    "rawName": "DOLOMITA   CaMg(CO3)2",
+    "formula": "CaMg(CO3)2"
+  },
+  {
+    "slug": "dumortierita",
+    "name": "DUMORTIERITA",
+    "rawName": "DUMORTIERITA       (Al,Fe)7O3(BO3)(SiO4)3",
+    "formula": "(Al,Fe)7O3(BO3)(SiO4)3"
+  },
+  {
+    "slug": "egirina",
+    "name": "EGIRINA",
+    "rawName": "EGIRINA    NaFe3 (Si2O6)",
+    "formula": "NaFe3 (Si2O6)"
+  },
+  {
+    "slug": "enargita",
+    "name": "ENARGITA",
+    "rawName": "ENARGITA     Cu3AsS4",
+    "formula": "Cu3AsS4"
+  },
+  {
+    "slug": "enstatita",
+    "name": "ENSTATITA",
+    "rawName": "ENSTATITA    Mg2(Si2O6)",
+    "formula": "Mg2(Si2O6)"
+  },
+  {
+    "slug": "enxofre",
+    "name": "ENXOFRE",
+    "rawName": "ENXOFRE   S",
+    "formula": "S"
+  },
+  {
+    "slug": "epidoto",
+    "name": "EPÍDOTO",
+    "rawName": "EPÍDOTO    Ca2(Al,Fe)Al2O(SiO4)(Si2O7)(OH)",
+    "formula": "Ca2(Al,Fe)Al2O(SiO4)(Si2O7)(OH)"
+  },
+  {
+    "slug": "epsomita",
+    "name": "EPSOMITA",
+    "rawName": "EPSOMITA    MgSO4.7H2O",
+    "formula": "MgSO4.7H2O"
+  },
+  {
+    "slug": "eritrita",
+    "name": "ERITRITA",
+    "rawName": "ERITRITA     Co3(AsO4)2.8H2O",
+    "formula": "Co3(AsO4)2.8H2O"
+  },
+  {
+    "slug": "escapolita",
+    "name": "ESCAPOLITA",
+    "rawName": "ESCAPOLITA      (Na,Ca)4Al3(Al,Si)3Si6O24 (Cl,CO3,SO4)",
+    "formula": "(Na,Ca)4Al3(Al,Si)3Si6O24 (Cl,CO3,SO4)"
+  },
+  {
+    "slug": "escorodita",
+    "name": "ESCORODITA",
+    "rawName": "ESCORODITA    FeAsO4.2H2O",
+    "formula": "FeAsO4.2H2O"
+  },
+  {
+    "slug": "esfalerita",
+    "name": "ESFALERITA",
+    "rawName": "ESFALERITA    ZnS",
+    "formula": "ZnS"
+  },
+  {
+    "slug": "esfenio",
+    "name": "ESFÊNIO",
+    "rawName": "ESFÊNIO       CaTiO(SiO4)",
+    "formula": "CaTiO(SiO4)"
+  },
+  {
+    "slug": "espinelio",
+    "name": "ESPINÉLIO",
+    "rawName": "ESPINÉLIO   MgAl2O4",
+    "formula": "MgAl2O4"
+  },
+  {
+    "slug": "espodumenio",
+    "name": "ESPODUMÊNIO",
+    "rawName": "ESPODUMÊNIO     LiAl(Si2O6)",
+    "formula": "LiAl(Si2O6)"
+  },
+  {
+    "slug": "estanita",
+    "name": "ESTANITA",
+    "rawName": "ESTANITA    Cu2FeSnS4",
+    "formula": "Cu2FeSnS4"
+  },
+  {
+    "slug": "estaurolita",
+    "name": "ESTAUROLITA",
+    "rawName": "ESTAUROLITA      Fe2Al9O7(SiO4)4(OH)",
+    "formula": "Fe2Al9O7(SiO4)4(OH)"
+  },
+  {
+    "slug": "estefanita",
+    "name": "ESTEFANITA",
+    "rawName": "ESTEFANITA   Ag5SbS4",
+    "formula": "Ag5SbS4"
+  },
+  {
+    "slug": "estibnita",
+    "name": "ESTIBNITA",
+    "rawName": "ESTIBNITA    Sb2S3",
+    "formula": "Sb2S3"
+  },
+  {
+    "slug": "estilbita",
+    "name": "ESTILBITA",
+    "rawName": "ESTILBITA   Ca(Al2Si7O18).7H2O",
+    "formula": "Ca(Al2Si7O18).7H2O"
+  },
+  {
+    "slug": "estroncianita",
+    "name": "ESTRONCIANITA",
+    "rawName": "ESTRONCIANITA   SrCO3",
+    "formula": "SrCO3"
+  },
+  {
+    "slug": "fenacita",
+    "name": "FENACITA",
+    "rawName": "FENACITA     Be2(SiO4)",
+    "formula": "Be2(SiO4)"
+  },
+  {
+    "slug": "ferro",
+    "name": "FERRO",
+    "rawName": "FERRO Fe",
+    "formula": "Fe"
+  },
+  {
+    "slug": "flogopita",
+    "name": "FLOGOPITA",
+    "rawName": "FLOGOPITA    KMg3(AlSi3O10)(OH)2",
+    "formula": "KMg3(AlSi3O10)(OH)2"
+  },
+  {
+    "slug": "fluorita",
+    "name": "FLUORITA",
+    "rawName": "FLUORITA    CaF2",
+    "formula": "CaF2"
+  },
+  {
+    "slug": "franklinita",
+    "name": "FRANKLINITA",
+    "rawName": "FRANKLINITA   (Zn,Fe,Mn) (Fe,Mn)2O4",
+    "formula": "(Zn,Fe,Mn) (Fe,Mn)2O4"
+  },
+  {
+    "slug": "gahnita",
+    "name": "GAHNITA",
+    "rawName": "GAHNITA    ZnAl2O4",
+    "formula": "ZnAl2O4"
+  },
+  {
+    "slug": "galena",
+    "name": "GALENA",
+    "rawName": "GALENA   PbS",
+    "formula": "PbS"
+  },
+  {
+    "slug": "garnierita",
+    "name": "GARNIERITA",
+    "rawName": "GARNIERITA     (Ni,Mg)SiO3.nH2O",
+    "formula": "(Ni,Mg)SiO3.nH2O"
+  },
+  {
+    "slug": "gelo",
+    "name": "GÊLO",
+    "rawName": "GÊLO  H2O",
+    "formula": "H2O"
+  },
+  {
+    "slug": "gipso",
+    "name": "GIPSO",
+    "rawName": "GIPSO    CaSO4.2H2O",
+    "formula": "CaSO4.2H2O"
+  },
+  {
+    "slug": "glauberita",
+    "name": "GLAUBERITA",
+    "rawName": "GLAUBERITA   Na2Ca(SO4)2",
+    "formula": "Na2Ca(SO4)2"
+  },
+  {
+    "slug": "goethita",
+    "name": "GOETHITA",
+    "rawName": "GOETHITA    HFeO2",
+    "formula": "HFeO2"
+  },
+  {
+    "slug": "grafita",
+    "name": "GRAFITA",
+    "rawName": "GRAFITA     C",
+    "formula": "C"
+  },
+  {
+    "slug": "granada",
+    "name": "GRANADA",
+    "rawName": "GRANADA (Almandina)   Fe2Al2(SiO4)3",
+    "formula": "(Almandina)   Fe2Al2(SiO4)3"
+  },
+  {
+    "slug": "greenockita",
+    "name": "GREENOCKITA",
+    "rawName": "GREENOCKITA     Cds",
+    "formula": "Cds"
+  },
+  {
+    "slug": "halita",
+    "name": "HALITA",
+    "rawName": "HALITA    NaCl",
+    "formula": "NaCl"
+  },
+  {
+    "slug": "hematita",
+    "name": "HEMATITA",
+    "rawName": "HEMATITA    Fe2O3",
+    "formula": "Fe2O3"
+  },
+  {
+    "slug": "hemimorfita",
+    "name": "HEMIMORFITA",
+    "rawName": "HEMIMORFITA          Zn4(Si2O7)(OH)2.H2O",
+    "formula": "Zn4(Si2O7)(OH)2.H2O"
+  },
+  {
+    "slug": "heulandita",
+    "name": "HEULANDITA",
+    "rawName": "HEULANDITA    Ca(Al2Si7O18).6H2O",
+    "formula": "Ca(Al2Si7O18).6H2O"
+  },
+  {
+    "slug": "hornblenda",
+    "name": "HORNBLENDA",
+    "rawName": "HORNBLENDA Ca2Na(Mg,Fe)4(Al,Fe,Ti)(Al,Si)8O22(O,OH)2",
+    "formula": "Ca2Na(Mg,Fe)4(Al,Fe,Ti)(Al,Si)8O22(O,OH)2"
+  },
+  {
+    "slug": "idocrasio",
+    "name": "IDOCRÁSIO",
+    "rawName": "IDOCRÁSIO   Ca10(Mg,Fe)2Al4(SiO4)5(Si2O7)2(OH)4",
+    "formula": "Ca10(Mg,Fe)2Al4(SiO4)5(Si2O7)2(OH)4"
+  },
+  {
+    "slug": "ilmenita",
+    "name": "ILMENITA",
+    "rawName": "ILMENITA    FeTiO3",
+    "formula": "FeTiO3"
+  },
+  {
+    "slug": "jadeita",
+    "name": "JADEÍTA",
+    "rawName": "JADEÍTA     NaAl(Si2O6)",
+    "formula": "NaAl(Si2O6)"
+  },
+  {
+    "slug": "jamesonita",
+    "name": "JAMESONITA",
+    "rawName": "JAMESONITA   Pb4FeSb6S14",
+    "formula": "Pb4FeSb6S14"
+  },
+  {
+    "slug": "kernita",
+    "name": "KERNITA",
+    "rawName": "KERNITA Na2B4O7.4H2O",
+    "formula": "Na2B4O7.4H2O"
+  },
+  {
+    "slug": "lawsonita",
+    "name": "LAWSONITA",
+    "rawName": "LAWSONITA         CaAl2(Si2O7)(OH)2.H2O",
+    "formula": "CaAl2(Si2O7)(OH)2.H2O"
+  },
+  {
+    "slug": "lazulita",
+    "name": "LAZULITA",
+    "rawName": "LAZULITA   MgAl2(OH)2(PO4)2",
+    "formula": "MgAl2(OH)2(PO4)2"
+  },
+  {
+    "slug": "lazurita",
+    "name": "LAZURITA",
+    "rawName": "LAZURITA   - LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
+    "formula": "- LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)"
+  },
+  {
+    "slug": "lepidolita",
+    "name": "LEPIDOLITA",
+    "rawName": "LEPIDOLITA   K2Li3Al3(Al,Si3O10)2(O,OH,F)4",
+    "formula": "K2Li3Al3(Al,Si3O10)2(O,OH,F)4"
+  },
+  {
+    "slug": "leucita",
+    "name": "LEUCITA",
+    "rawName": "LEUCITA     K(AlSi2O6)",
+    "formula": "K(AlSi2O6)"
+  },
+  {
+    "slug": "limonita",
+    "name": "LIMONITA",
+    "rawName": "LIMONITA    FeO(OH).nH2O",
+    "formula": "FeO(OH).nH2O"
+  },
+  {
+    "slug": "magnesita",
+    "name": "MAGNESITA",
+    "rawName": "MAGNESITA    MgCO3",
+    "formula": "MgCO3"
+  },
+  {
+    "slug": "magnetita",
+    "name": "MAGNETITA",
+    "rawName": "MAGNETITA   Fe3O4",
+    "formula": "Fe3O4"
+  },
+  {
+    "slug": "malaquita",
+    "name": "MALAQUITA",
+    "rawName": "MALAQUITA   Cu2CO3(OH)2",
+    "formula": "Cu2CO3(OH)2"
+  },
+  {
+    "slug": "manganita",
+    "name": "MANGANITA",
+    "rawName": "MANGANITA    MnO(OH)",
+    "formula": "MnO(OH)"
+  },
+  {
+    "slug": "marcassita",
+    "name": "MARCASSITA",
+    "rawName": "MARCASSITA    FeS2",
+    "formula": "FeS2"
+  },
+  {
+    "slug": "margarita",
+    "name": "MARGARITA",
+    "rawName": "MARGARITA    CaAl2(Al2Si2O10)(OH)2",
+    "formula": "CaAl2(Al2Si2O10)(OH)2"
+  },
+  {
+    "slug": "millerita",
+    "name": "MILLERITA",
+    "rawName": "MILLERITA     NiS",
+    "formula": "NiS"
+  },
+  {
+    "slug": "mimetita",
+    "name": "MIMETITA",
+    "rawName": "MIMETITA    Pb5Cl (AsO4)3",
+    "formula": "Pb5Cl (AsO4)3"
+  },
+  {
+    "slug": "molibdenita",
+    "name": "MOLIBDENITA",
+    "rawName": "MOLIBDENITA     MoS2",
+    "formula": "MoS2"
+  },
+  {
+    "slug": "monazita",
+    "name": "MONAZITA",
+    "rawName": "MONAZITA   (Ce,La,Y,Th)PO4",
+    "formula": "(Ce,La,Y,Th)PO4"
+  },
+  {
+    "slug": "moscovita",
+    "name": "MOSCOVITA",
+    "rawName": "MOSCOVITA     KAl2(AlSi3O10)(OH)2",
+    "formula": "KAl2(AlSi3O10)(OH)2"
+  },
+  {
+    "slug": "natrolita",
+    "name": "NATRÓLITA",
+    "rawName": "NATRÓLITA        Na2(Al2Si3O10).2H2O",
+    "formula": "Na2(Al2Si3O10).2H2O"
+  },
+  {
+    "slug": "nefelina",
+    "name": "NEFELINA",
+    "rawName": "NEFELINA   (Na,K) (AlSiO4)",
+    "formula": "(Na,K) (AlSiO4)"
+  },
+  {
+    "slug": "nicolita",
+    "name": "NICOLITA",
+    "rawName": "NICOLITA     NiAs",
+    "formula": "NiAs"
+  },
+  {
+    "slug": "nitro",
+    "name": "NITRO",
+    "rawName": "NITRO    KNO3",
+    "formula": "KNO3"
+  },
+  {
+    "slug": "olivina",
+    "name": "OLIVINA",
+    "rawName": "OLIVINA     (Mg,Fe)2 (SiO4)",
+    "formula": "(Mg,Fe)2 (SiO4)"
+  },
+  {
+    "slug": "opala",
+    "name": "OPALA",
+    "rawName": "OPALA        SiO2.nH2O",
+    "formula": "SiO2.nH2O"
+  },
+  {
+    "slug": "ortoclasio",
+    "name": "ORTOCLÁSIO",
+    "rawName": "ORTOCLÁSIO      K(AlSi3O8)",
+    "formula": "K(AlSi3O8)"
+  },
+  {
+    "slug": "ouro",
+    "name": "OURO",
+    "rawName": "OURO Au",
+    "formula": "Au"
+  },
+  {
+    "slug": "ouro-pigmento",
+    "name": "OURO-PIGMENTO",
+    "rawName": "OURO-PIGMENTO  As2S3",
+    "formula": "As2S3"
+  },
+  {
+    "slug": "pectolita",
+    "name": "PECTOLITA",
+    "rawName": "PECTOLITA    Ca2NaH(SiO3)3",
+    "formula": "Ca2NaH(SiO3)3"
+  },
+  {
+    "slug": "pentlandita",
+    "name": "PENTLANDITA",
+    "rawName": "PENTLANDITA     (Fe,Ni)9S8",
+    "formula": "(Fe,Ni)9S8"
+  },
+  {
+    "slug": "petalita",
+    "name": "PETALITA",
+    "rawName": "PETALITA    Li(AlSi4O10)",
+    "formula": "Li(AlSi4O10)"
+  },
+  {
+    "slug": "pirargirita",
+    "name": "PIRARGIRITA",
+    "rawName": "PIRARGIRITA   Ag3SbS3",
+    "formula": "Ag3SbS3"
+  },
+  {
+    "slug": "pirita",
+    "name": "PIRITA",
+    "rawName": "PIRITA    FeS2",
+    "formula": "FeS2"
+  },
+  {
+    "slug": "pirofilita",
+    "name": "PIROFILITA",
+    "rawName": "PIROFILITA      Al2(Si4O10)(OH)2",
+    "formula": "Al2(Si4O10)(OH)2"
+  },
+  {
+    "slug": "pirolusita",
+    "name": "PIROLUSITA",
+    "rawName": "PIROLUSITA     MnO2",
+    "formula": "MnO2"
+  },
+  {
+    "slug": "piromorfita",
+    "name": "PIROMORFITA",
+    "rawName": "PIROMORFITA    Pb5Cl (PO4)3",
+    "formula": "Pb5Cl (PO4)3"
+  },
+  {
+    "slug": "pirrotita",
+    "name": "PIRROTITA",
+    "rawName": "PIRROTITA    Fe 1-x S",
+    "formula": "Fe 1-x S"
+  },
+  {
+    "slug": "platina",
+    "name": "PLATINA",
+    "rawName": "PLATINA Pt",
+    "formula": "Pt"
+  },
+  {
+    "slug": "polialita",
+    "name": "POLIALITA",
+    "rawName": "POLIALITA    K2Ca2Mg(SO4)2.2H2O",
+    "formula": "K2Ca2Mg(SO4)2.2H2O"
+  },
+  {
+    "slug": "polibasita",
+    "name": "POLIBASITA",
+    "rawName": "POLIBASITA    Ag16Sb2S11",
+    "formula": "Ag16Sb2S11"
+  },
+  {
+    "slug": "prata",
+    "name": "PRATA",
+    "rawName": "PRATA Ag",
+    "formula": "Ag"
+  },
+  {
+    "slug": "prehnita",
+    "name": "PREHNITA",
+    "rawName": "PREHNITA     Ca2Al2(Si3O10)(OH)2",
+    "formula": "Ca2Al2(Si3O10)(OH)2"
+  },
+  {
+    "slug": "prousita",
+    "name": "PROUSITA",
+    "rawName": "PROUSITA    Ag3AsS3",
+    "formula": "Ag3AsS3"
+  },
+  {
+    "slug": "psilomelana",
+    "name": "PSILOMELANA",
+    "rawName": "PSILOMELANA    BAMn\"Mn8O16(OH)4",
+    "formula": "BAMn\"Mn8O16(OH)4"
+  },
+  {
+    "slug": "quartzo",
+    "name": "QUARTZO",
+    "rawName": "QUARTZO    SiO2",
+    "formula": "SiO2"
+  },
+  {
+    "slug": "realgar",
+    "name": "REALGAR",
+    "rawName": "REALGAR     AsS",
+    "formula": "AsS"
+  },
+  {
+    "slug": "rodocrosita",
+    "name": "RODOCROSITA",
+    "rawName": "RODOCROSITA     MnCO3",
+    "formula": "MnCO3"
+  },
+  {
+    "slug": "rodonita",
+    "name": "RODONITA",
+    "rawName": "RODONITA    Mn(SiO3)",
+    "formula": "Mn(SiO3)"
+  },
+  {
+    "slug": "rutilio",
+    "name": "RUTÍLIO",
+    "rawName": "RUTÍLIO   TiO2",
+    "formula": "TiO2"
+  },
+  {
+    "slug": "salitre",
+    "name": "SALITRE",
+    "rawName": "SALITRE    NaNO3",
+    "formula": "NaNO3"
+  },
+  {
+    "slug": "scheelita",
+    "name": "SCHEELITA",
+    "rawName": "SCHEELITA       CaWO4",
+    "formula": "CaWO4"
+  },
+  {
+    "slug": "sepiolita",
+    "name": "SEPIOLITA",
+    "rawName": "SEPIOLITA    Mg4(Si6O15)(OH)2.6H2O",
+    "formula": "Mg4(Si6O15)(OH)2.6H2O"
+  },
+  {
+    "slug": "serpentina",
+    "name": "SERPENTINA",
+    "rawName": "SERPENTINA     Mg6(Si4O10)(OH)8",
+    "formula": "Mg6(Si4O10)(OH)8"
+  },
+  {
+    "slug": "siderita",
+    "name": "SIDERITA",
+    "rawName": "SIDERITA    FeCO3",
+    "formula": "FeCO3"
+  },
+  {
+    "slug": "sillimanita",
+    "name": "SILLIMANITA",
+    "rawName": "SILLIMANITA   AlAlO(SiO4)",
+    "formula": "AlAlO(SiO4)"
+  },
+  {
+    "slug": "silvanita",
+    "name": "SILVANITA",
+    "rawName": "SILVANITA   (Au,Ag)Te2",
+    "formula": "(Au,Ag)Te2"
+  },
+  {
+    "slug": "silvita",
+    "name": "SILVITA",
+    "rawName": "SILVITA     KCl",
+    "formula": "KCl"
+  },
+  {
+    "slug": "skutterudita",
+    "name": "SKUTTERUDITA",
+    "rawName": "SKUTTERUDITA   (Co,Ni,Fe) As3",
+    "formula": "(Co,Ni,Fe) As3"
+  },
+  {
+    "slug": "smithsonita",
+    "name": "SMITHSONITA",
+    "rawName": "SMITHSONITA     ZnCO3",
+    "formula": "ZnCO3"
+  },
+  {
+    "slug": "sodalita",
+    "name": "SODALITA",
+    "rawName": "SODALITA      Na4(AlSiO4)3Cl",
+    "formula": "Na4(AlSiO4)3Cl"
+  },
+  {
+    "slug": "talco",
+    "name": "TALCO",
+    "rawName": "TALCO       Mg3(Si4O10)(OH)2",
+    "formula": "Mg3(Si4O10)(OH)2"
+  },
+  {
+    "slug": "tetraedrita",
+    "name": "TETRAEDRITA",
+    "rawName": "TETRAEDRITA    (Cu,Fe,Zn,Ag)12Sb4S13",
+    "formula": "(Cu,Fe,Zn,Ag)12Sb4S13"
+  },
+  {
+    "slug": "topazio",
+    "name": "TOPÁZIO",
+    "rawName": "TOPÁZIO   Al2(SiO4)(F,OH)2",
+    "formula": "Al2(SiO4)(F,OH)2"
+  },
+  {
+    "slug": "tremolita",
+    "name": "TREMOLITA",
+    "rawName": "TREMOLITA   Ca2Mg5(Si8O22)(OH)2",
+    "formula": "Ca2Mg5(Si8O22)(OH)2"
+  },
+  {
+    "slug": "trifilita",
+    "name": "TRIFILITA",
+    "rawName": "TRIFILITA   LiFePO4",
+    "formula": "LiFePO4"
+  },
+  {
+    "slug": "turmalina",
+    "name": "TURMALINA",
+    "rawName": "TURMALINA (Na,Ca)(Al,Fe,Li,Mg)3Al6(BO3)3(Si6O18)(OH)4",
+    "formula": "(Na,Ca)(Al,Fe,Li,Mg)3Al6(BO3)3(Si6O18)(OH)4"
+  },
+  {
+    "slug": "turquesa",
+    "name": "TURQUESA",
+    "rawName": "TURQUESA     CuAl6(PO4)4(OH)82H2O",
+    "formula": "CuAl6(PO4)4(OH)82H2O"
+  },
+  {
+    "slug": "ulexita",
+    "name": "ULEXITA",
+    "rawName": "ULEXITA   NaCaB5O9.8H2O",
+    "formula": "NaCaB5O9.8H2O"
+  },
+  {
+    "slug": "uraninita",
+    "name": "URANINITA",
+    "rawName": "URANINITA     UO2",
+    "formula": "UO2"
+  },
+  {
+    "slug": "vanadinita",
+    "name": "VANADINITA",
+    "rawName": "VANADINITA    Pb5Cl (VO4)3",
+    "formula": "Pb5Cl (VO4)3"
+  },
+  {
+    "slug": "vivianita",
+    "name": "VIVIANITA",
+    "rawName": "VIVIANITA     Fe3(PO4)2.8H2O",
+    "formula": "Fe3(PO4)2.8H2O"
+  },
+  {
+    "slug": "wavellita",
+    "name": "WAVELLITA",
+    "rawName": "WAVELLITA   Al3(OH)3(PO4)2.5H2O",
+    "formula": "Al3(OH)3(PO4)2.5H2O"
+  },
+  {
+    "slug": "willemita",
+    "name": "WILLEMITA",
+    "rawName": "WILLEMITA      Zn2(SiO4)",
+    "formula": "Zn2(SiO4)"
+  },
+  {
+    "slug": "witherita",
+    "name": "WITHERITA",
+    "rawName": "WITHERITA     BaCO3",
+    "formula": "BaCO3"
+  },
+  {
+    "slug": "wolfranita",
+    "name": "WOLFRANITA",
+    "rawName": "WOLFRANITA     (Fe,Mn) WO4",
+    "formula": "(Fe,Mn) WO4"
+  },
+  {
+    "slug": "wollastonita",
+    "name": "WOLLASTONITA",
+    "rawName": "WOLLASTONITA      Ca(SiO3)",
+    "formula": "Ca(SiO3)"
+  },
+  {
+    "slug": "wulfenita",
+    "name": "WULFENITA",
+    "rawName": "WULFENITA     PbMoO4",
+    "formula": "PbMoO4"
+  },
+  {
+    "slug": "zincita",
+    "name": "ZINCITA",
+    "rawName": "ZINCITA  ZnO",
+    "formula": "ZnO"
+  },
+  {
+    "slug": "zircao",
+    "name": "ZIRCÃO",
+    "rawName": "ZIRCÃO    Zr(SiO4)",
+    "formula": "Zr(SiO4)"
+  }
+]

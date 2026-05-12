@@ -1,0 +1,50 @@
+{
+  "slug": "pentlandita",
+  "name": "PENTLANDITA",
+  "rawName": "PENTLANDITA",
+  "formula": "(Fe,Ni)9S8",
+  "type": "SULFETO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico; hexaoctaédrica. Maciça, usualmente em agregados granulares."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Partição octaédrica  {111} . Dureza: 3,5 - 4,0; Densidade  4,6 - 5,0. Quebradiça, Brilho metálico. Cor: bronze-amarelado. Traço castanho do bronze, claro. Opaca, não-magnética."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um sulfeto de ferro e níquel, (Fe,Ni)9S8. A relação Fe:Ni esta usualmente próxima de 1:1. Em geral, contém pequenas quantidades de cobalto."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se a meio caminho entre os números 1 e 2 da escala de fusibilidade.  Desprende odor de anidrido sulfuroso no tubo aberto; ao ser aquecida, torna-se magnética. O mineral calcinado empresta colorido castanho-avermelhado a pérola de bórax, na chama oxidante. Dá a reação do níquel com dimetilglioxima."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A pentlandita assemelha-se muito a pirrotita, na aparência, pode-se distinguir-se dela, no entanto, por sua partição octaédrica e pela falta de magnetismo.\n\nAlteração:    Na atmosfera úmida, altera-se prontamente dando anabergita (flor de níquel)."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A pentlandita esta quase sempre associada a pirrotita e, usualmente, ocorre nas rochas básicas tais como os noritos, sendo talvez derivada deles por segregação magmática. Encontrada também com a calcopirita e outros minerais de ferro e níquel.\n\nEncontrada em localidades amplamente separadas, em pequenas quantidades, mas suas ocorrências principais estão no Canadá, onde associada a pirrotita, é a fonte principal de níquel em Sudbury, no Ontário, e na área do Lago Lynn, em Manitoba. É também minério importante, em depósitos semelhantes, no distrito de Petsamo, na Rússia."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O principal minério de níquel. Usa-se o níquel principalmente no aço. O aço-níquel contém de 2,5 - 3,5 por cento de níquel, o que aumenta muito a resistência e a tenacidade da liga, de modo que se pode construir máquinas mais leves sem perda de resistência. A fabricação do metal Monel (68 por cento de níquel e 32 por cento de cobre) e do Nicromo (38-85 por cento de níquel) consome grande quantidade do níquel produzido. Outras ligas são a prata alemã (níquel, zinco e cobre); o metal para cunhagem - a moeda de cinco centavos dos Estados Unidos contém 25 por cento de níquel e 75 por cento de cobre; os metais de baixa expansão para molas de relógio e outros instrumentos. Usa-se o níquel na galvanoplastia; embora o cromo substitua agora, grandemente, na camada superficial, usa-se o níquel para uma camada subjacente mais espessa."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Origina-se de J.B.Pentland, o primeiro a notar o mineral."
+    }
+  ]
+}

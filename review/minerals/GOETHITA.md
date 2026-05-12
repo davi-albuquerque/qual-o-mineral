@@ -1,0 +1,49 @@
+# GOETHITA
+
+**Fórmula:** HFeO2
+
+**Tipo:** ÓXIDO
+
+## Cristalografia:
+
+Ortorrômbico, bipiramidal. Raramente em cristais  prismáticos distintos e estriados verticalmente. Muitas vezes achatada paralelamente ao pinacóide lateral. Cristais aciculares. também maciça, reniforme, estalactítica em agregados fibrosos radiais. Laminado. O minério a que se dá o nome de minério do pântano é geralmente de pouca consistência e de textura porosa.
+
+## Propriedades físicas:
+
+Clivagem {010}  perfeita. Dureza: 5,0 - 5,5;  Densidade 4,37, pode ser tão baixa quanto 3,3 para material impuro. Brilho adamantino a opaco; sedoso em certas variedades finamente escamosas ou fibrosas. Cor: castanho-amarelado a castanho-escuro. Traço castanho-amarelado. Subtranslúcida.
+
+## Composição:
+
+Óxido de ferro e hidrogênio, HFeO2.  Fe 62,9  - O 27,0  -   H2O  10,1 por cento. O hidrogênio atua como um cátion na coordenação 2 com o oxigênio e, assim, a goethita difere da lepidocrocita FeO(OH)  não tendo os grupos (OH). O manganês esta muitas vezes presente em quantidades acima de 5 por cento. As variedades maciças contêm muitas vezes água absorvida ou água capilar.
+
+## Ensaios:
+
+Dificialmente fusível, estando situada entre os números 5 a 5,5 na escala de fusibilidade. Torna-se magnética na chama redutora. Em tubo fechado, desprende água e converte-se em Fe2O3.
+
+## Aspectos diagnósticos:
+
+A cor de seu traço; distingue-se da limonita pela sua clivagem, crescimento radial e outras evidências de cristalinidade. Grande parte do material, classificado antigamente sob a denominação de limonita, conhece-se hoje como goethita.
+
+## Ocorrência:
+
+A goethita é um dos minerais mais comuns e forma-se de modo típico, sob condições de oxidação, como produto de intemperismo dos minerais portadores de ferro. Forma-se também, como um precipitado direto, inorgânico ou biogênico, existente na água, sendo amplamente disseminado em depósitos em pântanos e fontes. A goethita, coma limonita, forma o "gossan" ou "chapéu de ferro", sobre os filões ou vieiros metalíferos. Encontram-se grandes quantidades de goethita como mantos lateríticos residuais, resultantes da intemperização de serpentinas. Os pseudomorfos muito comuns do que se vem chamando limonita, formada as expensas da pirita, provavelmente consistem em sua maior parte de goethita.
+
+Os depósitos conhecidos pelo nome de minério ferro do pântano, são formados por solução, transporte pela ação das águas superficiais e nova precipitação de minerais de ferro preexistentes.  A solução é realizada por pequenas quantidades de ácido carbônico existente na água. O ferro é transportado como um carbonato até a superfície e depois levado pelas águas correntes para os brejos e depressões com água estagnada. Aí, o carbono transforma-se em óxido pela evaporação da água e a consequente perda do ácido carbônico e através dos agentes de ação redutora da matéria carbonosa. O óxido separa-se formando inicialmente uma espuma iridescente na superfície da água e depois vai para o fundo. Esta separação é também auxiliada pelas bactérias conhecidas por ferruginosas que absorvem o ferro da água e depois o depositam como hidróxido férrico. Neste processo, sob condições favoráveis, as camadas de goethita impura podem ser formadas no fundo de brejos e pântanos. tais depósitos são muito comuns, mas dados os materiais estranhos associados, são raramente de suficiente pureza para serem explorados comercialmente.
+
+Os depósitos de goethita são também encontrados com calcários portadores de ferro. O conteúdo de ferro do calcário pode ser gradualmente dissolvido por águas circulantes e sob condições favoráveis, pode como goethita substituir o carbonato de cálcio da rocha. O intemperismo gradual e a solução do calcário podem deixar como resíduo o conteúdo de ferro sob a forma de massas residuais de hidróxido férrico, localizadas na argila, acima da formação calcária. estes depósitos são, muitas vezes de dimensões consideráveis e dada a sua maior pureza, são mais frequentemente explorados do que os depósitos de pântanos.
+
+Em algumas localidades, a goethita constitui um minério de ferro importante. Ela é o principal constituinte dos valiosos minérios da Alsácia-Lorena. Outras localidades européias dignas de nota são:  Eiserfeld, na Westphalia; Pribram, na Boêmia; Cornwall, na Inglaterra. Em Mayari e Moa, em Cuba, encontram-se grandes depósitos de lateritos ricos de ferro, compostos essencialmente de goethita.
+
+Nos Estados Unidos, a goethita é comum nos depósitos de hematita situados no Lago Superior e tem sido obtida em belos espécimes em Negaunee, proximidades de Marquette, no Michigan. A goethita é encontrada em calcários portadores de ferro, ao longo dos Montes Apalaches, desde a região oeste de Massachusetts até o Alabama. estes depósitos são particularmente importantes nos Estados de Alabama, Geórgia, Virgínia e Tennesse. Material bem cristalizado, associado a quartzo enfumaçado e microclínio, ocorre no Colorado, em Fluorissant, e na região de Pikes Peak.
+
+## Uso:
+
+Um minério de ferro.
+
+## Nome:
+
+Em homenagem a Goethe, o poeta alemão.
+
+## Espécies semelhantes:
+
+A turgita, 2Fe2O3.H2O, associa-se frequentemente a goethita, mas distingue-se dela pelo seu traço vermelho. A lepidocrocita , FeO(OH),  é dimorfa com a goethita e ocorre com ela.

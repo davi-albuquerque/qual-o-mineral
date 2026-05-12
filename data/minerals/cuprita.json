@@ -1,0 +1,55 @@
+{
+  "slug": "cuprita",
+  "name": "CUPRITA",
+  "rawName": "CUPRITA",
+  "formula": "Cu2O",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico; hexaoctaédrica. Comumente, em cristais mostrando o cubo, o octaedro e o dodecaedro, frequentemente em combinação. Algumas vezes, em cristais cúbicos muito alongados, capilares no tamanho; conhecido como cobre pelúcia ou calcotriquita. Frequentemente em agregados de granulação fina ou maciça."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 3,5 - 4,0; Densidade 6,1. Brilho adamantino - metálico nas variedades cristalizadas, claras. Cor : vermelho de várias tonalidades; vermelho do rubi nos cristais transparentes. Traço vermelho-acastanhado."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Óxido cuproso, Cu2O.  Cu  88,8  - O  11,2 por cento. Usualmente pura, mas o óxido de ferro pode estar presente como impureza."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde  ao número 3 na escala de fusibilidade.  Se a cuprita for umedecida com ácido clorídrico e depois aquecida, obtém-se a chama azul-celeste do cloreto de cobre. Na chama redutora do maçarico, dá sobre o carvão vegetal, um glóbulo de cobre. Quando dissolvida em pequena quantidade de ácido clorídrico concentrado, a solução diluída com água fria produz um precipitado branco de cloreto cuproso (ensaios do cobre cuproso)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se usualmente dos outros minerais vermelhos por sua forma cristalina, brilho forte, traço e associação."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A cuprita é um minério de cobre supérgeno, importante. Encontra-se nas porções oxidadas, superiores, dos filões de cobre, associado com a limonita e outros minerais secundários do cobre, como o cobre nativo, a malaquita, a azurita e a criscola.\n\nOs países estrangeiros dignos de nota, onde a cuprita é um minério são: Chile, Bolívia, Austrália e Congo Francês. Encontra-se belos cristais em Cornwall, na Inglaterra; em Chessy, na França e nos Montes Urais. Encontrada nos Estados Unidos em cristais magníficos em conexão com os depósitos de cobre em Bisbee, no Arizona. Encontrada também em Clifton e Morenci, no Arizona."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de cobre."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado do latim cuprum, cobre."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A tenorita ou melaconita, o óxido cúprico, CuO, é um mineral preto, supérgeno."
+    }
+  ]
+}

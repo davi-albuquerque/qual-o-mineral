@@ -1,0 +1,50 @@
+{
+  "slug": "psilomelana",
+  "name": "PSILOMELANA",
+  "rawName": "PSILOMELANA",
+  "formula": "BAMn\"Mn8O16(OH)4",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico, Maciça, botrioidal, escalactítica. Aparece amorfa, às vezes."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 5,0 - 6,0;  Densidade 3,7 - 4,7. Brilho submetálico. Cor preto. Traço preto-acastanhado. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "BaMn\"Mn48O16(OH)4.  Pode ocorrer substituição considerável do bário e do manganês bivalente por magnésio, cálcio, níquel, cobalto e cobre."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Fundida com o carbonato de sódio produz uma pérola opaca, verde-azulada. Aquecida em tubo fechado, fornece muita água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se dos outros óxidos de manganês pela sua dureza maior e falta aparente de estrutura cristalina; da limonita por seu traço preto."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A psilomelana ocorre usualmente com a pirolusita; sua origem e associação são semelhantes as deste último mineral."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério secundário de manganês (ver pirolusita)."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado de duas palavras gregas, significando liso e preto, em alusão a sua aparência."
+    }
+  ]
+}

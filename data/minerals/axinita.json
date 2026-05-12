@@ -1,0 +1,45 @@
+{
+  "slug": "axinita",
+  "name": "AXINITA",
+  "rawName": "AXINITA",
+  "formula": "Ca2(Fe,Mn)Al2(BO3)(Si4O12)(OH)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Triclínico, pedial. A axinita é o único mineral comum a cristalizar-se nesta classe. Cristais usualmente delgados com arestas cortantes, mas variando no hábito. Frequentemente, em cristais e agregados cristalinos, também maciça, lamelar a granular."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza  6,0 - 6,5. Densidade 3,27 - 3,35. Brilho Vítreo. Cor: castanho do cravo da Índia; violeta, cinza, verde, amarelo. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um borossilicato de alumínio, hidratado, com quantidades variáveis de cálcio, manganês e ferro ferroso, Ca2(Fe,Mn)Al2(BO3)(Si4O12)(OH)."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se na escala de fusibilidade entre os números 2,5 e 3,0. Funde-se com intumescência. Misturada com fluxo de boro, a mistura aquecida em alça de platina dá chama verde (boro). Produz água em tubo fechado."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada pelos cristais triclínicos com ângulos muito agudos."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A axinita ocorre em cavidades no granito, e nas zonas de contato que rodeiam as intrusões graníticas. As localidades dignas de nota por sua ocorrência são: Bougr d'Oisans, Isère, na França; vários pontos na Suíça; St. Just, em Cornwall, e Obira, no japão. Encontrada nos Estados Unidos, em Luning, no Estado de Nevada, e uma variedade amarela, de manganês, em Franklin, no de Nova jersey."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado de uma palavra grega significando machado, em alusão a forma dos cristais, assemelhando-se a uma cunha."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "bournonita",
+  "name": "BOURNONITA",
+  "rawName": "BOURNONITA",
+  "formula": "PbcuSbS3",
+  "type": "SULFOSSAL",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Cristais usualmente prismáticos, curtos, a tabulares. Podem ser complexos, com muitas faces de prisma vertical e de pirâmide. Frequentemente geminados, dando cristais tabulares com ângulos reentrantes recorrentes na zona [001], donde o nome comum de minério em roda denteada. Também maciça, granular a compacta."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 2,5 - 3,0; Densidade 5,8 - 5,9. Brilho metálico. Cor e Traço: entre o cinza do aço e o preto. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um sulfeto de chumbo, cobre, antimônio, PbCuSbS3  . Pb  42,2  - Cu 13,0  - Sb  24,9  - S 19,7  por cento. O arsênico pode substituir o antimônio na proporção aproximada de Sb:As = 4:1."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde  ao número 1 na escala de fusibilidade.  Sob a ação do maçarico sobre o carvão vegetal, dá uma auréola em que se combinam os óxidos de chumbo e antimômio. Calcinada no tubo aberto, produz sublimados de óxidos de antimônio. Aquecida sobre o carvão vegetal com uma mistura de iodeto de potássio e enxofre, dá uma auréola de cor amarela do cromo, de iodeto de chumbo."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "reconhecida por seus cristais característicos, alta densidade relativa e pelos ensaios antes referidos."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A bournonita, um dos sulfossais mais comuns, ocorre tipicamente, nos filões hidrotermais formados em temperatura moderada. Está associada com a galena, tetraedrita, calcopirita, esfalerita e pirita. Notada, frequentemente, com inclusões microscópicas na galena.\n\nAs localizações dignas de nota são:  as Montanhas do Harz; Kapnik e alhures na Rumânia; Liskeard, em Cornwall; encontrada também na Austrália, no México e na Bolívia. Nos Estados Unidos, tem sido encontrada em vários lugares no Arizona, Utah, Nevada, Colorado e Califórnia, em qualidade e quantidade pouco notáveis."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de cobre, chumbo e antimônio."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra ao conde J. L. de Bournon (1751 - 1825), mineralogista e cristalógrafo francês."
+    }
+  ]
+}

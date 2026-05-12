@@ -1,0 +1,40 @@
+{
+  "slug": "miargirita",
+  "name": "MIARGIRITA",
+  "rawName": "MIARGIRITA",
+  "formula": null,
+  "type": null,
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "- Monoclínico         Classe - Esfenoídal"
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Propriedades Ópticas - Anisotropia forte, branco Hábito - Tabular ou prismático ,\n\nClivagem - Imperfeita com três direções, Dureza - 2 - 2,5,  Densidade relativa - 5,1 - 5,3,  Fratura - Subconchoidal,  Cor - Preto do ferro ou negro"
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Sulfeto de antimônio e prata. 36,8% de Ag, 41,4% Sb, 21,8% S"
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Pode ser identificada pelo traço vermelho cereja, decomposto com ácido nítrico\n\nAssociação:   Pode estar associada a proustita e pirargirita."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Filões hidrotermais de baixa temperatura."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Mineral de minério raro."
+    }
+  ]
+}

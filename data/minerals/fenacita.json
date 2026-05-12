@@ -1,0 +1,50 @@
+{
+  "slug": "fenacita",
+  "name": "FENACITA",
+  "rawName": "FENACITA",
+  "formula": "Be2(SiO4)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "hexagonal-R, romboédrica. Os cristais são usualmente, de forma romboédrica. Podem estar presentes prismas curtos. Muitas vezes, com desenvolvimento complexo."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {1120} imperfeita. Dureza 7,5 - 8,0 . Densidade 2,97 - 3,00 . Brilho vítreo. Incolor e branco. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de berilo, Be2(SiO4). BeO 45,6  - SiO2  54,4 por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível, nem solúvel. Fundida com carbonato de sódio, produz um esmalte branco."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por sua forma cristalina e grande dureza."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A fenacita é um mineral raro, encontrado em diques de pegmatito, associado com o topázio, crisoberilo, berilo e apatita. Encontram-se belos cristais nas minas de esmeralda, nos Montes Urais, na Rússia, e em Minas Gerais no Brasil. Encontrada, nos Estados Unidos, em Mount Antero, no Colorado."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Lapidada, ocasionalmente, como pedra preciosa."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém de palavra grega significando impostor, por confundir-se com o quartzo."
+    }
+  ]
+}

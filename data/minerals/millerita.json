@@ -1,0 +1,50 @@
+{
+  "slug": "millerita",
+  "name": "MILLERITA",
+  "rawName": "MILLERITA",
+  "formula": "NiS",
+  "type": "SULFETO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal - R; escalenoédrica. Usualmente em tufos semelhantes a cabelos e em grupos radiados de cristais entre delgados e capilares. Em incrustações aveludadas."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Boa clivagem {101´1}. Dureza: 3,0 - 3,5; Densidade  5,5 +/- 0,2. Brilho metálico. Cor:  amarelo do latão, pálido, com um matiz esverdeado quando em massas finas semelhantes a cabelos. Traço negro, algo esverdeado."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Sulfeto de níquel, NiS. Ni 64,7  - S  35,3  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se a meio caminho entre os números 1 e 2 da escala de fusibilidade, produzindo um glóbulo magnético. Desprende odor de anidrito sulfuroso quando aquecida sobre o carvão vegetal, ou tubo aberto. O mineral calcinado empresta colorido castanho-avermelhado à pérola de bórax, na chama oxidante. Dá a reação do níquel com a dimetilglioxima."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por seus cristais capilares; distinguindo-se dos minerais de cor semelhante pelas reações do níquel.\n\nAlteração:    Na atmosfera úmida, altera-se prontamente dando anabergita (flor de níquel)."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A millerita forma-se como um mineral de temperatura baixa, encontrando-se muitas vezes em cavidades, e como uma alteração de outros minerais de níquel, ou como inclusões de cristal em outros minerais.\n\nOcorre em várias localidades na Saxônia, Westfália e  Hessen-Nassau, e na Boêmia. Nos Estados Unidos, encontra-se com a hematita e a ankerita em Antuérpia, no Estado de Nova Iorque; com a pirrotita na mina de Gap, em Lancaster County, na Pensilvânia; em geodos no calcário, em São Luiz, no Estado de Missouri, em Keokuk, no de Iowa, e em Milwaukee, no de Wisconsin."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um mineral secundário de níquel."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra do mineralogista, W. H. Miller (1801-1880), o primeiro a estudar os cristais."
+    }
+  ]
+}

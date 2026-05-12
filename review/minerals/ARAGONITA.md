@@ -1,0 +1,39 @@
+# ARAGONITA
+
+**Fórmula:** CaCO3
+
+**Tipo:** CARBONATO
+
+## Cristalografia:
+
+Ortorrômbico; bipiramidal. São comuns três hábitos de cristalização. (1) Piramidal acicular, consistindo em um prisma vertical terminado por uma combinação de uma pirâmide muito aguda e um prisma de primeira ordem. usualmente em grupos radiados de cristais cujo tamanho diminui gradativamente. (2) Tabular, consistindo em faces de pinacóide lateral modificadas por {110} e um prisma obtuso k. Geminada, a miúdo, com {110} como plano de geminação. (3) Geminados pseudo-hexagonais. Este tipo mostra um prisma de aparência hexagonal, terminado por um plano basal, sendo formado por um intercrescimento de três indivíduos geminados, segundo a face do prisma com planos basais em comum. Os cristais distinguem-se das formas hexagonais verdadeiras, ao notar-se que o plano basal é estriado em três direções diferentes e também pelo fato de que, não sendo o ângulo do prisma dos cristais simples exatamente de 60°, mas de 63°48', as faces do prisma de composição do geminado mostrarão, muitas vezes, ângulos ligeiramente reentrantes. Encontrada também, em agregados reniformes, colunares e estalactíticos.
+
+## Propriedades físicas:
+
+Clivagem  imperfeita {010} e {110} . Brilho vítreo. Incolor, branca, amarela pálida e colorida variadamente. Transparente a translúcida. Dureza 3,5 - 4,0. Densidade 2,95 (mais dura e de densidade relativa mais elevada do que a calcita).
+
+## Composição:
+
+Carbonato de  cálcio, CaCO3. CaO   56  - CO2  44  por cento. O cálcio pode ser substituído pelo estrôncio, chumbo e mais raramente, pelo zinco. A aragonita  é o polimorfo instável em relação a calcita nas temperaturas e pressões comuns. Aquecendo-se no ar, a aragonita começa a transformar-se em calcita, a 400°C.  Em contato com a água ou com soluções contendo CaCO3  dissolvido, a transformação pode ocorrer na temperatura ambiente.
+
+## Ensaios:
+
+Infusível. Decrepita. depois de calcinação intensa, seu pó produz reação alcalina com o papel de ensaio umedecido. Os fragmentos do mineral desagregam-se sob a forma de pó (mudança para a calcita), quando aquecidos ao rubro, no tubo fechado.
+
+## Aspectos diagnósticos:
+
+Distingue-se da calcita por sua densidade relativa mais elevada e pela ausência de clivagem romboédrica.
+
+Os fragmentos de clivagem da calcita colunar são terminados por uma clivagem em cruz que não se apresenta na aragonita. Distingue-se da witherita e da estroncianita por ser infusível, por causa da densidade relativa mais baixa e por lhe faltar cor de chama particular.
+
+Alteração:    São comuns os paramorfos da calcita sobre aragonita. o carbonato de cálcio secretado pelos moluscos, como aragonita, transforma-se, usualmente em calcita na parte externa da concha.
+
+## Ocorrência:
+
+A aragonita é menos estável do que a calcita e muito menos comum. Forma-se dentro de uma faixa  estreita de condições físico-químicas, representada por temperatura baixa, perto dos depósitos superficiais. Mostrou-se experimentalmente que as águas carbonatadas contendo cálcio depositam aragonita maior número de vezes quando estão quentes e calcita quando estão frias. A camada nacarada de muitas conchas é aragonita. As fontes termais depositam a aragonita; acha-se associada com camadas de gipso e depósitos de minério de ferro, onde pode ocorrer em formas que se assemelham ao coral, sendo chamada flos ferri (flor de ferro). Encontra-se formando crostas fibrosas sobre a serpentina e nas cavidades amigdalóides no basalto.
+
+As localidades a seguir são notáveis pelos tipos cristalinos: encontram-se cristais geminados pseudo-hexagonais em Aragon, na Espanha; Bastennes, no sul da França, e em Girgenti, na Sicília. O tipo de cristal tabular é encontrado perto de Bilin, na Boêmia; o acicular, em Alston Moor e Cleator Moor, Cumberland, na Inglaterra. A flos ferri encontra-se nas minas de ferro da Estíria. Certos mármores ônix provenientes da Baixa Califórnia são aragonita.  Nos Estados Unidos, encontram-se geminados pseudo-hexagonais em Lake Arthur, no Estado do Novo México; neste mesmo Estado ocorre, nas Organ Mountains, a flos ferri, também encontrada em Bisbee, no Arizona.
+
+## Nome:
+
+Provém de Aragon, na Espanha, onde os geminados pseudo-hexagonais foram reconhecidos pela primeira vez.

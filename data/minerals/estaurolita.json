@@ -1,0 +1,50 @@
+{
+  "slug": "estaurolita",
+  "name": "ESTAUROLITA",
+  "rawName": "ESTAUROLITA",
+  "formula": "Fe2Al9O7(SiO4)4(OH)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico. Hábito prismático, mostrando usualmente, uma combinmação de {110} com ângulo grande 130°, {010}, {001} e {101}. Os germinados em forma de cruz são muito comuns, apresentando dois tipos: (1) com {032} sendo o plano geminado, no qual os dois indivíduos se cruzam em ângulos quase de 90°; (2) com {232} sendo o plano do geminado, em que se cruzam em ângulos quase de 60°. Em alguns casos, ambos os tipos estão combinados em um grupo geminado. Usualmente em cristais; raramente maciça."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 7,0 - 7,5. Densidade 3,65 - 3,75. Brilho resinoso a vítreo em material puro e recente; muitas vezes, opaco a terroso, quando alterado ou impuro. Cor: castanho-vermelho a preto-acastanhado. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um silicato de  alumínio e ferro ferroso, Fe2Al9O7(SiO4)4(OH).  FeO 16,7 - Al2O3  53,3 - SiO2  27,9 - H2O 2,0 por cento. Muitas vêzes,  muita impura."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível, insolúvel. Calcinada intensamente no tubo fechado, produz um pouco de água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecida por seus cristais e geminados característicos. Distingue-se da andaluzita, por seu prisma obtuso."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A estaurolita é um mineral acessório nos xistos cristalinos, ardósias e, em alguns casos, nos gnaisses. Associada, muitas vezes, com a granada, cianita e turmalina. Pode crescer sobre a cianita, em orientação paralela. Em algumas localidades, pode incluir impurezas carbonosas.\n\nAs localidades dignas de nota por sua ocorrência são: monte Campione, na Suíça; Goldenstein, na Morávia; Aschaffenburg, na Bavária; e em grandes cristais geminados na Bretanha e na Escócia. Encontrada, nos Estados Unidos, em Windham, no Estado de Maine; em Francônia e Lisbon, no de New Hampshire; em Chesterfield, no de Massachusetts; em Macon, Madison e Clay Counties, no da carolina do Norte; em Fannin County, no de Geórgia; em Ducktown, no do Tennessee e também nos Estados da Virgínia, Novo México e Montana."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Ocasionalmente, uma pedra transparente no Brasil é lapidada como gema."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Derivado de uma palavra grega significando cruz, em alusão a seus geminados sob a forma de cruz."
+    }
+  ]
+}

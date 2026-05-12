@@ -1,0 +1,37 @@
+# KERNITA
+
+**Fórmula:** Na2B4O7.4H2O
+
+**Tipo:** BORATO
+
+## Cristalografia:
+
+Monoclínico, prismática. Usualmente em agregados grossos, suscetíveis de clivagem.
+
+## Propriedades físicas:
+
+Clivagem perfeita {001} e {100}. Os fragmentos de clivagem são, assim alongados paralelamente ao eixo cristalográfico b. Dureza 3,0. Densidade 1,95.  Brilho entre o vítreo e o nacarado. Cor: incolor a branco. Quando expostos durante muito tempo ao ar, os espécimes incolores ficam brancos com giz, em consequência da formação de uma película de tincalconita sobre a superfície.
+
+## Composição:
+
+Borato de sódio  hidratado, Na2B4O7.4H2O.  Na2O  22,7  -  CaO 13,8  - B2O3  51,0  -  H2O  26,3  por cento.
+
+## Ensaios:
+
+Sob a ação do maçarico, incha-se e em seguida, funde-se formando um vidro claro.  A fusão corre entre os números 1 e 1,5 da escala de fusibilidade. Solúvel lentamente na água fria.
+
+## Aspectos diagnósticos:
+
+Caracteriza-se pelos fragmentos de clivagem estilhaçados, compridos e por sua densidade relativa baixa.
+
+## Ocorrência:
+
+A única localidade em que se encontra a Kernita é no deserto de Mohave, em Kramer, na Califórnia. Associada com o bórax em uma série estratificada de argilas do Terceário, existe em grande quantidade (milhões de toneladas). Este depósito de boratos de sódio mede, aproximadamente, 6,6 Km de comprimento, 1,6 Km de largura e 30 metros de espessura, encontrando-se entre 120 e 250m abaixo da superfície do solo. Acredita-se que a Lernita se tenha formado a partir do bórax, por recristalização provocada pelo aumento da temperatura e da pressão.
+
+## Uso:
+
+Uma fonte importante do bórax e dos compostos de boro.
+
+## Nome:
+
+Provém de Kern County, na Califórnia, onde se encontra o mineral.

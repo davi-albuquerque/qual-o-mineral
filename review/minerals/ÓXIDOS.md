@@ -1,0 +1,135 @@
+# ÓXIDOS
+
+> _Esta é uma página resumo de classe (não um mineral individual)._
+
+## preamble
+
+Os óxidos classificam-se em óxidos simples, óxidos múltiplos, óxidos contendo hidroxila e hidróxidos, mas neste estudo estão agrupados apenas os óxidos e hidróxidos. dentro da estrutura de classificação, existe grupos de minerais importantes, notadamente, os grupos da hematita, do espinélio e do rutílio. Cada um destes grupos contém um ou mais minerais de importância econômica. Dentro da classe dos óxidos estão os principais minérios de ferro (hematita e magnetita), do cromo (cromita), de manganês (pirolusita, manganita e psilomelana), de estanho (cassiterita) e do alumínio (bauxita).
+
+## preamble
+
+Tipo A2O.  O óxido sólido de hidrogênio, o gelo é um mineral verdadeiro, e uma substância geológica de grande importância. Diferentemente da maioria dos minerais, é molecular, formado por moléculas de água bipolares, mantidas juntas, de modo que cada uma tem quatro vizinhas muito próximas, localizadas nos vértices de um tetraedro quase regular. As ligações que unem estas moléculas são relativamente fracas do que resulta pouca dureza, ponto de fusão baixo e deformação fácil por geminação e deslizamento. O arranjo ordenado das moléculas de água característico do gelo persiste, em parte, no estado líquido ate 4°C acima do ponto de fusão. Nesta temperatura, a estrutura relativamente aberta do gelo torna-se instável e contraí-se em um arranjo mais compcto e desordenado. Ao resfriar-se a água, ocorre o processo inverso, e a ordenação das moléculas de água explica a expansão anômala, na temperatura de 4°C.
+
+## preamble
+
+Tipo AO2.   Nos bióxidos, aparecem em geral dois tipos de estrutura. Um tem a estrutura da fluorita na qual cada oxigênio tem quatro cátions vizinhos, dispostos em torno dele nos vértices de um tetraédro mais ou menos regular, ao passo que cada cátion tem oito oxigênios em redor dele, nos vértices de um cubo. Possuem esta estrutura os óxidos dos elementos tetravalentes: urânio, tório e cério, atualmente de interesse considerável por causa de sua conexão com a química nuclear. Pode esperar-se que tenham esta estrutura e sejam isométricos, hexaoctaédricos, todos os bióxidos nos quais a relação dos raios do cátion e do oxigênio (RA:RO) se situe dentro dos limites da coordenação 8 (0,732-1).
+
+## preamble
+
+Relações dos Raios nos óxidos do Tipo AO2 (RO = 1,32A)
+
+## preamble
+
+RA          RA/RO           Elemento            Mineral               Tipo de Estrutura
+
+## preamble
+
+0,60         0,45               Mn                Pirolusita                Rutílio
+
+## preamble
+
+0,68         0,52               Ti                  Rutílio                    Rutílio
+
+## preamble
+
+0,71         0,54               Sn                Cassiterita              Rutílio
+
+## preamble
+
+0,94         0,71               Ce                Cerianita                 Fluorita
+
+## preamble
+
+0,97         0,73               U                  Uraninita                 Fluorita
+
+## preamble
+
+1,02         0,77               Th                 Torianita                 Fluorita
+
+## preamble
+
+O segundo tipo de estrutura comum AO2  é o representado pelo rutílio. Nesta estrutura, o cátion é menor, com a relação dos raios RA:RO situando-se entre os limites 0,732 e 0,414 e tendo, portanto, coordenação 6. Consequentemente, existem seis oxigênios agrupados em torno de cada catíon. Tendo em conta que as exigências de neutralidade elétrica impõem que deva haver catíons representando metade dos oxigênios, somente estão preenchidos metade dos lugares. A possíveis e existem somente três cátions agrupados em torno de cada oxigênio. O efeito desta redução no número de cátions é a defornação do arranjo octaédrico usual, característico da coordenação 6, trazendo-o para uma configuração de simetria mais baixa. Os minerais do grupo do rutilo são, por conseguinte, tetragonais, com o hábito prismático a refletir a estrutura em cadeia.
+
+## preamble
+
+Tipo AB2O4.   Um grande número de compostos sintéticos, assim como de minerais têm a fórmula geral AB2O4 e pertencem ao tipo de estrutura do espinélio. Nesta estrutura, o cátion A é maior do que o B, é geralmente bivalente e tem um raio entre 0,6 e 0,8 A. O cátion B é geralmente trivalente, com o raio entre 0,5 e 0,7 A. Na estrutura típica do espinélio, os íons A têm quatro vizinhos oxigênio próximos, ao passo que os íons B tem seis. esta é uma estrutura isodésmica e os espinélios são considerados adequadamente como óxidos multiplos.
+
+## preamble
+
+A estrutura do espinélio está construída em tôrno de um retículo cúbico, dando origem a cristais isométricos, hexaoctaédricos, de hábito octaédrico. A ausência de clivegem, as densidades relativas comparativamente altas, a grande dureza refletem o empacotamento compacto e a ligação uniforme, apertada. Como todos os membros do grupo do espinélio são isoestruturais, a substituição iônico e do poder polarizante, sendo incompleta a solução sólida relativamente aos íons B. Assim embora algum ferro férrico e cromo trivalente possam ocorrer no espinélio e na gahnita, não existe uma série completa entre o espinélio, MgAl2O4 e a magnesioferrita, MgFe2O.  Por outro lado, parece haver solução sólida substancialmente completa relativamente ao cátion A. Em consequência, no subgrupo B é o alumínio, existe substituição mútua mais ou menos completa do magnésio, ferro ferroso, zinco e manganês bivalente.
+
+## preamble
+
+Esta solução sólida extensa dá origem a uma ampla faixa nas propriedades dos minerais do grupo dos espinélios,  tais como a côr e a densidade relativa que dependem, principalmente, da composição química. O hábito cristalino e as propriedades dependentes da geometria da estrutura e da natureza da ligação são, contudo, notavelmente constantes em todo o grupo.
+
+## preamble
+
+ÓXIDOS
+
+## preamble
+
+Cuprita                    Cu2O                  Grupo da Goethita
+
+## preamble
+
+Gelo                        H2O                        Diásporo             HAlO2
+
+## preamble
+
+Zincita                     ZnO                         Goethita             HFeO2
+
+## preamble
+
+Grupo da Hematita                             Grupo do Espinélio
+
+## preamble
+
+Coríndon                 Al2O3                       Espinélio             MgAl2O4
+
+## preamble
+
+Hematita                 Fe2O3                      Gahnita               ZnAl2O4
+
+## preamble
+
+Ilmenita                   FeTiO3                     Magnetita            Fe3O4
+
+## preamble
+
+Franklinita           (Zn,Fe,Mn)(Fe,Mn)2O4
+
+## preamble
+
+Grupo do Rutílio                                      Cromita                FeCr2O4
+
+## preamble
+
+Rutílio                     TiO2                         Crisoberilo            BeAl2O4
+
+## preamble
+
+Pirolusita                MnO2                        Columbita            (Fe,Mn)(Nb,Ta)2O6
+
+## preamble
+
+Cassiterita              SnO2
+
+## preamble
+
+Uraninita                 UO2
+
+## preamble
+
+HIDRÓXIDOS
+
+## preamble
+
+Brucita                   Mg(OH)2                     Limonita               FeO(OH).nH2O
+
+## preamble
+
+Manganita              MnO(OH)                    Bauxita                Hidratos de alumínio
+
+## preamble
+
+Psilomelana           BaMn"Mn49O18(OH)4

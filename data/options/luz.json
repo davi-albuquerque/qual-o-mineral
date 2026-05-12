@@ -1,0 +1,14 @@
+[
+  {
+    "key": "opaco",
+    "label": "Opaco"
+  },
+  {
+    "key": "translucido",
+    "label": "Translúcido"
+  },
+  {
+    "key": "transparente",
+    "label": "Transparente"
+  }
+]

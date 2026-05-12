@@ -1,0 +1,50 @@
+{
+  "slug": "bismuto",
+  "name": "BISMUTO",
+  "rawName": "BISMUTO",
+  "formula": "Bi",
+  "type": "SEMIMETAL NATIVO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal -R; escalenoédrica. Os cristais bem formados são raros. Usualmente laminados e granuloso, podem ser reticulados e arborescentes. os cristais artificiais são pseudocúbicos {0112}."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem perfeita {0001}. Dureza 2 - 2,5. Densidade 9,8. Séctil, frágil. Brilho metálico. Cor: branco da prata com um tom marcado avermelhado. Traço branco da prata, brilhante."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Bismuto. Podem estar presentes pequenas quantidades de arsênico, enxofre, telúrio e antimônio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 1 (271 °C) da escala de fusibilidade. Diante do maçarico, sobre o carvão vegetal, produz glóbulo metálico e auréola, indo do amarelo para o branco, de óxido de bismuto. O glóbulo é algo maleável, mas não pode ser batido até converter-se em folha tão fina quanto o chumbo. Misturado com iodeto de potássio e enxofre e aquecido sobre o carvão vegetal, produz uma auréola indo do amarelo brilhante para o vermelho."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhece-se o bismuto principalmente por sua natureza lamelar, sua cor de prata-avermelhada, sua clivagem perfeita e sua sectilidade."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O bismuto é um mineral comparativamente raro, ocorrendo usualmente em conexão com minérios de prata, cobalto, níquel, chumbo e estanho. Encontrado nos filões de prata da Saxônia, na Noruega e Suécia, e em Cornwall, na Inglaterra. Encontram-se depósitos importantes na Austrália, mas os mais produtivos estão na Bolívia. Encontram-se em pequenos filões, associado com minerais de prata e cobalto, em Cobalt, Ontário, Canadá. Encontrado escassamente apenas nos Estados Unidos."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O mineral principal do bismuto. O bismuto forma ligas de pontos de fusão baixos com o chumbo, o estanho e o cádmio, usados para fusíveis elétricos e tampões de segurança nos sistemas de aspersão de água. cerca de 75% do bismuto produzido destinan-se a medicina e a fabricação de cosméticos. O nitrato de bismuto é relativamente opaco aos raios X, sendo tomado internamente quando os órgãos digestivos devem ser fotografados."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Disputa-se a etimologia; possivelmente, vem do grego, significando branco do chumbo."
+    }
+  ]
+}

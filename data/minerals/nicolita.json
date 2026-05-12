@@ -1,0 +1,50 @@
+{
+  "slug": "nicolita",
+  "name": "NICOLITA",
+  "rawName": "NICOLITA",
+  "formula": "NiAs",
+  "type": "SULFETO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal; piramidal-dihexagonal. Raramente em cristais. Usualmente maciça, reniforme com estrutura colunar."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 5,0 - 5,5; Densidade  7,78. Brilho metálico. Cor:  vermelho do cobre, pálido (razão pela qual se chama níquel - cobre), embaçando-se e adquirindo cor que vai do cinza ao preto. Traço preto-pardacento. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Arsenieto de níquel, NiAs. Ni 43,9  -  As  56,1 por cento. Usualmente, com um pouco de ferro, cobalto e enxofre. Frequentemente, o arsênico é substituído em partes pelo antimônio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 2 na escala de fusibilidade. Quando aquecida sobre o carvão vegetal, forma-se um depósito branco volátil, de óxido arsenioso, desprendendo-se odor de alho. Dá o ensaio do níquel com dimetilglioxima."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por sua cor vermelha do cobre.\n\nAlteração:    Na atmosfera úmida, altera-se prontamente dando anabergita (flor de níquel)."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A nicolita, com outros arsenietos e sulfetos de níquel, pirrotita e calcopirita, ocorre frequentemente em noritos ou associada com estas rochas. Encontrada  também em depósitos de veios com minerais de cobalto e prata.\n\nEncontrada na Alemanha nas minas de prata da Saxônia, nas montanhas do Harz, em Hessen-Nassau e em Cobalt, no Ontário."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de níquel de menor importância."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O primeiro nome deste mineral, kupfernickel, deu o nome níquel ao metal. Nicolita procede da palavra latina niccolum (níquel)."
+    }
+  ]
+}

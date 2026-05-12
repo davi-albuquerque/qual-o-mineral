@@ -1,0 +1,70 @@
+{
+  "slug": "natrolita",
+  "name": "NATRÓLITA",
+  "rawName": "NATRÓLITA",
+  "formula": "Na2(Al2Si3O10).2H2O",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "FAMÍLIA DAS ZEÓLITAS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As zeólitas formam uma grande família de silicatos hidratados e mostram semelhanças íntimas na composição, em suas associações e no modo de ocorrência. elas são silicatos de alumínio com sódio  e cálcio como as bases importantes. A dureza média varia entre 3,5 e 5,5 e a densidade relativa entre 2,0 e 2,4. muitas delas fundem rapidamente com intumescência pronunciada, donde o nome de zeólita, de duas palavras gregas, significando fever e pedra. São minerais secundários e encontram-se, de forma característica, em cavidades e veios em rochas ígneas básicas."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Todas as zeólitas são aluminossilicatos cujas composições, a grosso modo, lembram de alguma forma, as do feldspatos e, como os feldspatos, estão formadas em cadeias construídas de anéis tetragonais de Sio e tetraédros de AlO4. As cadeias, ligadas pelos cátions, intersticiais, sódio, potássio, cálcio e bário, formam uma estrutura aberta, com grandes cristais, nos quais a água e outras moléculas podem alojar-se prontamente. Grande parte do interesse nas zeólitas, liga-se a presença destes canais espaçosos. Quando uma zeólita é aquecida, a água nos canais desprende-se fácil e continuamente, à medida que a temperatura aumenta, deixando a estrutura intacta. este comportamente está em contraste nítido com outros compostos hidratados, por exemplo, o gipso, no qual as moléculas de água desempenham um papel estrutural e uma desidratação completa produz o colápso da estrutura. Após a desidratação completa de uma zeólita, os canais podem ser preenchidos novamente com água ou com amônia, vapor de mercúrio, vapor de iodo ou uma variedade de outras substâncias. este processo é seletivo e depende da estrutura particular da zeólita e do tamanho das moléculas, e dai, serem as zeólitas usadas como \"peneiras moleculares\"."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "As zeólitas tem uma propriedade útil, adicional que se prende à sua estrutura. A água pode passar facilmente através dos canais, e no processo, os íons em solução podem ser trocados por íons na estrutura. este processo é denominado \"troca de base\" ou \"troca de catíon\", e por sua atividade as zeólitas ou os compostos sintéticos coma estrutura zeólitica são usados para o amolecimento da água. A zeólita usada tem uma composição aproximada de Na2Al2Si3O10.2H2O (como a natrólita). A água \"dura\", isto é, a água contendo muitos íons de cálcio em solução, passa através de um tanque cheio de grânulos de zeólita. Os íons de cálcio substituem os íons de sódio na zeólita, formando CaAl2Si3O10.2H2O, fornecendo íons de sódio para a solução. A água contendo sódio não forma escuma e é conhecida pela designação de \"mole\". Quando a zeólita posta no tanque ficou saturada de cálcio, faz-se passar por ele uma salmora de NaCl, forte. A alta concentração de íon sódio força a reação na direção inversa, com a reconstituição do Na2Al2Si3O10.2H2O, o cálcio passando para a solução. Pela troca de base, muito íons, incluindo a prata, podem substituir o cátion metal-alcalino da estrutura da zeólita."
+    },
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; esfenoédrica. Pseudo-ortorrômbica, prismática, muitas vezes acicular. A zona prismática verticalmente estriada. Alguns espécimes terminam por um prisma de quarta ordem, baixo. Em alguns casos, geminados em cruz. Usualmente em grupos de cristais distribuídos radialmente; ainda fibrosa, maciça, granular ou compacta."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem prismática {110} perfeita. Dureza  5,0 - 5,5. Densidade  2,25. Brilho vítreo . Incolor ou branca.  Em alguns casos tingida de amarelo a vermelho. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um silicato hidratado de alumínio e sódio, Na2(AlSi2O10).2H2O. As percentagens dos óxidos são: Na2O  16,3  -  Al2O3  26,8   - SiO2  47,4   - H2O  9,5. O potássio  pode substituir o sódio na proporção de Na:K = 15:1."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se  entre os números 2 e 3 da ecala de fusibilidade. Funde-se na forma de um vidro transparente, claro, dando a chama a cor amarela do sódio. Água no tubo fechado. Solúvel no ácido clorídrico e gelatiniza com a evaporação."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecida  principalmente, por seus cristais distribuidos radialmente. Distingue-se da aragonita por sua fácil fusibilidade e por fornecer água no tubo fechado."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A  natrólita é um mineral de origem secundária e encontra-se revestindo cavidades em basalto. Associada com outras zeólitas e calcita. Localidades bem conhecidas por sua ocorrência são: Aussig e Salesel, Boêmia; Puy-de-Dôme, Fraça; e Val di Fassa, Trentino, Itália. É encontrada, nos Estados Unidos, em Bergen Hill, Nova jersey. Encontrada ainda, em vários lugares da Nova Scotia."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Do latim natrium, significando sódio, em alusão a sua composição."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A escolecita (monoclínico), Ca(Al2Si3O10).3H2O é uma zeólita semelhante a natrólita."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ortoclasio",
+  "name": "ORTOCLÁSIO",
+  "rawName": "ORTOCLÁSIO",
+  "formula": "K(AlSi3O8)",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismática. Os cristais são, de ordinário, de hábito prismático e alongados paralelamente ao eixo a ou ao eixo c, e achatados paralelamente ao pinacóide lateral, tendo, como formas distintas, {010}, {001} e {110}, muitas vezes com prismas menores de segunda e quarta ordens.  Frequentemente geminados, de acordo com as seguintes leis: Carlsbad, geminado de penetração com o eixo c como eixo do geminado; baveno, com {021}  com plano de geminado e da composição;  Manebach  com {001}  com plano geminado e da composição.  Comumente em cristais ou em massas suscetíveis de clivagem a granulares; mais raramente, de granulação fina, maciça e criptocristalina. mais abundantemente nas rochas como grãos desprovidos de forma."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Duas clivagens distintas fazendo ângulo de 90° entre sí; uma {001}, perfeita; outra {010}, boa. Clivagem prismática, {110}, observada com frequência. Dureza 6,0. Densidade 2,57. Brilho vítreo. Incolor, branco, cinza, vermelho da carne. Traço branco. A andulária é uma variedade incolor, translúcida a transparente. está presente, habitualmente, em cristais pseudo-ortorrômbicos. Algumas andulárias mostram um jogo de cores opalescente, sendo denominada pedra-da-lua. A sanidina é uma variedade vidrada; muitas vezes, transparente, encontrada como fenocristais em algumas rochas ígneas."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de potássio e alumínio K(AlSi3O8).   K2O  16,0  -  Al2O3  18,4  - SiO2  64,7  por cento.  O ortoclásio e o microclínio são conhecidos conjuntamente por feldspato potássico. O sódio pode substituir o potássio e, na variedade sanidina, esta substituição vai até 50 por cento. Na hialofana, (K,Ba)(AlSi)2Si2O8, o bário substitui parcialmente o potássio. A celsiana, Ba(Al2Si2O8) é um feldspato raro de bário."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Dificialmente fusível (5). insolúvel nos ácidos. Quando misturado com gipso pulverizado e aquecido sobre a alça de platina, dá a chama violeta do potássio."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecido, usualmente, por sua cor, sua dureza e sua clivagem. Distingue-se dos outros feldspatos por sua clivagem em ângulo reto e pela falta das estriações do geminado sobre a melhor superfície de clivagem.\n\nAlteração:    Submetido à ação de águas contendo anidrido carbônico, o ortoclásio sofre alteração, formando um carbonato de potássio solúvel e deixando, como resíduo, uma mistura de um material argiloso e sílica ou de moscovita e sílica."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O ortoclásio é um dos minerais mais comuns. Formou-se durante a cristalização das rochas ígneas,  e pelas atividades hidrotermais nos diques pegmatíticos e nas drusas nas rochas. Mais raramente pela cristalização a partir das soluções aquosas,  em temperaturas baixas, nos filões. Amplamente distribuído  como constituinte importante de rochas, ocorrendo em muitos tipos de rochas ígneas, especialmente em granitos, sienitos e nefelina sienitos; nas rochas sedimentares está presente no arcózio e em certos arenitos e conglomerados; nas rochas metamórficas, nos gnaisses. também em grandes cristais e massas suscetíveis de clivagem nos diques pegmatíticos, asscociado principalmente com o quartzo, a moscovita e a albita."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O ortoclásio é empregado principalmente na manifatura de porcelana. moído bem fino, é misturado com caolim ou argila e quartzo. Quando aquecido em temperatura elevada, o feldspato sofre fusão e age como cimento ligando o material. O feldspato fundido também fornece a maior parte do brilho dos artigos de porcelana. uma quantidade pequena de feldspato é usada na manufatura do vidro para proprocionar alumina à fornada."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome ortoclásio refere-se à clivagem em ângulo reto que o mineral possui. Feldspato deriva da palavra germânica feld significando campo."
+    }
+  ]
+}

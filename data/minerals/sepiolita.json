@@ -1,0 +1,60 @@
+{
+  "slug": "sepiolita",
+  "name": "SEPIOLITA",
+  "rawName": "SEPIOLITA",
+  "formula": "Mg4(Si6O15)(OH)2.6H2O",
+  "type": "FILOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "GRUPO DA CLORITA"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Estão incluídos no Grupo da Clorita um certo número de minerais tendo todos eles propriedades químicas, cristalográficas e físicas semelhantes. Sem análises químicas quantitativas ou estudo cuidadosso das propriedades ópticas é extremamente difícil distinguir entre os membros do grupo.  Dá-se  uma descrição composta dos membros principais do grupo, clinocloro, peninita e proclorita."
+    },
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Sistema cristalino incerto, provavelmente monoclínico. Microscopicamente, vê-se que é uma mistura de material fibroso delicado e uma substância aparentemente da mesma composição. Textura fina e compacta."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 2,0 - 2,5. Densidade 2,0.  Fratura concóide. Quando seca, flutua na água por causa de sua porosidade. Brilho terroso. Cor:  branco-acinzentado, branco, ou com um matiz amarelado ou avermelhado. Ao tato, sente-se que é lisa, Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de magnésio  hidratado;  Mg4(Si6O15)(OH)2.6H2O.   MgO  27,1  -  SiO2   60,8   - H2O  12,1  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se na escala de fusibilidade entre os números 5 e 5,5. Produz muita água no tubo fechado em temperatura elevada e dá um cheiro de queimado."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada  pela sua sensação de ser lisa, por sua natureza compacta e por sua densidade relativamente baixa."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A sepiolita é encontrada como um mineral secundário, em massas modulares, associado com a serpentina; também com a magnesita e com a opala. Ocorre na Ásia Menor em depósitos terrosos estratificados, ou em depósitos aluviais, próximo de Eski-Shehr. Encontrada também na Grécia, na Checoslováquia, na Espanha e no Marrocos.  Nos Estados Unidos, é encontrada nos Estados da Pensilvânia, de Utah, do Novo México e da Califórnia."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "A sepiolita tem seu uso principal na fabricação de cachimbos de espuma do mar."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém da palavra grega significando siba, cujo osso e leve e poroso."
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+# SILICATO
+
+> _Esta é uma página resumo de classe (não um mineral individual)._
+
+## preamble
+
+A classe mineral dos silicatos é de maior importância do que qualquer outra, pois cerca de 25 por cento dos minerais conhecidos e quase 40 por cento dos comuns são silicatos. Com algumas exceções de menor significação, todos os minerais que formam as rochas ígneas são silicatos, constituindo, assim bem mais de 90 por cento da crosta terrestre.
+
+## preamble
+
+De cada 100 átomos na crosta terrestre, mais de 60 são oxigênio, acima de 20, silício e de 6 a 7, de alumínio. Uns dois átomos mais correspondem a cada um dos elementos: ferro, cálcio, magnésio, sódio e potássio.  Com a possível exceção do titânio, todos os outros elementos são volumetricamente insignificantes na arquitetura da crosta terrestre. Dado que nossa abordagem quanto a natureza dos minerais, neste livro, é estrutural, de preferência a ser estequiométrica, é inteiramente adequado que pensamos dos constituíntes da crosta em termos do espaço que ocupam antes que de suas percentagens em peso. Deste modo, somos levados a imaginar a crosta como uma armação de íons de oxigênio ligados, em configurações de maior ou menor complexidade, pelos íons pequenos, altamente carregados, de silício e de alumínio. Os interstícios desta estrutura, mais ou menos contínua de oxigênio-silicio e alumínio estão ocupados pelos íons de magnésio, ferro, cálcio, sódio e potássio em estados de coordenação adequados a seus raios individuais. Esta simplificação surpreendente da composição da crosta terrestre resulta da consideração das proporções atômicas antes que do pêso por cento, que é a forma sob a qual a composição das rochas e dos minerais é, usualmente, mencionada.
+
+## preamble
+
+Mostra-se, assim, que os minerais dominantes da crosta são os  silicatos e os óxidos, cujas propriedades dependem das condições de origem, física e químicas. Cada um dos diferentes conjuntos de minerais silicatados, que caracterizam as rochas ígneas, sedimentares e metamórficas, os filões de minérios, os pegmatitos, as rochas intemperizadas e os solos, conta algo do ambiente em que se formou. Se as rochas são as páginas do livro da história geológica, os minerais são os caracteres com os quais o livro foi impressoe, somente com uma compreensão deles e de suas estruturas, o documento pode ser lido.
+
+## preamble
+
+Uma razão profunda para se estudar os silicatos, diz respeito ao solo do qual retiramos, em última instância, nossos alimentos é constituído, em grande parte de silicatos. O tijolo, a pedra, o concreto e o vidro utilizados na construção de nossas casas ou são silicatos, ou derivam deles, amplamente. Os silicatos são os materiais cerâmicos da maior importância e contribuem em grande número de modos para nossa cultura e padrão de vida. Mesmo com a vinda da era espacial, naõ devemos recear que os estudos sobre os silicatos se tornem obsoletos mas sim, que ampliarão seu escopo, pois existem razões para acreditar que a lua e todos os planetas de nosso sistema solar possuem crostas rochosas constituídas de silicato e de óxidos muito semelhantes aos da Terra.
+
+## preamble
+
+A relação do raio do íon silício tetravalente (Rad. 0,42 A°) para o do íon oxigênio (Rad. 1,32 A°) é de 0,318. Esta relação dos raios indica que a coordenação 4 será o estado estável dos agrupamentos silício-oxigênio. A unidade fundamental sobre a qual se baseia a estrutura de todos os silicatos consiste em 4 íons de oxigênio nos vértices de um tetraedro regular rodeando o íon de silício tetravalente e coordenados por este. A poderosa ligação que une os íons de oxigênio e silício é, literalmente, o cimento que mantém unida a crosta da Terra.  Esta ligação pode ser estimada mediante o uso do conceito de eletronegatividade de Pauling, como sendo 50 por cento iônica e 50 por cento covalente.  Isto é, embora a ligação se origine em parte da atração de unidades iônicas providas de cargas opostas, ela implica também a participação de elétrons e a interpretação das superestruturas eletrônicas dos íons envolvidos. A ligação esta localizada nas vizinhanças destes electrons compartilhados.
+
+## preamble
+
+Embora a participação eletrônica eseja presente na ligação silício-oxigênio, a energia total de ligação do  íon silício está ainda distribuída igualmente entre seus quatro vizinhos oxigênios mais próximos. Em consequência, a força de qualquer ligação silício-oxigênio isolada é a metade exata da energia total de ligação disponível no íon de oxigênio.  cada íon de oxigênio tem, portanto, a potencialidade de ligar-se com outro íon de silício e de entrar em outro agrupamento tetraédrico, unindo assim, os grupos tetraédricos através do oxig~enio compartilhado.  esta participação pode envolver, um, dois, três ou todos os quatro íons de oxigênio no tetraedro, dando origem a uma diversidade de configurações estruturais. Em nenhum caso, todavia, na natureza, três ou mesmo dois oxigênios são compartilhados entre dois tetraédros adjacentes. esta participação colocaria dois íons de silício com cargas elevadas, positivas muito próximas um do outro e a repulsão mútua tornaria a estrutura instável. A participação de um oxigênio entre dois tetraedros adjacentes quaisquer pode, se todos os quatro oxigênios são compartilhados assim, originar estruturas de um grau de coesão muito elevado, como  o da estrutura do  íons e os íons comuns são limitados e, geralmente, confinadas a cristalização em temperatura elevada, na qual a solução sólida é favorecida.
+
+## preamble
+
+Coordenação dos Elementos Importantes nos Silicatos
+
+## preamble
+
+Número de Coordenação                                Íon                          Raio iônico (A°)
+
+## preamble
+
+Z                             4                                 Si+4                                  0,51
+
+## preamble
+
+4                                 Al"'                                    0,51
+
+## preamble
+
+Y                            6                                 Al"'                                     0,51
+
+## preamble
+
+6                                 Fe"'                                    0,64
+
+## preamble
+
+6                                 Mg"                                    0,66
+
+## preamble
+
+6                                 Ti+4                                    0,68
+
+## preamble
+
+6                                 Fe"                                     0,74
+
+## preamble
+
+6                                 Mn"                                    0,80
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+X                            8                                  Na'                                    0,97
+
+## preamble
+
+8                                  Ca"                                   0,99
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+X                            8-12                              K'                                     1,33
+
+## preamble
+
+8-12                              Ba"                                  1,34
+
+## preamble
+
+8-12                              Rb'                                   1,47
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+A substituição iônica é geralmente comum e ampla entre os elementos cujos símbolos se situam entre um par de linhas horizontais, mas é rara e difícil entre os elementos separados por uma linha horizontal. Esta generalização do papel desempenhado pelos elementos mais comuns, na estrutura dos silicatos, nos permite escrever uma fórmula geral para todos os silicatos     XmTn(ZpOq)Wr  na qual X representa os íons grandes, de carga fraca em coordenação 8, ou mais elevada, com o oxigênio; Y, os íons de tamanho médio, bi-a tetravalentes, em coordenação tetraédrica; O é o oxigênio; e W representa os grupos aniônicos tais como a (OH), ou os aníons Cl-, F-, etc.  A relaçãp p:q depende do grau de polimerização da estrutura do silicato e os subíndices das outras variáveis, a saber, m,n,r, dependem da condição de neutralidade elétrica. Qualquer silicato comum pode ser expresso mediante substituição adequada nesta fórmula geral.
+
+## preamble
+
+Dependendo do grau de polimerização e da amplitude da participação do oxigênio entre os tetraedros, a estrutura dos silicatos pode consistir em tetraedros independentes, em grupos tetraédricos múltiplos, independentes, cadeias, cadeias duplas ou faixas, folhas, ou armação tridimensionais. A estrutura do siulicato reage a relação p:q na fórmula geral, a proporção estequiométrica dos óxidos e, em larga escala, as propriedades físicas e a estabilidade química do mineral. Por conseguinte, é adequado que este critério deva ser usado como base de uma classificação dos silicatos.
+
+## preamble
+
+Até 1930, as análises dos silicatos eram interpretadas, e suas fórmulas escritas, geralmente, em têrmos de um número hipotético de oxiácidos de silício. Assim a olivina, Mg2SiO4, era denominada um "ortossilicato" e considerada como sendo um sal do ácido ortossilícico, H4SiO4; a enstatita, MgSiO3, chamava-se um "metassilicato", sendo considerada como um sal do ácido  matassilicico, H2SiO3. Em alguns casos simples esta teoria dos silicatos funcionava rasoavelmente bem e alguns destes ácidos puderam ser preparados. Sabemos agora que, por causa da natureza peculiar da ligação do hidrogênio, esses ácidos não tem significação, qualquer que seja, para os silicatos. Contudo, quando uma análise indicava uma relação de 4:11, do silício para o oxigênio, como nos anfibólios, e continha excesso de água também, havia uma forte tentação em atribuir a culpa do desvio de uma relação de 1:3 às imperfeições da análise, ou à impureza da amostra, e em imputar o execesso de água às mesmas causas. Isto era o que acontecia e os manuais, ainda em 1932, referiam-se a fórmula do anfibólio como "próximo da de um metassilicato, RSiO3" e davam para a tremolita a fórmula CaMg3(SiO3)4, apesar do fato que muitas das análises disponíveis a calculavam, precisamente como Ca2Mg5Si8O22(OH)2, ou seja, a fórmula agora aceita em concordância com sua estrutura. Não se adimire, pois, que se considerasse a química dos silicatos como um atoleiro caótico de incertezas. As determinações estruturais dos Braggs puseram ordem neste caos. É este esquema, resumido em 1937 por Berman, e revisto e apurado por Strunz (1957).
+
+## preamble
+
+Classificação dos Silicatos
+
+## preamble
+
+_______________________________________________________________________________
+
+## preamble
+
+Classe                Arranjo dos Tetraedros SiO4   Relação Si:O        Exemplo de mineral
+
+## preamble
+
+_______________________________________________________________________________
+
+## preamble
+
+Nesossilicatos                   Isolados                              1:4    Olivina (Mg,Fe)2SiO4
+
+## preamble
+
+Sorossilicatos                    Duplos                                2:7    Hemimorfita Zn4(Si2O7)(OH).H2O
+
+## preamble
+
+Ciclossilicatos                   Aneis                                  1:3     Berilo  Be3Al2(Si6O18)
+
+## preamble
+
+Inossilicatos                      Cadeias (simples)                1:3     Enstatita Mg2(Si2O6)
+
+## preamble
+
+Cadeias (duplas)                  4:11   Tremolita Ca2Mg5(Si8O22)(OH)2
+
+## preamble
+
+Filossilicatos                     Folhas                                 2:5    Talco  Mg3(Si4O10)(OH)2
+
+## preamble
+
+Tectossilicatos                  Estruturas tridimensionais     1:2    Quartzo  SiO2
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+Nesossilicatos
+
+## preamble
+
+Nos nesossilicatos, os tetraédros SiO4, comuns em todas as estruturas dos silicatos, estão isolados e unidos entre sí somente por ligações iônicas, através dos cátions intersticiais. Suas estruturas dependem principalmente do tamanho de carga destes catíons intersticiais. Encontram-se as estruturas mais simples nos minerais em que existe somente um tipo de posição do catíon. Se o catíon é bivalente, resulta um composto da fórmula tipo A2SiO4, representado pela fenacita e pela olivina. Quando o cátion A é suficientemente pequeno, tal como Be+2 (0,35 A°), somente é permitida a coordenação 4 com o oxigênio. A dificuldade de arranjar tetraedros SiO4, de tal modo que cada cátion A coordene  somente quatro oxigênios, enquanto mantendo a neutralidade elétrica, conduz à estrutura bastante complexa da fenacita (romboédrica-hexagonal). A willemita, Zn2SiO4, também possui esta estrutura.
+
+## preamble
+
+O magnésio e o ferro bivalente tem, caracteristicamente, a coordenação 6 com oxigênio. Quando estes íons entram em um composto do tipo A2SiO4, resulta uma estrutura de simetria bastante elevada, consistindo em tetraédros SiO4, dispostos em redor das posições do tipo A, de modo que cada íon A coordena 6 oxigênios. Esta estrutura que é da olivina, pode ser idealizada com um empilhamento regular de tetraedros e octaedros, alternando-se com os vértices dos tetraédros apontando alternadamente para cima e para baixo. As posições octaédricas podem estar ocupadas seja pelo magnésio, seja pelo ferro ferroso, em arranjo arbitrário, dando origem a uma série completa de solução sólida entre Mg2SiO4 e Fe2SiO4.  O manganês pode entrar também nas posições octaédricas da estrutura da olivina, originando solução sólida entre Fe2SiO4 e Mn2SiO4, a tefroíta.
+
+## preamble
+
+Os íons maiores, como o cálcio e o chumbo, não substituem facilmente o magnésio e o ferro ferroso na estrutura da olivina e os silicatos de cálcio e chumbo possuem estrutura diferente, com coordenação mais alta dos cátions relativamente ao oxigênio. Fazendo-se com que se cristalize um silicato A2SiO4, contendo grandes quantidades seja de cálcio, seja de chumbo, além do magnésio, do ferro ferroso ou do manganês bivalente, formar-se-á um sal duplo ordenado, estratificado, semelhante a dolomita, com os cátions maiores e menores separados em camadas. Conhecem-se vários minerais deste tipo, como a monticellita e a larsenita.
+
+## preamble
+
+Os minerais do grupo da olivina são, geologicamente, muito importantes. Sabe-se que compreendem vários por cento das rochas superficiais da crosta e pensa-se que predominam nas rochas mais pesadas e mais profundamente situadas da zona abaixo da crosta. São  minerais de alta temperatura, formando-se, em geral, precocemente, a partir das fusões de silicatos, sendo frequentemente substituídos pelos minerais mais tardios. São comuns nos meteoritos líticos extraterrestres e, portanto, são provavelmente importantes em todos os planetas com um manto ou crosta pétreos.
+
+## preamble
+
+O mineral condrodita é típico de um grupo de silicatos afins, constituídos de camadas da estrutura da olivina altenando-se com folhas da brucita, Mg(OH)2, estruturalmente homólogas. O flúor pode substituir a hidroxila, nas camadas de brucita coordenadas octaedricamente. Os minerais desta classe diferenciam-se entre si pelas proporções relativas das camadas de brucita coordenadas octaedricamente. Os minerais desta classe diferenciam-se entre si pelas proporções relativas das camadas de brucita e olivina, tendo a fórmula geral Mg2n+1(SiO4)n(P,OH)2, na qual n=1,2,3 e 4, igual ao número de camadas de olivina para cada camada de brucita.
+
+## preamble
+
+Os silicatos de zircônio, tório e urânio têm a fórmula ASiO4. Estes cátions bem grandes entram em coordenação 8, estável, com o oxigênio, e a estrutura resultante pode ser idealizada como uma alternância de tetraedros e cubos deformados, dando origem a simetria tetragonal. Este é o tipo da estrutura do zircão, partilhada pela torita e coffinita, os silicatos de tório e urânio, respectivamente. pode ocorrer alguma substituição iônica pelos elementos raros: hafnio, ítrio e cério, algumas vezes em quantidades apreciáveis. A substituição parcial dos tetraedros SiO4 pelos agrupamentos (OH)4 é comum.
+
+## preamble
+
+O grupo da granada, com sua notável uniformidade de morfologia cristalina, sua grande diversidade de composição química e sua dependência estreita entre as propriedades físicas e a composição, apresenta o mais belo exemplo de um grupo isoestrutural. A estrutura consiste em tetraedros SiO4 isolados, unidos por ligações oxigênio-catíon-oxigênio, através de dois tipos, estruturalmente distintos de posições de catíon. Uma destas posições A, é ocupada por íons bivalentes, relativamente grandes, a outra B, por íons trivalentes menores, conduzindo a fórmula A3B2(SiO4)3. O arranjo estrutural apresenta-se de tal modo que, nas famílias de planos {100} e {111}, existem muito poucos átomos. Como resultado disto, encontram-se, raramente, nos cristais de granada, o cubo e o octaédro que são comuns na maior parte dos cristais isométricos, hexaoctaédricos. Dentro do retículo deste tipo de estrutura, existe intercâmbio fácil e substancialmente completo do magnésio, ferro ferroso e manganês bivalente nas posições do cátion A. Os íons precedentes são submetidos menos facilmente pelo cálcio, nas posições A. Nas posições B, existe substituição limitada com respeito ao alumínio, ferro férrico e cromo.
+
+## preamble
+
+Tendo em conta considerações de tamanho no preenchimento das posições do cátion A, podemos esperar uma divisão, regularmente bem definida, das granadas entre aquelas com cálcio e as com os elementos, facilmente intercambiáveis, ou seja, o magnésio, o ferro ferroso e o manganês bivalente. Do mesmo modo, por causa da substituição limitada dos íons B, é de esperar-se uma separação das granadas em granadas contendo alumínio, ferro férrico e cromo. Estas duas tendências são bem marcadas e cada uma deu origem a um modo de classificação das granadas. A primeira, proposta por Winchell, na base do íon A, divide as granadas em dois grupos:
+
+## preamble
+
+Piralspita                                                      Ugrandita
+
+## preamble
+
+Piropo                   MgAl                                        Uvarovita         CaCr
+
+## preamble
+
+Almandina             FeAl                                         Grossulária     CaAl
+
+## preamble
+
+Espessarita           MnAl                                        Andradita        CaFe
+
+## preamble
+
+Esta classificação serve como excelente meio mnemônico para serem lembrados os nomes e as fórmulas. O segundo agrupamento, na base do íon B, produz três grupos desiguais.
+
+## preamble
+
+Granadas aluminíferas              Granadas ferríferas               Granadas cromíferas
+
+## preamble
+
+Piropo                                         Andradita                                Uvarovita
+
+## preamble
+
+Almandina
+
+## preamble
+
+Espessartita
+
+## preamble
+
+Grossulária
+
+## preamble
+
+Os grupos SiO4 podem ser substituídos, em escala limitada, por (OH)4, nas hidrogranadas, exemplificadas na hidrogrossulária, e o titânio pode entrar nas posições B, concomitantemente com a substituição do cálcio pelo sódio nas posições A, produzindo a melanita preta.
+
+## preamble
+
+Os três polimorfos de Al2SiO5 possuem estruturas, relativamente complexas, em cadeia ou semelhantes a fibras; em todas elas, um dos dois íons alumínio está coordenado solidamente a seis oxigênios. Na sillimanita, o outro íon alumínio esta em coordenação 4, produzindo uma verdadeira estrutura, em cadeia, de tetraedros alternados de silício e de alumínio, assemelhando-se em muito à estrutura do piroxênio. è significativo que a sillimanita tenha o hábito mais fibroso e acicular, entre os três polimorfos. Na andaluzita, o segundo alumínio tem um número de coordenação 5 relativamente ao oxigênio e na cianita, ambos os alumínios tem um número de coordenação 6 quanto ao oxigênio. Como resultado disto, a andaluzita e a cianita possuem um hábito mais colunar ou laminado.
+
+## preamble
+
+Todos os três minerais são característicos das rochas metamórficas. As relações de estabilidade entre os três polimorfos podem ser vistas no diagrama pressão-temperatura. Todos os três podem ocorrer, todavia, na mesma rocha porque as transformações são lentas.
+
+## preamble
+
+O topázio, a estaurolita, a datolita e a dumortierita possuem estruturas complicadas pela presença de hidroxila, fluór e boro. Na estrutura da titanita, CaTiSiO5, um dos  oxigênios que aparecem na fórmula não é uma parte dos grupos silício-oxigênio tetraédricos, isolados. O titãnio está ligado a seis oxigênios nos vértices de um octaedro bastante regular, ao passo que os íons cálcio tem um númeo de coordenação 7, pouco usual, com respeito ao oxigênio.
+
+## preamble
+
+Nesossilicatos
+
+## preamble
+
+Grupo da Fenacita
+
+## preamble
+
+Fenacita                                   Be2(SiO4)
+
+## preamble
+
+Willemita                                  Zn2(SiO4)
+
+## preamble
+
+Grupo da Olivina
+
+## preamble
+
+Forsterita                                  Mg2(SiO4)
+
+## preamble
+
+Fayalita                                    Fe2(SiO4)
+
+## preamble
+
+Grupo das Granadas                  A3B2(SiO4)3
+
+## preamble
+
+Piropo                                       Espessartita      Andradita
+
+## preamble
+
+Almandina                                 Grossulária        Uvarovita
+
+## preamble
+
+Grupo do Zircão
+
+## preamble
+
+Zircão                                        Zr(SiO4)
+
+## preamble
+
+Grupo Al2SiO5*
+
+## preamble
+
+Andaluzita                              Al[6]Al[5]O(SiO4)
+
+## preamble
+
+Sillimanita                              Al[6]Al[4]O(SiO4)
+
+## preamble
+
+Cianita                                   Al[6]Al[6]O(SiO4)
+
+## preamble
+
+Topázio                                     Al2(SiO4)(F,OH)2
+
+## preamble
+
+Estaurolita                                 Fe2Al9O7(SiO4)(OH)
+
+## preamble
+
+Grupo da Condrodita
+
+## preamble
+
+Condrodita                              Mg5(SiO4)2(OH,F)2
+
+## preamble
+
+Datolita                                      CaB(SiO4)(OH)
+
+## preamble
+
+Titanita                                      CaTiO(SiO4)
+
+## preamble
+
+Dumortierita                               (Al,Fe)7O3(BO3)(SiO4)3
+
+## preamble
+
+Inossilicatos
+
+## preamble
+
+Os tetraédros SiO4 podem estar unidos em cadeias, compartilhando oxigênios com os tetraedros adjacentes. Essas cadeias simples podem então, unir-se lado a lado, mediante participação ulterior de oxigênios em alguns dos tetraedros, para formar faixas ou cadeias duplas. Estas configurações caracterizam os inossilicatos. Na estrutura de cadeia simples, dois dos quatro oxigênios em cadeia tetraedro SiO4 compartilham com os tetraedros vizinhos, ao passo que, na estrutura em cadeia dupla, metade dos tetraedros compartilham três oxigênios e a outra metade somente dois. Estas configurações produzem relações de silício para o oxigênio de 1:3, nas cadeias simples e de 4:11 nas cadeias duplas ou faixas.
+
+## preamble
+
+A estrutura de cadeia simples está representada da melhor maneira pelos piroxênios, para os quais a fórmula geral XY (Si2O6). A estrutura pode ser imaginada como se fosse constituída de cadeias paralelas de silício-oxigênio, estendendo-se indefinidamente na direção do eixo c, unidas por ligações iônicas através dos cátions X e Y. Os cátions X são grandes e estão carregados fracamente, sendo geralmente o sódio ou o cálcio; estão ligados a oito vizinhos oxigênio. Os cátions Y são menores, em coordenação 6 com o xoigênio, podendo ser o magnésio, o ferro ferroso ou o férrico, o alumínio, o manganês bi- ou trivalente, ou mesmo o lítio ou o titânio tetravalente. A introdução de um íon de carga maior ou menor pode ser compensada mediante uma substituição simultânea, como do silício pelo alumínio, nas posições tetraédricas.
+
+## preamble
+
+Os piroxênios são em geral, monoclínicos quando as posições X e Y são ocupadas por íons grandes ou pequenos, respectivamente. Se contudo, tanto as posições X como as Y são ocupadas por íons pequenos, resulta uma simetria ortorrômbica. Esta simetria se produz por uma reflexão semelhante a um geminado, sobre (100), acompanhada por uma duplicação da dimensão a0 da cela. A ocupação tanto das posições X como das Y, por ións maiores, pode resultar em um retículo triclínico, como é o caso da rodonita, Mn(SiO3), e na wollastonita, Ca(SiO3). Todos os piroxênios apresentam clivagem dominante segundo {110}, de ângulo próximo de 90°, paralela às cadeias de SiO3, e geralmente, tem partição nítida, paralelamente a {100} e {001}.
+
+## preamble
+
+De acordo com os princípios estabelecidos anteriormente, resulta uma simetria ortorrômbica quando tanto as posições X como as Y são ocupadas pelo magnésio e pelo ferro ferroso, como na enstatita-hiperstênio. O magnésio e o ferro ferroso podem substituir-se mutualmente, em todas as proporções, com distribuição fortuita, resultando em uma alteração linear das propriedades com a composição. Sob certas condições de pressão e temperatura, estes compostos podem formar polimorfos monoclínicos (clinoenstatita-clinohiperstênio), com a metade da dimensão a0 da cela da modificação ortorrômbica.
+
+## preamble
+
+Quando as posições X são ocupadas pelos íons de cálcio em coordenação 8, e as posições Y, pelo magnésio, ferro ferroso, ou manganês bivalente em coordenação 6, resulta um membro da série do diopsídio. Dentro desta série, pode haver, substancialmente, substituição mútua, completa, do magnésio, ferro ferroso e manganês bivalente, resultando em alterações de menor importância, mas quase lineares, nas dimensões da cela e nas propriedades.
+
+## preamble
+
+A ocupação das posições X por um íon metálico, alcalino, monovalente, de tamanho moderado a grande, e das posições Y por um catíon trivalente, resulta em um membro da série do espodumênio: espodumênio, jadeita ou egirina. É possível a solução sólida não somente  dentro desta série mas também entre esta série e a do diopsídio, dando origem a muitas variedades e respectivos nomes.
+
+## preamble
+
+Os piroxênios comuns das rochas ígneas e metamórrficas contém tanto cálcio como sódio nas posições X; magnésio, ferro ferroso, alumínio, ferro férrico e algum titânio tetravalente nas posições Y, assim como o silício substituindo algum alumínio nas posições tetraédricas. As proporções destes constituintes variam na dependência do ambiente da formação. usa-se o nome "augita comum" para indicar os piroxênios desta espécie, de composição complexa e variável.
+
+## preamble
+
+Íons nos Piroxênios e  Anfibólios Comuns
+
+## preamble
+
+X                     Y                             Piroxênio                                  Anfibólio
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+Mg                 Mg                            Enstatita                                 Antofilita
+
+## preamble
+
+Clinoenstatita                          Kupfferita
+
+## preamble
+
+Mg,Fe            Mg,Fe                        Bronzita, hiperstênio                Antofilita
+
+## preamble
+
+Clinohiperstênio                       Cummingtonita
+
+## preamble
+
+Ca                 Mg                             Diopsídio                                Tremolita
+
+## preamble
+
+Ca                 Fe                              Hedenbergita                          Actinolita
+
+## preamble
+
+Ca                 Mn                             Johannssenita
+
+## preamble
+
+Na                 Al                               Jadeíta                                   Glaucofana
+
+## preamble
+
+Na                 Fe"'                            Egirina                                    Riebeckita
+
+## preamble
+
+Arfvedsonita
+
+## preamble
+
+Li                   Al                              Espodumênio
+
+## preamble
+
+Ca,Na            Mg,Fe                        Augita                                     Hornblenda
+
+## preamble
+
+Mn, Al
+
+## preamble
+
+Fe"', Ti
+
+## preamble
+
+________________________________________________________________________________
+
+## preamble
+
+Entre os minerais formadores de rocha mais abundantes e importantes estão os anfibólios, constituindo uma família mineral que apresenta grandes paralelismo com a dos piroxênios. Todos os membros tem como estrutura básica a cadeia dupla, ou faixa Si4O11. estas cadeiaas duplas podem ser consideradas como de extensão indefinida, paralelamente a clivagem do eixo c. Quando as cadeias duplas são olhadas a partir de uma extremidade, isto é, na direção do eixo c, pode observar-se como elas explicam os ângulos de melhor meio par a rápida distenção visual entre os anfibólios e os piroxênios, porque não só os ângulos de clivagem diferem entre si, mas também a clivagem do anfibólio é melhor do que a dos piroxênios.
+
+## preamble
+
+As cadeias estão unidas, como nos piroxênios, por ligações iônicas através de dois tipos de posições do cátion, ocupadas em geral, pelos íons dos tipos X e Y, como definidos anteriormente. Os íons OH ocupam os espaços vazios, resultantes da junção das cadeias isoladas, lado a lado, para a formação da cadeia dupla. A geometria do arranjo é de tal sorte que os cátions X, maiores, estão em coordenação 8, ao passo que os cátions T, menores, em coordenação 6. Tendo em conta a exigência da neutralidade elétrica, pode ser escrita, para os anfibólios, a seguinte fórmula geral: X0-7Y7-14X16O44(OH)4.
+
+## preamble
+
+Existe considerável latitude na interpretação de uma fórmula assim tão geral. Os íons X são, em geral, o sódio e o cálcio, com o potássio como constituinte de menor importância. Os íons Y incluem o magnésio bivalente e trivalente e o titânio, tal como nos piroxênios. Pode ocorrer substituição limitada entre o ferro ferroso e o manganês bivalente. Existe substituição limitada entre o ferro férrico e o alumínio, e entre o titânio e outros íons do tipo Y; e substituição parcial do silício pelo alumínio nas posições do tipo Z dentro das cadeias duplas, tal como exigido pela compensação de valência e pela neutralidade elétrica. A substituição parcial de OH pelo flúor e pelo oxig~enio nas posições das hidroxilas é também comum. No anfibólio hornblenda comum, formador de rocha, ocorre muitas das possibilidades de substituição mencionadas anteriormente, sendo todas, conduzindo a fórmula complexa.
+
+## preamble
+
+Alguns anfibólios, como alguns piroxênios, são dimorfos, tendo membros ortorrômbicos e monoclínicos. os membros ortorrômbicos tem uma estrutura que pode ser derivada da estrutura monoclínica por reflexão sobre (100) e, em consequência, mostram duplicação da dimensão a0 da cela. Esta duplicação da cela fundamental ocorre nos membros em que as posições tanto do tipo X com as do tipo Y estão ocupadas pelos cátions menores, como o magnésio e o ferro ferroso, produzindo assim, anfibólios análogos à série da enstatita dos piroxênios. Atribuem-se estes anfibólios à série da antofilita e seus dimorfos monoclínicos, à série cummingtonita. A semelhança entre os análogos dos piroxênios e dos anfibólios não pode ser levada mais longe, pois demonstrou-se que os limites da substituição iônica não são identicos  na antofilita e na cummingtonita, ao passo que é possível uma solução sólida completa tanto na enstatita-ferrossilita como na clinoenstatita-clinoferrossilita.
+
+## preamble
+
+Os piroxênios cristalizam-se em temperaturas mais elevadas do que seus análogos dos anfibólios e por conseguinte, se formam mais precocemente, em geral, em um magma ígneo, em resfriamento. Frequentemente, um piroxênio formado mais cedo altera-se em anfibólio, em um estágio mais tardio na história de uma rocha ígnea. As experiências de N.L. Bowen indicam que a olivina, cristalizada a partir de uma fusão de silicatos assemelhando-se em composição aos magmas naturais reagiria, ao baixar-se a temperatura vagarosamente, com a fusão líquida residual, para formar o piroxênio. Estando a água presente, este piroxênio pode reagir, então com o líquido residual, em temperaturas ainda mais baixas, para formar anfibólio.

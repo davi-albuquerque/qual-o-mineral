@@ -46,13 +46,18 @@ export interface FilterRow {
   /** Slug for URLs, e.g. `"ouro"`. */
   slug: string;
   type: string; // e.g. "METAL NATIVO"
-  brilho: string;
+  brilho: string; // option key
+  brilhoLabel: string; // PT-BR label (kept for debug/display)
   traco: string;
+  tracoLabel: string;
   /** Numeric hardness as stored in the .xlsm (e.g. 3, 4, 6). */
   durezaNum: number;
   habito: string;
+  habitoLabel: string;
   luz: string;
+  luzLabel: string;
   cor: string;
+  corLabel: string;
 }
 
 export interface FilterIndex {

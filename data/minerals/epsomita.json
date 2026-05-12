@@ -1,0 +1,50 @@
+{
+  "slug": "epsomita",
+  "name": "EPSOMITA",
+  "rawName": "EPSOMITA",
+  "formula": "MgSO4.7H2O",
+  "type": "SULFATOS E CROMADOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; biesfenoidal. Raramente em cristais. Usualmente em massas botrioidais  e crostas delicadamente fibrosas."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {010} perfeita. Dureza 2,0 - 2,5 ;  Densidade 1,68. Brilho  vítreo a terroso. De incolor a  branca. Transparente a translúcido. Sabor muito amargo."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Sulfato de magnésio  hidratado. MgSO4. 7H2O.  -  MgO  16,3  - SO3  32,5  - H2O 51,2  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "No tubo fechado, produz muita água ácida e liquefaz-se em sua água de cristalização. Solúvel na água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por seu modo de ocorrência em agregados delicados, fibrosos e capilares, sua solubilidade fácil na água e seu gosto amargo."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A epsomita está depositada, usualmente, como uma eflorescência sobre as rochas, nas galerias das minas e sobre as paredes das cavernas. Mais raramente, encontra-se nos depósitos lacustres; associada com outros sais solúveis como em Stassfurt, na Alemanha. Encontra-se nos Estados Unidos sobre o chão das cavernas calcárias situadas em Kentucky, Tennessee e Indiana, e em muitas abandonadas, na Califórnia e Colorado. Encontrada em depósitos lacustres em Stevens County, no Estado de Washington."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O mineral epsomita tem pouco uso, pois o sal de epsom comercial é fabricado a partir de outros minerais magnesianos."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome epsomita provém da localidade de Epsom, na Inglaterra, onde foi encontrado pela primeira vez."
+    }
+  ]
+}

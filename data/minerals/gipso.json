@@ -1,0 +1,50 @@
+{
+  "slug": "gipso",
+  "name": "GIPSO",
+  "rawName": "GIPSO",
+  "formula": "CaSO4.2H2O",
+  "type": "SULFATOS E CROMADOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismática. Os cristais são de hábito prismático; tabulares, paralelamente ao pinacóide lateral; configurados em losango, com arestas biseladas pelas faces {110} e {111}. Outras formas são raras. Os geminados são comuns, tendo como plano do geminado o pinacóide frontal, do que resulta, muitas vêzes, geminados  com a forma de cauda de andorinha. Maciça; suscetível de clivagem; laminada; maciça granular. O espato cetinado é um gipso fibroso com brilho sedoso. O alabastro é uma variedade maciça, finamente granulada. A selenita, outra variedade do gipso, produz lâminas largas, incolores e transparentes."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem em quatro direções; perfeita {010}, produzindo facilmente lâminas delgadas {100}, com superfície concóide; {011}, com fratura fibrosa. Dureza 2,0 (pode ser riscada pela unha);  Densidade 2,32. Brilho usualmente vítreo; também nacarado e sedoso. Incolor, branco, cinzento; vários matizes do amarelo, vermelho, castanho, por causa das impurezas. Transparente a translúcido."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Sulfato de cálcio hidratado. CaSO4. 2H2O.  -  CaO  32,6  - SO3  46,5  - H2O 20,9  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 3 da escala de fusibilidade. Depois de calcinação intensa, o resíduo dá reação alcalina com o papel de ensaio umedecido. Solúvel em ácido clorídrico diluído, quente; juntando-se cloreto de bário à solução, forma-se um precipitado de sulfato de bário. Torna-se branco no tubo fechado e produz muita água."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por sua cor vermelha, não se distinguindo, porém, facilmente, pela simples inspeção, de outros minerais associados e de aparência semelhante."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O gipso é um mineral comum, amplamente distribuído nas rochas sedimentares, muitas vezes em camadas espêssas. Ocorre, frequentemente, interestratificado com calcários e folhelhos, sendo encontrado usualmente como uma camada subjacente e outras de salgema; explica-se o fato, considerando-se que o gipso se depositou ali como um dos primeiros minerais a cristalizar-se, por ocasião da evaporação das águas salgadas. Pode-se recristalizar-se em filões, formando o espato cetinoso. Ocorre também como corpos lenticulares ou cristais disseminados em argilas e folhelhos. Formado frequentemente pela alteração da anidrita e, nestas circustâncias, pode mostrar dobramento por causa do aumento do volume. Encontrado em regiões vulcânicas, especialmente onde os calcários sofreram ação dos vapores de enxofre. Também comum como um mineral de ganga nos veios metálicos. Associado com muitos minerais diversos, sendo os mais comuns a halita, a anidrita, a dolomita, a calcita, o enxofre, a pirita e o quartzo.\n\nO gipso é o sulfato mais comum, encontrando-se depósitos extensos em muitas localidades, por todo o mundo. Nos Estados Unidos, encontram-se depósitos comerciais em muitos Estados, mais os principais por sua produção estão localizados em Nova Iorque, Michigan, Iowa, Texas, Nevada e Califórnia. Encontra-se o gipso em grandes depósitos no Arizona e Novo México, sob a forma de areia eólica."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O gipso é usado principalmente para a produção do gesso. Na manufatura desse material, o gipso é moido e depois aquecido entre 190 e 200º C, até que cerca de 75 por cento da água tenha sido eliminados. Esse gesso, quando misturado com a água, absorve-a vagarosamente, cristaliza-se e, assim, endurece ou \"sets\". Emprega-se o gesso amplamente na fabricação do material \"staff\" com que se constroem os edifíos temporários das exposições; em ripas de gesso; paredes; em moldes e formas de todas as espécies. Emprega-se o gipso na fabricação do gesso duro para decorações interiores. Reduzindo a pó fino, é usado como fertilizante. O gipso não calcinado usa-se como um retardador no cimento Portland. O espato cetinado e o alabrasto, lapidados e polidos, empregam-se em vários fins ornamentais, embora seu uso seja limitado por causa de serem moles."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "A denominação gipso provém do nome grego dado ao mineral, porém, mais especialmente, ao mineral calcinado."
+    }
+  ]
+}

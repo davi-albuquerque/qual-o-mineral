@@ -1,0 +1,41 @@
+# AZURITA
+
+**Fórmula:** Cu3(CO3)2(OH)2
+
+**Tipo:** CARBONATO
+
+## Cristalografia:
+
+Monoclínico, prismática. Hábito variado. Os cristais são, frequentemente, complexos no hábito e malformados no desenvolvimento. Também em grupos esféricos radiados.
+
+## Propriedades físicas:
+
+Dureza 3,5 - 4,0. Densidade 3,77.  Brilho vítreo. Cor: azul-celeste intenso. Transparente a translúcida.
+
+## Composição:
+
+Carbonato básico de cobre, Cu3(CO3)2(OH)2.   CuO  69,2 - CO2  25,6  -  H2O 5,2  por cento. Cu  55,3  por cento.
+
+## Ensaios:
+
+Corresponde ao número 3 na escala de fusibilidade, dando chama verde. Com fluxos, sobre o carvão vegetal, dá glóbulo de cobre. Solúvel, com efervescência, no ácido clorídrico, produzindo uma solução verde. Muita água no tubo fechado. Os mesmos empregado para a malaquita.
+
+## Aspectos diagnósticos:
+
+Caracterizada principalmente por sua cor azul-celeste intenso e pelo efervescência no ácido clorídrico.
+
+Alterações:     Observam-se comumente, pseudomorfos de malaquita sobre a azurita;  menos comumente sobre a cuprita.
+
+## Ocorrência:
+
+A azurita tem a mesma origem e as mesmas associações que a malaquita, mais existe muito mais frequentemente sob a forma de cristais. Encontrada em bonitos cristais em Chessy, perto de Lyon, na França; Tsumeb, na África do Sudoeste; na Rumânia; em Laurium na Grécia; na Sibéria e em Broken Hill, na Nova Gales do Sul. Encontrada nos Estados Unidos na mina Copper Queen, Bisbee e Morenci no Arizona. Amplamente distribuída com os minérios de cobre. Não é tão comum quanto a malaquita.
+
+## Uso:
+
+Um minério de cobre de menor importância.
+
+## Nome:
+
+Denominada assim em alusão a sua cor.
+
+Carbonatos hidratados raros:     A auricalcita é um carbonato básico de zinco e cobre, de cor indo do verde-pálido ao azul, em cristais aciculares, monoclínicos. A gaylussita, Na2H(CO3)2.5H2O,  monoclínico, e a trona, Na3H(CO3)22H2O,  monoclínico, encontram-se ambas nos depósitos lacustres salgados

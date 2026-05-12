@@ -1,0 +1,43 @@
+# ESFALERITA
+
+**Fórmula:** ZnS
+
+**Tipo:** SULFETO
+
+## Cristalografia:
+
+Isométrico; hexaoctaédrica. As formas mais comuns são o tetraedro, o dodecaedro e o cubo, mas os cristais, com frequência altamente complexos e usualmente malformados ou em agregados arredondados, mostram muitas vezes geminação polissintética. Encontrada usualmente em massas suscetíveis de clivagem, granulação grossa a fina. Compacta, botroidal, criptocristalina.
+
+A estrutura da esfalerita é semelhante a do diamante, com metade dos átonos de carbono do diamante substituída por zinco e a outra metade, por enxofre. Cada átomo de zinco é rodeado por quatro átomos de enxofre e ligado a este e, por sua vez, cada átomo de enxofre é ligado a quatro átomos  de zinco.
+
+A forma dimórfica do ZnS, wurtzita, é hexagonal.
+
+## Propriedades físicas:
+
+Clivagem Perfeita {011}, mas a esfalerita de algumas localidades é de granulação excessivamente fina para mostrar clivagem.  Dureza 3,5 - 4. Densidade: 3,9 - 4,1.  Brilho não-metálico e resinoso a submetálico; também  adamantino. Quando pura tem cor branca e verde. Comumente amarela, indo do castanho ao negro, escurecendo a medida que aumenta a quantidade de ferro presente. também vermelha (zinco rubi). Transparente à translúcida. Traço branco a amarelo e castanho.
+
+## Composição:
+
+Sulfeto de zinco, ZnS. Zn 67  - S 33 por cento, quando pura. Quase sempre contém ferro (Zn,Fe)S; o conteúdo máximo de ferro é de aproximadamente de 36 por cento. Demostrou-se que, em presença de ferro em excesso, quanto mais alta a temperatura da formação, tanto maior a quantidade de ferro presente, até 894 °C, quando há 36,5% de FeS na solução sólida.  A quantidade de ferro é, assim uma indicação da temperatura de formação e a esfalerita torna-se um termômetro geológico. O manganês e o cádmio estão presentes, usualmente em pequenas quantidades, na solução sólida.
+
+## Ensaios:
+
+O sulfeto de zinco puro não é fusível; torna-se fusível mas também dificialmente, a medida que aumenta a quantidade de ferro. Quando aquecido sobre o carvão vegetal, com mistura redutora, produz auréola de óxido de zinco (amarela, a quente, branca a frio), que não se volatiza na chama oxidante.
+
+## Aspectos diagnósticos:
+
+A esfalerita pode ser reconhecida por seu brilho resinoso notável e clivagem perfeita. As variedades negras podem ser distinguidas por seu traço castanho-avermelhado.
+
+## Ocorrência:
+
+A esfalerita, o minério de zinco mais importante, é um mineral extremamente comum, estando associado a galena, pirita, marcassita, calcopirita, smithsonita, calcita e dolomita. Em sua ocorrência e maneira de origem, ela esta estreitamente aliada a galena, com a qual se encontra comumente. esta amplamente distribuída, mas principalmente em filões e nos depósitos de substituição irregulares no calcário. A esfalerita encontra-se também nos filões de rochas ígneas e nos depósitos metamórficos de contato.
+
+As ocorrências européias mais notáveis estão em Schemnitz e outras localidades nos distritos de mineração de ouro e prata da Checoslováquia e Rumânia; em Alston Moor e outros lugares nos distritos de mineração de chumbo do norte da Inglaterra; e em Binnenthal, na Suíça, em belos cristais. Na Austrália, no Canadá e no México existe ampla mineração de esfalerita. Nos Estados Unidos, encontram-se grandes depósitos de zinco nos Estados de Missouri, Colorado, Montana, Wisconsin, Idaho e Kansas. A principal localidade por sua produção é o distrito de Joplin, na parte sudoeste do Missouri, e nos distritos adjacentes de Kansas e Oklahoma.
+
+## Uso:
+
+A esfalerita é o mais importante minério de zinco. Os principais usos do zinco metálico, ou zinco comercial, são na galvanização do ferro; na fabricação do latão, uma liga de cobre e zinco; nas baterias elétricas e como folhas de zinco. O óxido de zinco, ou branco de zinco, é usado extensamente para a fabricação de tintas. Usa-se o cloreto de zinco na preservação da madeira. Emprega-se o sulfato de zinco na tinturaria e na medicina. A esfalerita é também a fonte mais importante de cádmio, índio, gálio e germânio.
+
+## Nome:
+
+O nome esfalerita procede do grego, significando traiçoeiro. Blenda, porque embora assemelhando-se muitas vezes a galena, não produz chumbo, da palavra germânica significando ilusório ou enganador.

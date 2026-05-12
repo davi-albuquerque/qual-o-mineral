@@ -1,0 +1,39 @@
+# CASSITERITA
+
+**Fórmula:** SnO2
+
+**Tipo:** ÓXIDO
+
+## Cristalografia:
+
+Tetragonal; bipiramidal-ditetragonal. As formas comuns são os prismas e as bipirâmides de primeira e de segunda ordens. Frequentemente em geminados configurados em cotovelo em entalhe característico, dando origem a expressão do mineiro viseira de estanho; o plano do geminado é a bipirâmide  de segunda ordem {011}. Usualmente granular, maciça; muitas vezes em configurações reniformes, com aparência fibrosa radiada, estanho lenhoso.
+
+## Propriedades físicas:
+
+Dureza: 6,0 - 7,0;  Densidade 6,8  - 7,1 (pouco comum para um mineral com brilho não metálico). Brilho adamantino a submetálico e fosco. Cor: usualmente castanho ou preto; raramente, amarelo ou branco. Traço branco. Translúcido, raramente transparente.
+
+## Composição:
+
+Bióxido de estanho,  SnO2.   Sn  78,6  -  O 21,4  por cento. Podem estar presentes pequenas quantidades de ferro.
+
+## Ensaios:
+
+Não é fusível.   Produz glóbulo de estanho com auréola de óxido de estanho branco, quando o mineral finamente pulverizado é fundido sobre o carvão vegetal com a mistura redutora. Insolúvel. Quando se colocam fragmentos de cassiterita em ácido clorídrico diluído, juntamente com um pouco de zinco metálico, a superfície da cassiterita se reduz, e o espécime fica revestido por um depósito cinzento-fosco de estanho metálico que se torna brilhante, ao ser esfregado.
+
+## Aspectos diagnósticos:
+
+Reconhecida por sua densidade relativa elevada, brilho adamantino e traço claro.
+
+## Ocorrência:
+
+A cassiterita está distribuída amplamente, em pequenas quantidades mas é produzida em escala comercial, apenas em poucas localidades. Constituinte originário das rochas ígneas e pegmatitos, encontra-se mais comumente em veios, associados com o quartzo, nas rochas graníticas ou próximas delas. Os veios com cassiterita tem, usualmente minerais que contém flúor ou boro, tais como a turmalina, o topázio, a fluorita e a apatita e os minerais das paredes das rochas são comumente muito alterados. Associada comumente com a wolframita. Encontra-se também a cassiterita sob a forma de seixos rolados nos pláceres, estanho de rio.
+
+A maior parte do suprimento mundial de estanho provém dos Estados Malaios, da Bolívia, Indionésia, Congo Belga e Nigéria. No passado, Cornwall, na Inglaterra, produz grandes quantidades de minério de estanho. Nos Estados Unidos, a cassiterita não se encontra em quantidades suficientes para assegurar a mineração, mas esta sempre presente em pequenas quantidades em numerosos pegmatitos.
+
+## Uso:
+
+A cassiterita é o principal minério de estanho. O uso principal do estanho é na fabricação da folha de flandres e latas para acondicionamento de alimentos.  Prepara-se a lata, aplicando-se um revestimento de estanho e chumbo em lugar de estanho puro. Usa-se também o estanho com o chumbo, nas soldas; no metal Babitt, com o antimônio e cobre e no bronze e metal dos sinos, com o cobre. O bronze fosforado contém 89 por cento de cobre, 10 por cento de estanho e 1 por cento de fósforo. O óxido de estanho artificial é um pó para polimento.
+
+## Nome:
+
+A palavra cassiterita provém do grego, significando estanho.

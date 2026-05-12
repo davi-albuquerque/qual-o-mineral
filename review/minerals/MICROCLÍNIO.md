@@ -1,0 +1,39 @@
+# MICROCLÍNIO
+
+**Tipo:** TECTOSSILICATOS
+
+## Cristalografia:
+
+Triclínico; pinacoidal. Os comprimentos axiais e os ângulos só levemente diferentes dos do ortoclásio. Os cristais do microclínio podem ser geminados de acordo com as mesmas leis observadas no ortoclásio; os geminados segundo a lei de Carlsbad  são comuns, mas segundo as de Baveno e Manebach são raros. Gemina-se também segundo a lei da labita, com o pinacóide lateral formando o plano geminado, e segundo a lei do periclínio, com o eixo cristalográfico b sendo  o eixo do geminado. Estes dois tipos de geminação são característicos dos feldspatos triclínicos. Uma lâmina delgada do microclínio, examinada ao microscópio na luz polarizada, mostra usualmente uma estrutura reticular caracterísitica causada pelo cruzamento em ângulos quase retos das lamelas do geminado, formado de acordo com as leis da albita e do periclínio.  O ortoclásio, sendo monoclínico, não pode mostrar essa geminação. O microclínio é encontrado em massas susceptíveis de clivagem, em cristais e em grãos irregulares  como constituinte de rochas. O microclínio forma, provavelmente, os cristais conhecidos de tamanho máximo.  Na Karelia, na Rússia, massas que pesavem acima de 2.000 toneladas mostraram a continuidade de um único cristal.
+
+Nos pegmatitos, o microclínio pode estar intercrescido intimamente com o quartzo, formando o granito gráfico. Nos Estados da Carolina do Norte, Dakota do Sul, Colorado, Virgínia, Wyoming, Maine e Connecticut, ocorre grandes diques de pegmatitos deste caráter dos quais se extrai o feldspato em quantidades consideráveis.
+
+Frequentemente, o microclínio apresenta faixas irregulares e descontínuas cruzando os pinacóides basal e lateral. estad faixas são composta de albita, e o intercrescimento, como um todo, denomina-se pertita ou se muito fino, micropertita.
+
+## Propriedades físicas:
+
+Clivagem {001} e {010}, com ângulo de 89°30' (o ortoclásio tem um ângulo de 90°). Clivagem {110} má. Dureza 6,0. Densidade 2,54 - 2,57. Brilho vítreo. Cor: branco a amarelo-pálido, mais raramente, vermelho. O microclínio verde é conhecido como amazonita. Translúcido a transparente.
+
+## Composição:
+
+Como o ortoclásio,   K(AlSi3O8).  O sódio pode substituir o potássio, dando origem ao microclínio sódico, e se o sódio excede p potássio dá-se ao mineral o nome anortoclásio.
+
+## Ensaios:
+
+Os mesmos empregados para o ortoclásio.
+
+## Aspectos diagnósticos:
+
+Distingue-se do ortoclásio somente determinando-se a presença da geminação triclínica o que raramente pode ser verificado  sem a ajuda do microcóspio. Se o feldspato apresenta cor verde forte, trata-se de microclínio.
+
+## Ocorrência:
+
+O microclínio ocorre do mesmo modo que o ortoclásio, com o qual está associado, muitas vezes. Grande parte do que se considera como ortoclásio, é em realidade, microclínio.  A amazonita, microclínio de cor verde, encontra-se nos Montes Urais e em vários lugares da Noruega e em Madagascar. Encontrado no Estados Unidos, em Pukes Peak, no Colorado, e em Amelia Court House, no Estado da Virgínia.
+
+## Uso:
+
+O mesmo que o do ortoclásio. A amazonita é polida e usada como material de ornamentação.
+
+## Nome:
+
+A palavra microclínio deriva de duas outras do grego significando pouco e inclinado, referindo-se ao fato do ângulo de clivagem não atingir 90°.

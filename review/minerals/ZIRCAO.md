@@ -1,0 +1,37 @@
+# ZIRCAO
+
+## Cristalografia:
+
+Tetragonal; bipiramidal-ditetragonal. Usualmente, os cristais mostram uma combinação simples de prisma e bipirâmide de primeira ordem. Também se observam o prisma de segunda ordem e uma bipirâmide ditregonal. Bas, muito rara. usualmente, em cristais; também em grãos irregulares.
+
+## Propriedades físicas:
+
+Dureza 7,5 . Densidade4,68. Brilho adamantino.Cor: comumente, algum matiz do castanho; também incolor, cinzento, verde, vermelho. Traço incolor. usualmente, translúcido; em alguns casos, transparente.
+
+## Composição:
+
+Silicato de zircônio, Zr(SiO4). ZrO2 67,2  -  SiO2  32,8  por cento.
+
+## Ensaios:
+
+Não é fusível , nem solúvel. Quando calcinado intensamente, fosforesce e emite luz branca. Quando se funde o zircônio com carbonato de sódio e se dissolve a massa fundida em ácido clorídrico diluído, a solução fará com que um pedaço de papel de cúrcuma adquira côr de laranja (zircônio).
+
+## Aspectos diagnósticos:
+
+Reconhecido, de ordinário, por seus cristais característicos, cor, brilho, dureza e densidade relativa elevada.
+
+## Ocorrência:
+
+O zircão é um mineral acessório, amplamente distribuído, em todos os tipos de rochas ígneas. É especialmente frequente nos tipos com mais sílica: granito, granodiorito, sienito e monzonito. Muito comum no nefelina sienito. Usualmente, é o primeiro silicato a cristalizar-se quando um magma se resfria. Encontrado, também comumente, no calcário cristalino, no gnaisse, no xisto etc. Encontrado frequentemente, sob a forma de grãos arredondados, nas areias das praias e dos rios, muitas vezês, com o ouro. O zircão tem sido extraído das areias das praias na Austrália, Brasil e Flórida.
+
+Encontram-se as gemas do zircão nas areias dos rios em Matura, no Ceilão, e nos cascalhos auríferos, nos Montes Urais e na Austrália. De Madagascar, procedem grandes cristais. Encontrado nos nefelina sienitos na Noruega. Nos Estados Unidos, encontra-se o zircão em Litchfield, no Estado do Maine e em Orange e St. Lawrence Counties, no de Nova Iorque; em quantidade considerável nas areias de Henderson e Buncombe Counties, no da Carolina do Norte. Grandes cristais têm sido encontrados em Renfrew County, na província de Ontário, no Canadá.
+
+## Uso:
+
+Quando transparente, serve como gema. Em alguns espécimes é incolor, mas com frequência tem colorido acastanhado e laramja vermelho, chamado jacinto. O azul não é uma cor natural do zircão, mas produzida por tratamento térmico. Chama-se jargão às pedras incolores, amareladas ou esfumaçadas, porque embora se assemelhem ao diamante, têm pouco valor; e dai, a denominação zircão. Serve como fonte do óxido de zircônio, que é uma das substâncias mais refratárias conhecidas. A paltina (ponto de fusão em 1.755 °C) pode ser fundida em cadinhos de óxido de zircônio.
+
+Sobrepujando seus outros usos, emprega-se, desde 1945, o zircão como fonte do zircônio metálico. O metal zircônio puro é usado na construção dos reatores nucleares. Sua baixa seção de choque na absorção de nêutrons, aliada à capacidade de manter suas propriedades físicas em altas temperaturas, e a excelente resistência à corrosão, fazem-no o metal mais desejável para esta finalidade.
+
+## Espécies semelhantes:
+
+A torita, Th(SiO4), é parecida com o zircão na forma e na estrutura; hidratada, usualmente, e de cor preta.

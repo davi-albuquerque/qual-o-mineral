@@ -1,0 +1,39 @@
+# TETRAEDRITA
+
+**Fórmula:** (Cu,Fe,Zn,Ag)12Sb4S13
+
+**Tipo:** SULFOSSAL
+
+## Cristalografia:
+
+Isométrico; hexatetraédrica. Hábito tetraédrico; pode estar em grupos de cristais pararelos. As formas comuns são o tetraedro, o tritetraedro, o dodecaedro e o cubo. Frequentemente em cristais.  Também maciça, granular com dimensões grossas ou finas.
+
+## Propriedades físicas:
+
+Dureza: 3,0 - 4,5 ; Densidade 4,6 - 5,1 (com tennantina mais dura e de maior densidade relativa do que a tetraedrita). Brilho metálico a submetálico; muitas vezes reluzente. Cor: entre o preto-acinzentado e o preto. Traço entre o preto e o castanho. Opaca.
+
+## Composição:
+
+Essencialmente um sulfeto de antimônio, cobre, ferro, zinco e prata (Cu,Fe,Zn,Ag)12Sb4S13. O cobre é sempre dominante, ocorrendo entretanto, substituição considerável pelo ferro e pelo zinco, e menos comumente, pela prata chumbo e mercúrio. O arsênico pode tomar o lugar do antimônio em todas as proporções e assim, existe uma série completa desde o membro final de antimônio puro, tetraedrita, até o membro final do arsênico puro, tennantita. Conhece-se como freibergita a variedade argentífera mais rica.
+
+## Ensaios:
+
+Situa-se entre os números 1 e 2 da escala de fusibilidade. Sobre o carvão vegetal ou no tubo aberto, dá as reações do antimônio ou do arsênico, ou de ambos. Depois de calcinada e umedecida com ácido clorídrico, produz chama azul-celeste do cloreto de cobre. É decomposta pelo ácido nítrico com separação do enxofre e do trióxido de antimônio; tornada alcalina pela adição de amônia, a solução fica azul. A tetraedrita e a tennantita podem ser distinguidas uma da outra somente pelo ensaio da presença de antimônio e arsênico e, como ambos estão presentes muitas vezes no mesmo espécime, pode ser necessária uma análise quantitativa, a fim de determinar-se positivamente a que extremidade da série ele pertence.
+
+## Aspectos diagnósticos:
+
+Reconhecida por seus cristais tetraédricos, ou quando maciça, por sua fragilidade, brilho e cor cinza.
+
+## Ocorrência:
+
+A tetraedrita, o membro mais comum do grupo dos sulfossais, encontra-se muito espalhada em ocorrência e variada em associação. A tennantita esta distribuída menos amplamente.  Encontrada comumente, nos filões hidrotermais de minerais de cobre ou prata, formados em temperatura  baixas a moderadas. Raramente em filões de temperatura  mais alta, ou em depósitos de metamorfismo de contato. Associada usualmente, com a calcopirita, pirita, esfalerita, galena e vários outros minerais de prata, chumbo e cobre. Pode conter  prata bastante para torna-se um minério importante deste metal.
+
+Localizações dignas de nota: Cornwall, na Inglaterra; as Montanhas do Harz, na Alemanha; Freiberg, na Saxônia; Pribram, na Boêmia; vários lugares da Rumânia; e as minas de prata do México, peru e Cobre. Encontrada nos Estados Unidos em várias minas de cobre e prata no Colorado, Montana, Nevada, Arizona e Utah.
+
+## Uso:
+
+Um minério de prata e cobre.
+
+## Nome:
+
+Tetraedrita em alusão a forma tetraédrica dos cristais. Tennantita em honra do químico inglês, Smithson Tennant (1761 - 1815).

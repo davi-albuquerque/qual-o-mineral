@@ -1,0 +1,45 @@
+{
+  "slug": "zincita",
+  "name": "ZINCITA",
+  "rawName": "ZINCITA",
+  "formula": "ZnO",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal; piramidal-dihexagonal. Os cristais são raros, terminados em uma extremidade pelas faces de uma pirâmide aguda e, na outra por um pédio. usualmente maciça, com  aparência achatada ou granular."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem nítida {101´0}; partição {0001}. Dureza: 4,0 - 4,5 ; Densidade 5,6. Brilho subadamantino. Cor vermelho intenso a amarelo-alaranjado. Pode estar revestida com uma pelícia de cor negra-azulada. Traço amarelo-alaranjado. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Óxido de zinco. ZnO.  Zn  80,3  - O  19,7 por cento.  O manganês bivalente (Mn\") está presente muitas vezes e, provavelmente, empresta colorido ao mineral; o ZnO quimicamente puro é branco."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível. Solúvel em ácido clorídrico. Quando o mineral finamente pulverizado é misturado com a mistura redutora e aquecido intensamente sobre o carvão vegetal, produz uma auréola, que não se volatiliza, de óxido de zinco, amarela a quente, branca a frio. Usualmente da cor violeta-avermelhada na chama oxidante sobre a pérola de bórax (manganês)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se principalmente por sua cor vermelha, traço amarelo-alaranjado e a associação com a franklinita e a willemita."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A zincita esta confinada quase exclusivamente nos depósitos em Franklin, em Nova Jersey, onde está associada com a franklinita e a willemita, muitas vezes em misturas íntimas (ver frotispício). Incluída também na calcita rósea. De outras localidades, há referencia apenas de pequenas quantidades."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de zinco, usado particularmente para a produção do branco de zinco ( óxido de zinco)."
+    }
+  ]
+}

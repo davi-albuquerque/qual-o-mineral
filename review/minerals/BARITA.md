@@ -1,0 +1,37 @@
+# BARITA
+
+**Fórmula:** BaSO4
+
+**Tipo:** SULFATOS E CROMADOS
+
+## Cristalografia:
+
+Ortorrômbico; bipiramidal. Os cristais são usualmente tabulares, paralelamente a base, muitas vezes, configurados em losangos, por causa da presença de um prisma vertical. Usualmente, estão presentes prismas de primeira e de segunda ordem, seja biselando as arestas das bases e formando cristais prismáticos retangulares, alongados paralelamente ao eixo a ou b. Os cristais podem ser muito complexos. Frequentemente, em grupos de cristais tabulares divergentes formando a barita em crista ou rosas de barita. Apresenta-se também em lâminas grossas; granular, terrosa.
+
+## Propriedades físicas:
+
+Clivagem perfeita  {001}, menos perfeita {210}. Dureza 3,0 - 3,5;  Densidade 4,5 (pesada para um mineral não metálico).  Brilho vítreo; em algumas espécimes, nacarada na base. Incolor, branca e com matizes claros de azul, amarelo e vermelho. Transparente a translúcida.
+
+## Composição:
+
+Um sulfato de bário, BaSO4. BaO  65,7  - SO3  34,3 por cento.  O estrôncio substitui o bário e uma solução sólida completa chega, provavelmente, até a celestita, porém a maior parte do material esta próximo a uma extremidade, ou da outra da série. Uma pequena quantidade de chumbo pode substituir o bário.
+
+## Ensaios:
+
+Corresponde ao número 4 na escala de fusibilidade, produzindo a chama verde-amarelada do bário. Depois de calcinada, dá reação alcalina com o papel de ensaio umedecido. Fundida com a mistura redutora, produz resíduo que, quando umedecido, dá origem a uma mancha escura de sulfeto de prata sobre uma superfície limpa de prata.
+
+## Aspectos diagnósticos:
+
+reconhece-se a barita por sua densidade relativa alta, clivagem característica e cristais.
+
+## Ocorrência:
+
+A barita  é um mineral comum, de distribuição ampla. Ocorre geralmente como mineral de ganga nos filões metálicos, associada especialmente com minérios de prata, chumbo, cobre, cobalto, manganês e antimônio. Encontrada em veios de calcário, junto a calcita, ou como massas residuais na argila que recobre o calcário. Também nos arenitos, juntamente com minérios de cobre. Em certos lugares, age como cimento no arenito. Depositada ocasionalmente como sínter pelas águas das fontes termais. As localidades notáveis pela ocorrência de cristais de barita são: Westmoreland, Cornwall, Cumberland, Derbyshire, na Inglaterra; Felsobanya e outras, na Rumânia; Saxônia e Boêmia. Nos Estados Unidos, em Cheshire, no Estado de Connecticut; Dekalb no de Nova Iorque, e Fort Wallace no Novo México. A barita maciça, ocorrendo usualmente com veios e massas irregulares  nos calcários, vem sendo explorada nos Estados Unidos, na Geórgia, Tennessee, Missouri e Arkansas. Em El Portal, na Califórnia, na entrada para o Yosemite Park, encontra-se a barita em um filão juntamente com a witherita.
+
+## Uso:
+
+Mais de 80 por cento da barita produzida empregam-se na perfuração de poços de petróleo e de gás. A barita é a principal fonte de bário utilizado na produção de substâncias químicas. o bário encontra emprego importante na fabricação do litopônio, uma combinação de sulfeto de bário e sulfato de zinco, de que resulta mistura íntima de sulfeto de zinco e sulfato de bário. usa-se o litopônio na indústria de tintas e em menor escala, na de linóleos e produtos têxteis. O sulfato de bário precipitado, "branco fixo"  é empregado para dar corpo ao papel e aos tecidos; usa-se também, na fabricação dos cosméticos; como pigmento de tintas e nas refeições baritadas na radiologia médica.
+
+## Nome:
+
+Provém da palavra grega significando pesado, em alusão a sua densidade relativa elevada.

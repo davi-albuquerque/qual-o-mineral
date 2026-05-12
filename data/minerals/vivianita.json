@@ -1,0 +1,45 @@
+{
+  "slug": "vivianita",
+  "name": "VIVIANITA",
+  "rawName": "VIVIANITA",
+  "formula": "Fe3(PO4)2.8H2O",
+  "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismática. Cristais prismáticos, estriados verticalmente; muitas vezes, em grupos radiados. Também modular e terrosa."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {010} perfeita. Dureza 1,5 - 2,0. Densidade 2,58 - 2,68. Brilho vítreo, nacarado sobre a superfície de clivagem.Incolor quando inalterada; azul a verde quando alterada. Transparente, tornando-se translúcida quando exposta ao ar."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Fosfato de ferro hidratado, Fe3(PO4)2. 8H2O.  FeO  43,0  -  P2O5  28,3  - H2O  28,7 por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 2 na escala de fusibilidade, dando um glóbulo magnético. A solução em ácido nítrico, adicionada a uma solução de molibdato de amônio, em excesso, dá um precipitado amarelo (ensaio do fosfato). Água no tubo fechado."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Usualmente, alterada, sendo caracterizada neste estado pela cor azul a verde. As lâminas de clivagem são flexíveis."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A  vivianita é um mineral raro de origem secundária, associado com a pirrotita e pirita nos filões de cobre e estanho, e forma-se, como produto de intemperismo, a partir dos fosfatos primários de manganês e ferro, nos pegmatitos. Encontrada também nas camadas de argilas; pode estar associada com a limonita; muitas vezes, em cavidades de fósseis."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra do mineralogista inglês, do séc. XVIII, J. G. Vivian, descobridor do mineral.\n\nEspécimes Semelhantes:  A variscita,Al(PO4).2H2O, é umj mineral maciço, verde-azulado, assemelhando-se em algo à turquesa. Tem sido encontrado em nódulos em um grande depósito, em Fairfield, no Estado de Utah."
+    }
+  ]
+}

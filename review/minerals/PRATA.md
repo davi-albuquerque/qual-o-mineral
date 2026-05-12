@@ -1,0 +1,37 @@
+# PRATA
+
+**Fórmula:** Ag
+
+**Tipo:** METAL NATIVO
+
+## Cristalografia:
+
+Isométrico; hexaoctaédrica. Cristais ordinariamente malformados e em grupos ramificados, arborescentes ou reticulados. Encontrada usualmente em escamas, placas e massas irregulares; em certos lugares, como fio fino ou grosso.
+
+## Propriedades físicas:
+
+Dureza 2,5 - 3. Densidade 10,50 quando pura, 10 - 12 quando impura. Fratura serrilhada. maleável e Dúctil. Brilho metálico. Cor e Traço: branco da prata, manchado muitas vezes de castanho ou de preto-acinzentado.
+
+## Composição:
+
+Prata, contendo frequentemente mercúrio, cobre  e ouro ligados, mais raramente traços de platina, antimônio e bismuto. Amálgama é uma solução sólida de prata e mercúrio.
+
+## Ensaios:
+
+Corresponde ao nº 2 (960,5 °C) na escala de fusibilidade, produzindo um glóbulo brilhante. Solúvel no ácido nítrico, dando pela adição de ácido clorídrico um precipitado branco, coalhado, de cloreto de prata.
+
+## Aspectos Diagnósticos:
+
+A prata pode ser distinguida dos minerais de aparência semelhante por sua natureza maleável, sua cor em superfície e sua densidade relativa alta.
+
+## Ocorrência:
+
+A prata nativa está distribuída amplamente em pequenas quantidades, principalmente na zona oxidada dos depósitos do minério.  Os grandes depósitos de prata nativa são provavelmente o resultado da deposição primitiva da prata proveniente das soluções hidrotermais. existem três desses tipos: prata nativa com sulfetos e outros minerais de prata, com minerais de colbato e níquel e com a uraninita.
+
+As minas de Kongsberg, Noruega, trabalhadas há várias centenas de anos, produziram espécimes magníficos de fios de prata cristalizada. Outras antigas e famosas minas de prata estão em Freiberg e Schneeberg na Saxônia. Acha-se também a prata nativa na Boêmia, Alsácia, Sibéria, Nova Gales do Sul, em Broken Hill e no México.
+
+Nos Estados Unidos, achou-se a prata nativa juntamente com o cobre nativo nas minas de cobre do Lago Superior; em Montana, em Butte, e na mina de Elkhorn, em Jefferson County; em Idaho, na mina Poorman, distrito de Silver City; em Colorado, em Aspen e no Arizona, na mina Silver King. No Canadá, achou-se a prata nativa abundantemente em Colbalt, Ontário (extraiu-se dali um bloco com peso de aproximadamente 800 Kg); no distrito de Tunder Bay, na margem norte do Lago Superior, em Silver Islet, e associada com a uraninita no Lago do Grande Urso, Territórios do Noroeste.
+
+## Uso:
+
+Um minério de prata, embora na maior parte do suprimento do mundo venha de outros minerais. A prata é usada para propósitos ornamentais, cunhagem e prateação. Liga-se ordinariamente com o cobre. A moeda padrão de prata dos Estados Unidos contém uma parte de cobre para nove partes de prata.

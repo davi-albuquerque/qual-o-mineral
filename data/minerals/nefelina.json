@@ -1,0 +1,65 @@
+{
+  "slug": "nefelina",
+  "name": "NEFELINA",
+  "rawName": "NEFELINA",
+  "formula": "(Na,K) (AlSiO4)",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "GRUPO DOS FELDSPATÓIDES"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os feldspatóides são quimicamente semelhantes aos feldspatos, porque são aluminossilicatos de potássio, de sódio e de cálcio, como elementos principais, mais com quantidades menores de outros íons. A princiapl diferença química entre os feldspatóides e os feldspatos reside no conteúdo de sílica. Os feldspatóides contêm cerca de dois terços da sílica existente nos feldspatos alcalinos e, por isto, tendem a formar soluções ricas em álcalis (sódio e potássio) e pobres em sílica. Suas estruturas são de aluminossilicatos tridimensionais em cujos interstícios estão os catíons; ocasionalmente, hospedam também aníons raros. Assim, na sodalita, o cloro é um constituinte essencial e na, carcrinita, o íon carbonato, ao passo que a noseana contém sulfato, e a lazurita, sulfato, sulfeto e íons de cloro.  As fórmulas destes minerais podem ser concebidas como constituídas por três fórmulas, em peso, de nefelina (NaAlSiO4) para uma fórmula em peso, de NaCl, relativamente à sodalita; uma fórmula, em peso, de Na2SO4, para a noseana, etc.  As estruturas não mostram, naturalmente, esta relação simples e os aníons estranhos estão incluídos  simplesmente nos espaços abertos da estrutura bem espaçosa do aluminossilicato."
+    },
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal; piramidal. raramente em pequenos cristais prismáticos  com o plano basal; em alguns casos  mostra planos piramidais. Quase invariavelmente maciça, compacta e em grânulos disseminados. A  variedade maciça, compacta e em grânulos disseminados. A variedade maciça é muitas vezes denominada eleolita, por causa de seu brilho graxo."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem distinta paralela a {1010}. Dureza 5,5 - 6,0. Densidade 2,55 - 2,65. Brilho vítreo nos cristais claros a brilho graxo na variedade maciça. Incolor, branca a amarelada. Na variedade maciça, cinzenta, esverdeada a avermelhada. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de alumínio, sódio e potássio, (Na,K)(AlSiO4).  A quantidade de potássio presente é usualmente baixa. As percentagens dos óxidos no composto artificial NaAlSiO4 são:   Na2O  21,8  -  Al2O3  35,9  -  SiO2  42,3 . A kaliofilita, K(AlSiO4), forma uma série de solução sólida com a nefelina."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 4 da escala de fusibilidade. Funde-se em um vidro incolor, produzindo a forte chama amarela do sódio. Solubiliza-se rapidamente no ácido clorídrico e, na evaporação, produz uma geléia de sílica."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada, nas variedades maciças, pelo seu brilho graxo. Distingue-se do quartzo pela dureza inferior e do feldspato pela gelatinização em ácido."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A nefelina é um mineral raro e encontra-se em rochas ígneas. Ocorre em algumas lavas recentes sob a forma de cristais vítreos; por exemplo, as que são encontradas nas lavas do Vesúvio.  A variedade cristalina maciça ou de granulação grossa encontra-se em rochas mais antigas e é denominada eleolita. A nefelina  é um constituinte essencial das seguintes e importantes rochas: fonólito, nefelina sienito e nefelina basalto. É encontrada somente em rochas cujas os magmas contém sílica insulficiênte para combinar com a soda para formar o feldspato. A nefelina é encontrada em rochas que contém quartzo, por isso, somente em circunstâncias excepcionais. A maior massa de rochas com nefelina, conhecida, encontra-se na penísula Kola, Rússia. Localmente, nestas rochas, a nefelina está associada com a apatita. Massas extensas de rochas nefelínicas encontram-se na Noruega e na África do Sul. Em cristais nas lavas do Vesúvio. Nos Estados Unidos, a nefelina encontra-se, seja maciça, seja em cristais, em Litchfield, Estado do Maine, associada com a cancrinita. Encontrada próximo de Magnet Cove, Arkansas e Beemerville, Nova Jersey. Comum nos sienitos da região de Bancroft, Ontário, Canadá, onde há pegmatitos com grandes massas de nefelina quase pura."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "A nefelina livre de ferro, por causa de seu alto teor de alumina, tem sido usada na indústria do vidro, no lugar do feldspato. A maior parte da nefelina comercial provém do Ontário. A nefelina produzida como um subproduto da mineração da apatita, na península de Kola, é usada pelos russos em diversas indústrias que incluem cerâmica, couro, produtos têxteis, madeira, borracha e óleo."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome nefelina deriva de uma palavra grega significando uma nuvem, porque quando imersa em ácido o mineral torna-se turvo. O nome eleolita deriva de uma palavra grega significando óleo, em alusão ao seu brilho graxo."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A cancrinita, um hidrossilicato de sódio, cálcio e alumínio, é um mineral raro, semelhante a nefelina em ocorrência e associações."
+    }
+  ]
+}

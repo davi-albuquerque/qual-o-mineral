@@ -1,0 +1,45 @@
+# LEUCITA
+
+**Fórmula:** K(AlSi2O6)
+
+**Tipo:** TECTOSSILICATOS
+
+## preamble
+
+GRUPO DOS FELDSPATÓIDES
+
+## preamble
+
+Os feldspatóides são quimicamente semelhantes aos feldspatos, porque são aluminossilicatos de potássio, de sódio e de cálcio, como elementos principais, mais com quantidades menores de outros íons. A princiapl diferença química entre os feldspatóides e os feldspatos reside no conteúdo de sílica. Os feldspatóides contêm cerca de dois terços da sílica existente nos feldspatos alcalinos e, por isto, tendem a formar soluções ricas em álcalis (sódio e potássio) e pobres em sílica. Suas estruturas são de aluminossilicatos tridimensionais em cujos interstícios estão os catíons; ocasionalmente, hospedam também aníons raros. Assim, na sodalita, o cloro é um constituinte essencial e na, carcrinita, o íon carbonato, ao passo que a noseana contém sulfato, e a lazurita, sulfato, sulfeto e íons de cloro.  As fórmulas destes minerais podem ser concebidas como constituídas por três fórmulas, em peso, de nefelina (NaAlSiO4) para uma fórmula em peso, de NaCl, relativamente à sodalita; uma fórmula, em peso, de Na2SO4, para a noseana, etc.  As estruturas não mostram, naturalmente, esta relação simples e os aníons estranhos estão incluídos  simplesmente nos espaços abertos da estrutura bem espaçosa do aluminossilicato.
+
+## Cristalografia:
+
+Pseudo-isométrico. Hábito trapezóico. Outras formas raras.  Estritamente isométrica, somente em temperaturas acima de 500°C. Ao resfriar-se abaixo desta temperatura, sofre um rearranjo atômico interno de algum outro sistema cristalino, provavelmente tretagonal, mas a forma externa não muda. A leucita forma-se em lavas de alta temperatura; nestas condições, é isométrica tanto na estrutura interna como na forma externa. usualmente em cristais distintos; também em grãos disseminados.
+
+## Propriedades físicas:
+
+Dureza 5,5 - 6,0. Densidade 2,45 - 2,50. Brilho vítreo a opaco.Cor: branco a cinzento. Translúcida.
+
+## Composição:
+
+Silicato de alumínio e potássio, K(AlSi2O6).   K2O  21,5  -  Al2O3  23,5  -  SiO2  55,0 por cento.
+
+## Ensaios:
+
+Infusível. O ácido clorídrico a decompõe com a separação da sílica, mas sem a formação de uma geléia. Quando misturada com o gipso pulverizado e fundida fornece a chama violeta do potássio.
+
+## Aspectos diagnósticos:
+
+Caracterizada por sua forma trapezoédrica e infusibilidade. É mais mole do que a granada e mais dura do que a analcima; a analcima, além do mais, é fusível e fornece água. A leucita, um mineral formador de rocha, está usualmente embutida em uma matriz  de granulação fina, enquanto a analcima está, usualmente, sob a forma de cristais que cresceram livremente, em cavidades.
+
+## Ocorrência:
+
+A leucita é um mineral relativamente raro, ocorrendo somente em rochas ígneas, usualmente em lavas recentes; raramente observada em rochas plutônicas. Encontrada em rochas nas quais a quantidade de sílica do magma foi insulficiente para combinar com o potássio para formar o feldspato. A leucita não é observada, por isso, em rochas que contém quartzo. Encontrada principalmente como fenocristais nas lavas do Vesúvio. Encontra-se nos Estados Unidos, em rochas de Leucite Hills, Wyoming, e em algumas das rochas nas Highwood Mountains e bear Paw Mountains, Estado de Montana. Pseudoleucitas, pseudomorfos de uma mistura de nefelina, ortoclásio a analcima, sobre a leucita, encontram-se em sienitos de Arkansas, Montana e Brasil.
+
+## Nome:
+
+Derivado de uma palavra grega significando branco.
+
+## Espécies semelhantes:
+
+A polucita, Cs4Al4Si9O26.H2O, é um mineral isométrico raro, ocorrendo usualmente em pegmatitos.

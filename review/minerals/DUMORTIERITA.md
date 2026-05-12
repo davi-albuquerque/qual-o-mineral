@@ -1,0 +1,37 @@
+# DUMORTIERITA
+
+**Fórmula:** (Al,Fe)7O3(BO3)(SiO4)3
+
+**Tipo:** SILICATOS
+
+## Cristalografia:
+
+Ortorrômbico. Raramente em cristais nítidos. Usualmente, em agregados fibrosos e colunares, frequentemente radiados.
+
+## Propriedades físicas:
+
+Clivagem {100} má. Dureza  7,0. Densidade 3,26 - 3,36. Brilho vítreo. Cor: azul, azul-esverdeado, violeta, róseo. Transparente a translúcida.
+
+## Composição:
+
+Um borossilicato de alumínio, (Al, Fe)7O3(BO3)(SiO4)3.
+
+## Ensaios:
+
+Não é fusível; perde a cor na calcinação. Fica azul, quando aquecida com nitrato de cobalto (alumínio).
+
+## Aspectos diagnósticos:
+
+Caracterizada pelo hábito fibroso, sendo no entanto, difícil de identificar positivamente, sem ensaios ópticos.
+
+## Ocorrência:
+
+Encontra-se a dumortierita em xistos e gnaisses e, mais raramente, nos diques de pegmatitos. As localidades notáveis por sua ocorrência são: Lyons, na França; Wolfschau na Silésia; Madagascar; Rio de Janeiro no Brasil e Nacozari no México. Encontrada nos Estados Unidos em Dehesa na Califórnia; em Oreana no Estado de Nevada e sobre uma grande área no distrito mineiro de Rochester, neste último Estado.
+
+## Uso:
+
+No Estado de Nevada, existe mineração de dumortierita para emprego na manifatura de porcelana de qualidade superior.
+
+## Nome:
+
+Em honra do paleontologista francês, Eugène Dumortier.

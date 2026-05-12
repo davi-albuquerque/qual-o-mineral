@@ -1,0 +1,37 @@
+# ANIDRITA
+
+**Fórmula:** CaSO4
+
+**Tipo:** SULFATOS E CROMADOS
+
+## Cristalografia:
+
+Ortorrômbico; bipiramidal. Os cristais são raros, quando observados são tabulares, espessos, também prismáticos, paralelamente ao eixo b. Usualmente maciça ou em massas cristalinas, assemelhando-se a um mineral isométrico, com clivagem cúbica. Também fibrosa, granular, maciça.
+
+## Propriedades físicas:
+
+A clivagem nítida, paralelamente aos três pinacóides {100}, {010}, {001}, produz blocos retangulares.  Dureza 3,0 - 3,5;  Densidade  2,89 - 2,98  Brilho vítreo a nacarado sobre a superfície de clivagem. Incolor a azulada ou violeta. também pode ser branca ou tingida em rosa, castanho ou vermelho.
+
+## Composição:
+
+Um sulfato de cálcio anidro,  CaSO4.    CaO  41,2  - SO3  58,8  por cento.
+
+## Ensaios:
+
+Corresponde ao número 3 na escala de fusibilidade. depois de calcinada, dá reação alcalina com o papel de ensaio umedecido. Umedecida com ácido clorídrico e calcinada, dá chama vermelha-alaranjada (cálcio). Quando fundida com a mistura redutora, produz um resíduo que, quando umedecido com água, escurece a prata.
+
+## Aspectos diagnósticos:
+
+A anidrita caracteriza-se por suas três clivagens em ângulos retos. Distingue-se da calcita por sua densidade relativa mais elevada e do gipso, por sua dureza. Algumas variedades maciças são muito difíceis de reconhecer-se, devendo ser feita a reação do radical sulfato.
+
+Alteração:  Pela absorção de umidade, a anidrita transforma-se em gipso, com aumento de volume e em certos lugares, grandes massas de anidrita alteram-se desta maneira.
+
+## Ocorrência:
+
+A anidrita ocorre quase do mesmo modo  que o gipso, estando muitas vezes associado a ele. Não é tão comum no entanto com o gipso. Encontrada em associação com depósitos de sal na rocha de cobertura dos domos salinos e nas rochas calcárias. Encontrada em algumas cavidades amigdalóides no basalto.
+
+As localidades onde ocorre de maneira notável são: Wieliczka na Polônia; Aussee na Estíria; Stassfurt na Prússia; Berchtesgaden na Bavária; Hall, perto de Innsbruck no Tirol e Bex, na Suíça. Encontrada nos Estados Unidos em Lockport, no Estado de Nova Iorque; West Paterson no de Nova Jersey; Nashville, no de Tennessee e ainda no Novo México e no Texas. Encontrada em grandes camadas na Nova Escócia.
+
+## Nome:
+
+A palavra anidrita provém do grego, significando sem água, em contraste com o sulfato de cálcio mais comum, o gipso, que contém muita água.

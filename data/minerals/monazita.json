@@ -1,0 +1,50 @@
+{
+  "slug": "monazita",
+  "name": "MONAZITA",
+  "rawName": "MONAZITA",
+  "formula": "(Ce,La,Y,Th)PO4",
+  "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico; prismática. Os cristais são raraos e, usualmente, pequenos, achatados, muitas vezes, segundo {100}, ou alongados paralelamente ao eixo b do cristal. Usualmente, em massas granulares, frequentemente, como areia."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {100} má. Partição {001}. Dureza 5,0 - 5,5 ;  Densidade 5,0 a 5,3. Brilho resinoso. Cor: castanho amarelo a avermelhado. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um fosfato de metais de terras raras, essencialmente (Ce, La, Y, Th) PO4. O tório esta presente, podendo chegar a 20 por cento de ThO2. Usualmente, a sílica está presente, e tem sido atribuída à existência de torita, ThSiO4."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. Insolúvel no ácido clorídrico. Depois de fusão com o carbonato de sódio, dissolver no ácido nítrico e juntar a solução outra de molibdato de amônio, em excesso; forma-se, então, um precipitado amarelo (ensaio de um fosfato). Decomposta mediante aquecimento com ácido sulfúrico concentrado; a solução, depois de diluição com a água e filtração, dá com o oxalato de amônio um precipitado dos oxalatos das terras raras."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Em espécimes grandes, pode-se distinguir-se do zircão pela forma cristalina e densidade relativa mais elevada. Nos espécimes duvidosos, é bom, usualmente, fazer o ensaio químico do fosfato."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A monazita é um mineral comparativamente raro que ocorre de maneira acessória nos granitos, gnaisses, aplitos e pegmatitos, e como grãos rolados nas areias resultantes da decomposição destas rochas. Esta concentrada nas areias por causa de sua resistência ao ataque químico, e de sua densidade relativa alta, estando assim, associada com outros minerais resistentes e pesados, como a magnetita, a ilmenita, o rutilo e o zircão.\n\nA maior parte do suprimento do suprimento mundial de monazita procede das praias marítimas dos Estados  do Espírito Santo e da Bahia, no Brasil, e das costas da Índia e da Austrália.  Próximo de Van Rhynsdorp, na província do Cabo, na África do Sul, explora-se massa, semelhante a um dique, de monazita maciça, granular. Encontrada, nos Estados Unidos, no Estado da Carollina do Norte, tanto no gnaisse como nas areias dos rios, e nas areias das praias, na Flórida."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "A monazita é a fonte principal de óxido de tório, contendo-o em quantidades que variam entre 1 e 20 por cento; a monazita comercial contém, usualmente, entre 3 e 9 por cento desse óxido. O óxido de tório é empregado na fabricação de camisas destinadas a luzes produzidas pela incandescência do gás.\n\nO tório é um elemento radioativo e está a receber considerável atenção como fonte de energia atômica. O isótopo natural do tório, Th-232, pode ser convertido, por bombardeio com nêutrons, primeiro em Th-233 e depois em U-233, um isótopo suscetível de fissão."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome monazita deriva de uma palavra grega significando estar solitário, em alusão a raridade do mineral."
+    }
+  ]
+}

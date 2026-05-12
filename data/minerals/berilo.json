@@ -1,0 +1,50 @@
+{
+  "slug": "berilo",
+  "name": "BERILO",
+  "rawName": "BERILO",
+  "formula": "Be3Al2(Si6O18)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal; bipiramidal-dihexagonal. Hábito fortemente prismático. Frequentemente, estriado e entalhado verticalmente. O berilo de césio, achatado, com frequência, segundo {0001}. As formas presentes, usualmente, consistem somente em {1010}. As formas dihexagonais são raras. Cristais, frequentemente, de tamanho considerável com faces corroídas. Em Albany, no Estado do Maine, um cristal afilado de 9 metros de comprimento, aproximadamente, pesou mais de 25 toneladas."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza  7,5 - 8,0. Densidade 2,75 - 2,80. Clivagem {0001}  imperfeita. Brilho vítreo. Cor: comumente, verde-azulado ou amarelo-claro; pode ser verde da esmeralda intensa, amarela do ouro, róseo, branco ou incolor. Transparente a translúcido. Frequentemente, os cristais maiores, mais grossos, mostram uma aparência mosqueada devida à alternância de manchas claras, transparentes, com porções obscuras.\n\nA cor serve de base para diversos nomes de variedades do berilo. Água-marinha  é a variedade transparente, de colorido azul-esverdeado-pálido. Morganita, ou berilo-rosa, vai desde o rosa pálido até o rosa intenso. Esmeralda é o berilo transparente, de coloração verde intensa. O berilo dourado ´e uma variedade colorida em amarelo-dourado."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de alumínio e berílio, Be3Al2(Si6O18).  BeO  14,0  -  Al2O3   19,0   - SiO2  67,0   por cento. Frequentemente, estão presentes pequenas quantidades de álcalis, consistindo, muitas vezes, parcialmente em césio."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se entre os números  5,0 e 5,5  na escala de fusibilidade. Funde-se formando um esmalte. calcinado intensamente, produz um pouco de água. Insolúvel nos ácidos."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecido usualmente por sua forma cristalina  hexagonal e pela cor. Distingue-se da apatita por sua dureza maior."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O berilo, embora contenha o elemento raro, o berílio, é relativamente comum a amplamente distribuído. Ocorre ususalmente, em rochas graníticas, tanto em drusas como em diques pegmatiticos. Encontram-se também em mica-xistos, e associado com minérios de estanho. As esmeraldas, tendo a qualidade de gema, ocorre em um calcário betuminoso escuro, em Muso, situado a 100 quilômetros, aproximadamente, a noroeste de Bogotá, na Colômbia. Tem-se realizado a mineração aí, desde a metade do século dezesseis, provindo dessa localidade a maior parte das esmeraldas do mundo. Outra localidade famosa por suas esmeraldas, está na Sibéria, a 70 quilômetros, aproximadamente, a leste de Sverdlovsk, no rio Takowaja. Ali, as esmeraldas ocorre em um mica xisto, associadas com a fenacita, o crisoberilo e o rutilo. Em Alexander County, no Estado da Carolina do Norte, têm sido encontradas, em pequenas quantidades, esmeraldas de coloração relativamente pálida, associadas com a variedade verde do espodumênio, a hiddenita. As águas-marinhas de côr mais clara são muito mais comuns e encontram-se, tendo a qualidade de gema, no Brasil, na Sibéria e também em Madagascar. Nos Estados Unidos, as gemas de berilo, princialmente a água-marinha, têm sido encontradas em vários lugares no Maine, Connecticut, Carolina do Norte e Pensilvânia; também na Sibéria e no Ceilão. O berilo corado em rosa tem sido encontrado em San Diego County, na Califórnia, associado com a turmalina rósea e com o espodumênio róseo, a kunzita. Uma ocorrência semelhante em madagascar, tem fornecido pedras coradas em rosa, magníficas."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O berilo é empregado como gema de várias cores. A esmeralda classifica-se como a mais valiosa das pedras preciosas, podendo ter um valor muito maior do que o diamante. O berilo é também uma fonte importante de berílio, um metal leve, semelhante ao alumínio em muitas de suas propriedades. Um dos seus usos principais é em liga com o cobre. Um e meio por cento de berílio no cobre aumentam consideravelmente a dureza, a força de tensão e a resistência à fadiga. O óxido de berílio foi material fosforescente importante nas lâmpadas fluorescentes, mas não está sendo usada mais, por causa de sua natureza venenosa."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome berilo é de origem antiga, derivado da palavra grega que era aplicada para designar as gemas verdes.\n\nEspécimes semelhantes:  o euclásio, BeAl(SiO4)(OH), e a gadolinita, YFe\"Be2(SiO4)2O2, são silicatos de berílio raros."
+    }
+  ]
+}

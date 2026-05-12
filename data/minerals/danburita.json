@@ -1,0 +1,45 @@
+{
+  "slug": "danburita",
+  "name": "DANBURITA",
+  "rawName": "DANBURITA",
+  "formula": "Ca(B2Si2O8)",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Cristais prismáticos, muito próximos aos do topázio no hábito. Comumente em cristais."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 7,0. Densidade 2,97 - 3,02. Brilho vítreo. Incolor ou amarelo pálido. Transparente a translúcido."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Borossilicato de cálcio, Ca(B2Si2O8).   CaO  22,8  -  B2O3  28,4  -  SiO2   48,8 por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se entre os  números 3,5 e 4,0 na escala de fusibilidade.  Ao fundir-se, dá um vidro incolor, produzindo uma chama verde. Insolúvel nos ácidos, mas quando calcinada previamente gelatiniza no ácido clorídrico."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por sua forma cristalina e sua dureza elevada. Distingue-se do topázio pelo ensaio do boro."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Encontrada em cristais na Suíça Oriental, Madagascar e Japão. Nos Estados Unidos, em Danbury, no Estado de Conecticut, e Russell, no de Nova Iorque; encontrada também, em pequenos cristais, em um domo de sal na Lousiânia."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém do nome da localidade Danbury, no Estado de Connecticut."
+    }
+  ]
+}

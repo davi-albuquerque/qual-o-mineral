@@ -1,0 +1,50 @@
+{
+  "slug": "wulfenita",
+  "name": "WULFENITA",
+  "rawName": "WULFENITA",
+  "formula": "PbMoO4",
+  "type": "TUNGSTATOS E MOLIBDATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Tetragonal; piramidal. Os cristais são, usualmente, quadrados, de hábiro tabular, com base bem desenvolvida. Alguns cristais, muito delgados. As arestas das bases são biseladas com faces de pirâmide achatada de segunda ordem. mais raramente, hábito piramidal. Também maciça, com grânulos entre grossos e finos."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza 3,0. Densidade 6,8 +/- . Brilho vítreo a adamantino. Cor: Branco, amarelo, alaranjado e vermelho. Traço: branco. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Molibdato de chumbo, PbMoO4.  PbO  60,8  - MoO3  39,2 por cento. O cálcio pode substituir parcialmente o chumbo."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 2 na escala de fusibilidade. Quando fundida com carbonato de sódio sobre o carvão vegetal, produz um glóbulo de chumbo. Com sal de fósforo, na chama redutora, dá pérola verde; na chama oxidante, é verde-amarela, a quente, torna-se quase incolor, a frio."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A wulfenita é caracterizada por seus cristais tabulares, a cor indo do alaranjado ao amarelo, brilho intenso e associação com outros minerais de chumbo. Distingue-se da crocóita pelo ensaio do molibdeno."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "Encontra-se  a wulfenita na porção oxidada dos filões de chumbo, com outros minerais de chumbo secundários, especialmente a vanadinita e a piromorfita. Encontrada nos Estados Unidos, em Phoenixville, na Pensilvânia, e em numerosas localidades nos Estados de Utah, Nevada, Arizona e Novo México. Encontrada em bonitos cristais em Red Cloud, no Estado de Arizona."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Uma fonte de menor importância do molibdeno. O principal minério é a molibdenita."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em homenagem a X. F. Wulfen, mineralogista austríaco."
+    }
+  ]
+}

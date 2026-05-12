@@ -1,0 +1,39 @@
+# CINÁBRIO
+
+**Fórmula:** HgS
+
+**Tipo:** SULFETO
+
+## Cristalografia:
+
+Hexagonal-R;  Trapezoédrica-trigonal. Os cristais são usualmente romboédricos, muitas vezes geminados de penetração. As faces trapezoédricas são raras. Usualmente maciço, finamente granular; também terroso, com incrustações e disseminações através da rocha.
+
+## Propriedades físicas:
+
+Clivagem perfeita {101´0}. Dureza: 2,5; Densidade  8,10. Brilho adamantino quando puro; quando impuro chega a ser terroso, fosco. Quando puro a cor é vermelhão vermelha, quando impuro, vermelha pardacenta. Traço escarlate. Transparente a translúcido. O cinábrio hepático é uma variedade inflamável, da cor parda do fígado e em alguns casos, traço acastanhado, usualmente granular ou compacto.
+
+## Composição:
+
+Sulfeto de mercúrio, HgS.  Hg 86,2  - S 13,8 por cento. Frequentemente impuro, estando misturado com argila, óxido de ferro e betume.
+
+## Ensaios:
+
+Inteiramente volátil, quando livre de impurezas. Quando aquecido sozinho no tubo fechado, produz sublimado preto de sulfeto de mercúrio. Quando aquecido no tubo fechado, com carbonato de sódio seco, produz glóbulos de mercúrio metálico.
+
+## Aspectos diagnósticos:
+
+Reconhecido por sua cor vermelha e traço escarlate, alta densidade relativa e clivagem.
+
+## Ocorrência:
+
+O cinábrio é o minério de mercúrio mais importante, encontrando-se no entanto, em quantidade, em relativamente poucas localidades. Ocorre como impregnações e como enchimentos de veios perto das rochas vulcânicas recentes e fontes termais e depositado próximo da superfície, provindo de soluções que eram, provavelmente, alcalinas. Associado com a pirita, marcassita, estibnita e sulfetos de cobre em uma ganga de opala, calcedônia, quartzo, barita, calcita e fluorita.
+
+As localidades importantes da ocorrência do cinábrio são em Almaden, na Espanha; em Ídria, na Gorizia, na Itália; em Huancavelica, no sul do Peru; e nas províncias de Kweichow e Hunan, na China. Nos Estados Unidos, os depósitos importantes estão na Califórnia, em Nova Ídria, em San Benito County, em Napa County e em Novo Almaden, em Santa Clara County. Ocorre também em Nevada, Utah, Oregon, Arkansas, Idaho e Texas.
+
+## Uso:
+
+A única fonte importante de mercúrio. O uso mais importante do mercúrio. O uso mais importante do mercúrio era no processo de amalgamação para a recuperação do ouro e da prata de seus minérios, mas outros métodos de extração diminuíram sua procura para este fim. Usa-se nos termômetros, barômetros e em vários equipamentos científicos e elétricos, incluindo-se aí a pilha de mercúrio; em drogas, e sob a forma de amálgama com a prata na odontologia, e com estanho na "prateação dos espelhos. Várias instalações nos Estados Unidos utilizam o vapor do mercúrio em vez do vapor de água, para a geração de força. É este um grande uso potencial do mercúrio. Entre as aplicações militares importantes, incluem-se a fabricação de fulminato de mercúrio para detonar explosivos de alta potência, e de tinta para os cascos dos navios.
+
+## Nome:
+
+Supõe-se que o nome cinábrio proveio da Índia, onde se aplica a uma resina vermelha.

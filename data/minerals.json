@@ -1,0 +1,1746 @@
+[
+  {
+    "slug": "albita",
+    "name": "ALBITA",
+    "formula": "- ANORTITA   NaAlSi3O8         CaAl2Si2O8",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "allanita",
+    "name": "ALLANITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "alunita",
+    "name": "ALUNITA",
+    "formula": "KAl3(OH)6(SO4)2",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "ambligonita",
+    "name": "AMBLIGONITA",
+    "formula": "LiAlFPO4",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "analcima",
+    "name": "ANALCIMA",
+    "formula": "Na(AlSi2O6)H2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 12
+  },
+  {
+    "slug": "andaluzita",
+    "name": "ANDALUZITA",
+    "formula": "AlAlO(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "anglesita",
+    "name": "ANGLESITA",
+    "formula": "PbSO4",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "anidrita",
+    "name": "ANIDRITA",
+    "formula": "CaSO4",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "antlerita",
+    "name": "ANTLERITA",
+    "formula": "Cu(OH)4SO4",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "antofilita",
+    "name": "ANTOFILITA",
+    "formula": "(Mg,Fe)7(Si8O22)(OH)2",
+    "type": "SILICATOS - FAMÍLIA DOS ANFIBÓLIOS",
+    "isClassSummary": false,
+    "sectionCount": 2
+  },
+  {
+    "slug": "apatita",
+    "name": "APATITA",
+    "formula": "Ca5(F,Cl,OH) (PO4)3",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "apofilita",
+    "name": "APOFILITA",
+    "formula": "KCa4(Si4O10)2F.8H2O",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "aragonita",
+    "name": "ARAGONITA",
+    "formula": "CaCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "arfvedsonita",
+    "name": "ARFVEDSONITA",
+    "formula": "Na3Mg4Al(Si8O22)(OH,F)2",
+    "type": "SILICATOS - FAMÍLIA DOS ANFIBÓLIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "argentita",
+    "name": "ARGENTITA",
+    "formula": "Ag2S",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "arsenico",
+    "name": "ARSÊNICO",
+    "formula": "As",
+    "type": "SEMIMETAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "arsenopirita",
+    "name": "ARSENOPIRITA",
+    "formula": "FeAsS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "atacamita",
+    "name": "ATACAMITA",
+    "formula": "Cu2Cl(OH)3",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "augita",
+    "name": "AUGITA",
+    "formula": "(Ca,Na)(Mg,Fe,Al) (Si,Al)2O6",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "autunita",
+    "name": "AUTUNITA",
+    "formula": "Ca(UO2)(PO4)2.10-12H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "axinita",
+    "name": "AXINITA",
+    "formula": "Ca2(Fe,Mn)Al2(BO3)(Si4O12)(OH)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "azurita",
+    "name": "AZURITA",
+    "formula": "Cu3(CO3)2(OH)2",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "barita",
+    "name": "BARITA",
+    "formula": "BaSO4",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "bauxita",
+    "name": "BAUXITA",
+    "formula": "Al(OH)3",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "berilo",
+    "name": "BERILO",
+    "formula": "Be3Al2(Si6O18)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "biotita",
+    "name": "BIOTITA",
+    "formula": "K(Mg,Fe)3(AlSi3O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "bismutinita",
+    "name": "BISMUTINITA",
+    "formula": "Bi2S3",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "bismuto",
+    "name": "BISMUTO",
+    "formula": "Bi",
+    "type": "SEMIMETAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "boracita",
+    "name": "BORACITA",
+    "formula": "Mg3B7O13Cl",
+    "type": "BORATO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "boratos",
+    "name": "BORATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 8
+  },
+  {
+    "slug": "borax",
+    "name": "BÓRAX",
+    "formula": "Na2B4O7.10H2O",
+    "type": "BORATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "bornita",
+    "name": "BORNITA",
+    "formula": "Cu5FeS4",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "bournonita",
+    "name": "BOURNONITA",
+    "formula": "PbcuSbS3",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "brucita",
+    "name": "BRUCITA",
+    "formula": "Mg(OH)2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cabazita",
+    "name": "CABAZITA",
+    "formula": "(Ca,Na)2 (Al2Si4O12).6H2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 12
+  },
+  {
+    "slug": "calcantita",
+    "name": "CALCANTITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "calcita",
+    "name": "CALCITA",
+    "formula": "CaCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "calcocita",
+    "name": "CALCOCITA",
+    "formula": "Cu2S",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "calcopirita",
+    "name": "CALCOPIRITA",
+    "formula": "CuFeS2",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "caolinita",
+    "name": "CAOLINITA",
+    "formula": "(m.argilosos)   Al4(Si4O10)(OH)8",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "carbonatos",
+    "name": "CARBONATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 19
+  },
+  {
+    "slug": "carnallita",
+    "name": "CARNALLITA",
+    "formula": "KMgCl3.6H2O",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "carnotita",
+    "name": "CARNOTITA",
+    "formula": "K2(UO2)2(VO4)2.3H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "cassiterita",
+    "name": "CASSITERITA",
+    "formula": "SnO2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cavalerita",
+    "name": "CAVALERITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "celestita",
+    "name": "CELESTITA",
+    "formula": "SrSO4",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cerargirita",
+    "name": "CERARGIRITA",
+    "formula": "AgCl",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "cerussita",
+    "name": "CERUSSITA",
+    "formula": "PbCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cianita",
+    "name": "CIANITA",
+    "formula": "AlAlO(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cinabrio",
+    "name": "CINÁBRIO",
+    "formula": "HgS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "clinozoisita",
+    "name": "CLINOZOISITA",
+    "formula": "Ca2Al3O (SIO4)(Si2O7)(OH)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "clorita",
+    "name": "CLORITA",
+    "formula": "Mg3(Si4O10)(OH)2.Mg3(OH)6",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "cobaltita",
+    "name": "COBALTITA",
+    "formula": "(Co,Fe)AsS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "cobre",
+    "name": "COBRE",
+    "formula": "Cu",
+    "type": "METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "colemanita",
+    "name": "COLEMANITA",
+    "formula": "Ca2B6O11.5H2O",
+    "type": "BORATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "colombita",
+    "name": "COLOMBITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "condrodita",
+    "name": "CONDRODITA",
+    "formula": "Mg5(SiO4)2(F,OH)2",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "cordierita",
+    "name": "CORDIERITA",
+    "formula": "Mg2Al3(AlSi5O18)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "corindon",
+    "name": "CORÍNDON",
+    "formula": "Al2O3",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "covellita",
+    "name": "COVELLITA",
+    "formula": "CuS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "criolita",
+    "name": "CRIOLITA",
+    "formula": "Na3AlF6",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "crisoberilo",
+    "name": "CRISOBERILO",
+    "formula": "BeAl2O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 15
+  },
+  {
+    "slug": "crisocola",
+    "name": "CRISOCOLA",
+    "formula": "CuSiO3.nH2O",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "cristobalita",
+    "name": "CRISTOBALITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "crocoita",
+    "name": "CROCOÍTA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "cromita",
+    "name": "CROMITA",
+    "formula": "FeCr2O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "cuprita",
+    "name": "CUPRITA",
+    "formula": "Cu2O",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "danburita",
+    "name": "DANBURITA",
+    "formula": "Ca(B2Si2O8)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "datolita",
+    "name": "DATOLITA",
+    "formula": "CaB(SiO4)(OH)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "diamante",
+    "name": "DIAMANTE",
+    "formula": "C",
+    "type": "NÃO METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "diasporo",
+    "name": "DIÁSPORO",
+    "formula": "HAlO2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "diopsidio",
+    "name": "DIOPSÍDIO",
+    "formula": "CaMg(Si2O6)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "dolomita",
+    "name": "DOLOMITA",
+    "formula": "CaMg(CO3)2",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "dumortierita",
+    "name": "DUMORTIERITA",
+    "formula": "(Al,Fe)7O3(BO3)(SiO4)3",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "egirina",
+    "name": "EGIRINA",
+    "formula": "NaFe3 (Si2O6)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "enargita",
+    "name": "ENARGITA",
+    "formula": "Cu3AsS4",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "enstatita",
+    "name": "ENSTATITA",
+    "formula": "Mg2(Si2O6)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "enxofre",
+    "name": "ENXOFRE",
+    "formula": "S",
+    "type": "NÃO METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "epidoto",
+    "name": "EPÍDOTO",
+    "formula": "Ca2(Al,Fe)Al2O(SiO4)(Si2O7)(OH)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "epsomita",
+    "name": "EPSOMITA",
+    "formula": "MgSO4.7H2O",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "eritrita",
+    "name": "ERITRITA",
+    "formula": "Co3(AsO4)2.8H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "escapolita",
+    "name": "ESCAPOLITA",
+    "formula": "(Na,Ca)4Al3(Al,Si)3Si6O24 (Cl,CO3,SO4)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "escorodita",
+    "name": "ESCORODITA",
+    "formula": "FeAsO4.2H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "esfalerita",
+    "name": "ESFALERITA",
+    "formula": "ZnS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "esfenio",
+    "name": "ESFÊNIO",
+    "formula": "CaTiO(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "espinelio",
+    "name": "ESPINÉLIO",
+    "formula": "MgAl2O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "espodumenio",
+    "name": "ESPODUMÊNIO",
+    "formula": "LiAl(Si2O6)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "estanita",
+    "name": "ESTANITA",
+    "formula": "Cu2FeSnS4",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "estaurolita",
+    "name": "ESTAUROLITA",
+    "formula": "Fe2Al9O7(SiO4)4(OH)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "estefanita",
+    "name": "ESTEFANITA",
+    "formula": "Ag5SbS4",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "estibnita",
+    "name": "ESTIBNITA",
+    "formula": "Sb2S3",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "estilbita",
+    "name": "ESTILBITA",
+    "formula": "Ca(Al2Si7O18).7H2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 12
+  },
+  {
+    "slug": "estroncianita",
+    "name": "ESTRONCIANITA",
+    "formula": "SrCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "fenacita",
+    "name": "FENACITA",
+    "formula": "Be2(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "ferro",
+    "name": "FERRO",
+    "formula": "Fe",
+    "type": "METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 6
+  },
+  {
+    "slug": "filossilicatos",
+    "name": "FILOSSILICATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 46
+  },
+  {
+    "slug": "flogopita",
+    "name": "FLOGOPITA",
+    "formula": "KMg3(AlSi3O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "fluorita",
+    "name": "FLUORITA",
+    "formula": "CaF2",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "fosfatos",
+    "name": "FOSFATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 21
+  },
+  {
+    "slug": "franklinita",
+    "name": "FRANKLINITA",
+    "formula": "(Zn,Fe,Mn) (Fe,Mn)2O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "gahnita",
+    "name": "GAHNITA",
+    "formula": "ZnAl2O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "galena",
+    "name": "GALENA",
+    "formula": "PbS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "garnierita",
+    "name": "GARNIERITA",
+    "formula": "(Ni,Mg)SiO3.nH2O",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "gelo",
+    "name": "GÊLO",
+    "formula": "H2O",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 4
+  },
+  {
+    "slug": "gipso",
+    "name": "GIPSO",
+    "formula": "CaSO4.2H2O",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "glauberita",
+    "name": "GLAUBERITA",
+    "formula": "Na2Ca(SO4)2",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "goethita",
+    "name": "GOETHITA",
+    "formula": "HFeO2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "grafita",
+    "name": "GRAFITA",
+    "formula": "C",
+    "type": "NÃO METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-almandina",
+    "name": "GRANADA-ALMANDINA",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-andradita",
+    "name": "GRANADA-ANDRADITA",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-espessartita",
+    "name": "GRANADA-ESPESSARTITA",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-grossularia",
+    "name": "GRANADA-GROSSULÁRIA",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-piropo",
+    "name": "GRANADA-PIROPO",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "granada-uvarovita",
+    "name": "GRANADA-UVAROVITA",
+    "formula": null,
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "greenockita",
+    "name": "GREENOCKITA",
+    "formula": "Cds",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "halita",
+    "name": "HALITA",
+    "formula": "NaCl",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "haloides",
+    "name": "HALÓIDES",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 8
+  },
+  {
+    "slug": "hematita",
+    "name": "HEMATITA",
+    "formula": "Fe2O3",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "hemimorfita",
+    "name": "HEMIMORFITA",
+    "formula": "Zn4(Si2O7)(OH)2.H2O",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "heulandita",
+    "name": "HEULANDITA",
+    "formula": "Ca(Al2Si7O18).6H2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 11
+  },
+  {
+    "slug": "hornblenda",
+    "name": "HORNBLENDA",
+    "formula": "Ca2Na(Mg,Fe)4(Al,Fe,Ti)(Al,Si)8O22(O,OH)2",
+    "type": "SILICATOS - FAMÍLIA DOS ANFIBÓLIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "idocrasio",
+    "name": "IDOCRÁSIO",
+    "formula": "Ca10(Mg,Fe)2Al4(SiO4)5(Si2O7)2(OH)4",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "ilmenita",
+    "name": "ILMENITA",
+    "formula": "FeTiO3",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "jadeita",
+    "name": "JADEÍTA",
+    "formula": "NaAl(Si2O6)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "jamesonita",
+    "name": "JAMESONITA",
+    "formula": "Pb4FeSb6S14",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "kernita",
+    "name": "KERNITA",
+    "formula": "Na2B4O7.4H2O",
+    "type": "BORATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "lawsonita",
+    "name": "LAWSONITA",
+    "formula": "CaAl2(Si2O7)(OH)2.H2O",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "lazulita",
+    "name": "LAZULITA",
+    "formula": "MgAl2(OH)2(PO4)2",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "lazurita",
+    "name": "LAZURITA",
+    "formula": "- LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "lepidolita",
+    "name": "LEPIDOLITA",
+    "formula": "K2Li3Al3(Al,Si3O10)2(O,OH,F)4",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "leucita",
+    "name": "LEUCITA",
+    "formula": "K(AlSi2O6)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "limonita",
+    "name": "LIMONITA",
+    "formula": "FeO(OH).nH2O",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "magnesita",
+    "name": "MAGNESITA",
+    "formula": "MgCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "magnetita",
+    "name": "MAGNETITA",
+    "formula": "Fe3O4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "malaquita",
+    "name": "MALAQUITA",
+    "formula": "Cu2CO3(OH)2",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "manganita",
+    "name": "MANGANITA",
+    "formula": "MnO(OH)",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "marcassita",
+    "name": "MARCASSITA",
+    "formula": "FeS2",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "margarita",
+    "name": "MARGARITA",
+    "formula": "CaAl2(Al2Si2O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "metal-nativo",
+    "name": "METAL NATIVO",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 16
+  },
+  {
+    "slug": "miargirita",
+    "name": "MIARGIRITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 6
+  },
+  {
+    "slug": "microclinio",
+    "name": "MICROCLÍNIO",
+    "formula": null,
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "millerita",
+    "name": "MILLERITA",
+    "formula": "NiS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "mimetita",
+    "name": "MIMETITA",
+    "formula": "Pb5Cl (AsO4)3",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "molibdenita",
+    "name": "MOLIBDENITA",
+    "formula": "MoS2",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "monazita",
+    "name": "MONAZITA",
+    "formula": "(Ce,La,Y,Th)PO4",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "moscovita",
+    "name": "MOSCOVITA",
+    "formula": "KAl2(AlSi3O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "natrolita",
+    "name": "NATRÓLITA",
+    "formula": "Na2(Al2Si3O10).2H2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 12
+  },
+  {
+    "slug": "nefelina",
+    "name": "NEFELINA",
+    "formula": "(Na,K) (AlSiO4)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 11
+  },
+  {
+    "slug": "nicolita",
+    "name": "NICOLITA",
+    "formula": "NiAs",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "nitratos",
+    "name": "NITRATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 5
+  },
+  {
+    "slug": "nitro",
+    "name": "NITRO",
+    "formula": "KNO3",
+    "type": "NITRATO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "nitrodesodio",
+    "name": "NITRODESÓDIO",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "olivina",
+    "name": "OLIVINA",
+    "formula": "(Mg,Fe)2 (SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "opala",
+    "name": "OPALA",
+    "formula": "SiO2.nH2O",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "ortoclasio",
+    "name": "ORTOCLÁSIO",
+    "formula": "K(AlSi3O8)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "ouro",
+    "name": "OURO",
+    "formula": "Au",
+    "type": "METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "ouro-pigmento",
+    "name": "OURO-PIGMENTO",
+    "formula": "As2S3",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "oxidos",
+    "name": "ÓXIDOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 33
+  },
+  {
+    "slug": "pectolita",
+    "name": "PECTOLITA",
+    "formula": "Ca2NaH(SiO3)3",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "pentlandita",
+    "name": "PENTLANDITA",
+    "formula": "(Fe,Ni)9S8",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "petalita",
+    "name": "PETALITA",
+    "formula": "Li(AlSi4O10)",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "pirargirita",
+    "name": "PIRARGIRITA",
+    "formula": "Ag3SbS3",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "pirita",
+    "name": "PIRITA",
+    "formula": "FeS2",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "pirofilita",
+    "name": "PIROFILITA",
+    "formula": "Al2(Si4O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "pirolusita",
+    "name": "PIROLUSITA",
+    "formula": "MnO2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "piromorfita",
+    "name": "PIROMORFITA",
+    "formula": "Pb5Cl (PO4)3",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "pirrotita",
+    "name": "PIRROTITA",
+    "formula": "Fe 1-x S",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "platina",
+    "name": "PLATINA",
+    "formula": "Pt",
+    "type": "METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "polialita",
+    "name": "POLIALITA",
+    "formula": "K2Ca2Mg(SO4)2.2H2O",
+    "type": "SULFATOS E CROMADOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "polibasita",
+    "name": "POLIBASITA",
+    "formula": "Ag16Sb2S11",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "prata",
+    "name": "PRATA",
+    "formula": "Ag",
+    "type": "METAL NATIVO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "prehnita",
+    "name": "PREHNITA",
+    "formula": "Ca2Al2(Si3O10)(OH)2",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "proustita",
+    "name": "PROUSTITA",
+    "formula": null,
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "psilomelana",
+    "name": "PSILOMELANA",
+    "formula": "BAMn\"Mn8O16(OH)4",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "quartzo",
+    "name": "QUARTZO",
+    "formula": "SiO2",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "realgar",
+    "name": "REALGAR",
+    "formula": "AsS",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "rodocrosita",
+    "name": "RODOCROSITA",
+    "formula": "MnCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "rodonita",
+    "name": "RODONITA",
+    "formula": "Mn(SiO3)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "rutilio",
+    "name": "RUTÍLIO",
+    "formula": "TiO2",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "scheelita",
+    "name": "SCHEELITA",
+    "formula": "CaWO4",
+    "type": "TUNGSTATOS E MOLIBDATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "semimetal",
+    "name": "SEMIMETAL",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 9
+  },
+  {
+    "slug": "sepiolita",
+    "name": "SEPIOLITA",
+    "formula": "Mg4(Si6O15)(OH)2.6H2O",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "serpentina",
+    "name": "SERPENTINA",
+    "formula": "Mg6(Si4O10)(OH)8",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "siderita",
+    "name": "SIDERITA",
+    "formula": "FeCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "silicato",
+    "name": "SILICATO",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 116
+  },
+  {
+    "slug": "silicatos-familia-do-ipiroxenio",
+    "name": "SILICATOS-FAMÍLIA DO IPIROXÊNIO",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 52
+  },
+  {
+    "slug": "silicatos-familia-dos-anfibolios",
+    "name": "SILICATOS - FAMÍLIA DOS ANFIBOLIOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 41
+  },
+  {
+    "slug": "sillimanita",
+    "name": "SILLIMANITA",
+    "formula": "AlAlO(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "silvanita",
+    "name": "SILVANITA",
+    "formula": "(Au,Ag)Te2",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "silvita",
+    "name": "SILVITA",
+    "formula": "KCl",
+    "type": "HALÓIDE",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "skutterudita",
+    "name": "SKUTTERUDITA",
+    "formula": "(Co,Ni,Fe) As3",
+    "type": "SULFETO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "smithsonita",
+    "name": "SMITHSONITA",
+    "formula": "ZnCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "sodalita",
+    "name": "SODALITA",
+    "formula": "Na4(AlSiO4)3Cl",
+    "type": "TECTOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 10
+  },
+  {
+    "slug": "sulfatos",
+    "name": "SULFATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 12
+  },
+  {
+    "slug": "sulfetos",
+    "name": "SULFETOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 17
+  },
+  {
+    "slug": "sulfossais",
+    "name": "SULFOSSAIS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 7
+  },
+  {
+    "slug": "talco",
+    "name": "TALCO",
+    "formula": "Mg3(Si4O10)(OH)2",
+    "type": "FILOSSILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "tectossilicatos",
+    "name": "TECTOSSILICATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 30
+  },
+  {
+    "slug": "tetraedrita",
+    "name": "TETRAEDRITA",
+    "formula": "(Cu,Fe,Zn,Ag)12Sb4S13",
+    "type": "SULFOSSAL",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "topazio",
+    "name": "TOPÁZIO",
+    "formula": "Al2(SiO4)(F,OH)2",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "tremolita",
+    "name": "TREMOLITA",
+    "formula": "Ca2Mg5(Si8O22)(OH)2",
+    "type": "SILICATOS - FAMÍLIA DOS ANFIBÓLIOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "tridimita",
+    "name": "TRIDIMITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "trifilita",
+    "name": "TRIFILITA",
+    "formula": "LiFePO4",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "tungstatos",
+    "name": "TUNGSTATOS",
+    "formula": null,
+    "type": null,
+    "isClassSummary": true,
+    "sectionCount": 7
+  },
+  {
+    "slug": "turmalina",
+    "name": "TURMALINA",
+    "formula": "(Na,Ca)(Al,Fe,Li,Mg)3Al6(BO3)3(Si6O18)(OH)4",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "turquesa",
+    "name": "TURQUESA",
+    "formula": "CuAl6(PO4)4(OH)82H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "ulexita",
+    "name": "ULEXITA",
+    "formula": "NaCaB5O9.8H2O",
+    "type": "BORATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "uranita",
+    "name": "URANITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 9
+  },
+  {
+    "slug": "vanadinita",
+    "name": "VANADINITA",
+    "formula": "Pb5Cl (VO4)3",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "vivianita",
+    "name": "VIVIANITA",
+    "formula": "Fe3(PO4)2.8H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "wavellita",
+    "name": "WAVELLITA",
+    "formula": "Al3(OH)3(PO4)2.5H2O",
+    "type": "FOSFATOS, ARSENIATOS E VANADATOS",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "willemita",
+    "name": "WILLEMITA",
+    "formula": "Zn2(SiO4)",
+    "type": "SILICATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "witherita",
+    "name": "WITHERITA",
+    "formula": "BaCO3",
+    "type": "CARBONATO",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "wolframita",
+    "name": "WOLFRAMITA",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "wollastonita",
+    "name": "WOLLASTONITA",
+    "formula": "Ca(SiO3)",
+    "type": "SILICATOS - FAMÍLIA DOS PIROXÊNIOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "wulfenita",
+    "name": "WULFENITA",
+    "formula": "PbMoO4",
+    "type": "TUNGSTATOS E MOLIBDATOS",
+    "isClassSummary": false,
+    "sectionCount": 8
+  },
+  {
+    "slug": "zincita",
+    "name": "ZINCITA",
+    "formula": "ZnO",
+    "type": "ÓXIDO",
+    "isClassSummary": false,
+    "sectionCount": 7
+  },
+  {
+    "slug": "zircao",
+    "name": "ZIRCAO",
+    "formula": null,
+    "type": null,
+    "isClassSummary": false,
+    "sectionCount": 8
+  }
+]

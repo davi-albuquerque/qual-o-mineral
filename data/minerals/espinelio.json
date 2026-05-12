@@ -1,0 +1,50 @@
+{
+  "slug": "espinelio",
+  "name": "ESPINÉLIO",
+  "rawName": "ESPINÉLIO",
+  "formula": "MgAl2O4",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico, hexaoctaédrica. Usualmente em cristais octaédricos. Em octaédros geminados (geminados do espinélio). O rombododecaedro pode estar presente como pequenas facetas. Outras formas são raras."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 8,0;  Densidade 3,5 - 4,10.   Densidade 3,55 para composição teórica. Não metálico. Brilho vítreo. Várias cores: branco, vermelho, azul, verde, castanho, preto. Traço: branco. Usualmente translúcido, podendo ser claro e transparente."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "MgAl2O4. MgO   28,2   -  Al2O3   71,8 por cento.  O ferro ferroso, o zinco  e o manganês menos comumente, substituem o  magnésio em todas proporções. O ferro férrico e o cromo podem substituir em parte o alumínio. O espinélio de magnésio, quase puro, de cor vermelho-claro, é conhecido por rubi espinélio. O pleonasto é o espinélio de ferro, cores verde-escuro a preto e a picotita é o de cromo, de cores amarelada a castanho-esverdeada."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Infusível. O mineral finamente pulverizado dissolve-se completamente na pérola do sal de fósforo (provando a ausência de sílica)."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecido pela sua dureza (8), seus cristais octaédricos e pelo seu brilho vítreo. O espinélio de ferro pode ser distinguido da magnetita pelo seu caráter não-magnético e traço branco."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O espinélio é um mineral metamórfico comum que ocorre incluído em calcários cristalinos, gnaisses e serpentina. Ocorre também como um mineral acessório  em muitas rochas ígneas escuras. o espinélio forma-se frequentemente, como um mineral metamórfico de contato e está associado a flogopita, a pirrotita, a condrodita e a grafita. Encontra-se frequentemente o espinélio, como seixos rolados nas areias dos rios, dada sua resistência física e propriedades químicas. Os espinélios de cor rubi encontram-se, por esta razão, associados muitas vezes com o coríndon de interesse gemológico, nos depósitos arenosos do Ceilão, do Sião, da parte norte da Birmânia e em Madagascar. Encontra-se o espinélio comum em várias localidades dos Estados de Nova Iorque e de Nova Jersey, nos Estados Unidos."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "É usado como gema quando se apresenta transparente e com bela coloração. É conhecido pelas designações rubi espinélio ou rubi balas, quando vermelho. Algumas pedras são azuis. A maior pedra lapidada conhecida, pesa 80 quilates, aproximadamente. As gemas são usualmente de preços não muito elevados.\n\nArtificial:    Obtém-se espinélios pelo processo de Verneuil (ver corídon), em cores variadas que rivalizam em beleza as pedras naturais. Os espinélios são também usados como refratários."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "A hercinita, FeAl2O4, um espinélio de ferro, encontra-se associada ao coríndon em alguns esmeris; encontra-se também com a andaluzita, a sillimanita e a granada. A galaxita, MnAl2O4, não tem sido encontrada pura na natureza; tem-se feito referência, entretanto a galaxita de ferro (Mn,Fe)Al2O4."
+    }
+  ]
+}

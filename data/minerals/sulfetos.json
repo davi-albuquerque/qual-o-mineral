@@ -1,0 +1,95 @@
+{
+  "slug": "sulfetos",
+  "name": "SULFETOS",
+  "rawName": "SULFETOS",
+  "formula": null,
+  "type": null,
+  "isClassSummary": true,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os sulfetos formam importante classe de minerais que incluem a maioria dos minérios. Estão classificados com eles os selenietos, teluretos, arsenietos e antimonietos, semelhantes mais raros."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "A fórmula geral dos sulfetos dá-se como AmXn em que A representa os elementos metálicos e X o elemento não-metálico. A ordem de enumeração dos vários minerais é a de uma relação decrescente de A:X."
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Sulfetos:"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Argentina                    Ag2S                                       Cinábrio                  HgS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Calcocita                    Cu2S                                       Realgar                   AsS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Bornita                       Cu5FeS4                                  Ouro-pigmento         As2S3"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Galena                       PbS2                                       Estibnita                 Sb2S3"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Esfalerita                    ZnS                                         Bismutinita             Bi2S3"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Calcopirita                  CuFeS2                                    Pirita                      FeS2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Estanita                     Cu2FeSnS4                               Cobaltita                 (Co,Fe)AsS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Greenockita                CdS                                         Marcassita              FeS2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Pirrotita                      Fe1-xS                                       Arsenopirita             FeAsS"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Nicolita                       NiAs                                        Molibdenita              MoS3"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Millerita                      NiS                                          Calaverita                 AuTe2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Pentlandita                 (Fe,Ni)9S8                                 Silvanita                   (Au,Ag)Te2"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Covellita                     CuS                                          Skutterudita             (Co,Ni,Fe)As3"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os sulfetos podem ser divididos em pequenos grupos estruturais, não sendo possível, no entanto, generalizar-se amplamente em relação à sua estrutura. Muitos sulfetos têm ligação iônica, ao passo que outros, exibindo a maioria das propriedades dos metais, têm ligação metálica pelo menos em parte. A esfalerita tem uma estrutura semelhante as diamante e, como este, tem uma ligação covalente."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ilmenita",
+  "name": "ILMENITA",
+  "rawName": "ILMENITA",
+  "formula": "FeTiO3",
+  "type": "ÓXIDO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Hexagonal-R; romboédrica. Cristais usualmente tabulares, espessos, com planos basais acentuados e pequenas trucaturas romboédricas. As constantes dos cristais estão próximas das da hematita. Muitas vezes, em placas delgadas. Usualmente maciça, compacta; também em grãos ou como areia."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 5,5 - 6,0 ;  Densidade 4,7.  Brilho metálico a submetálico. Cor: preto do ferro. Traço preto a vermelho-acastanhado. Pode ser magnética sem aquecimento. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Óxido de ferro e titânio. FeTiO3.   Fe  36,8  -  Ti  31,6  -  O  31,6 por cento.  Pela introdução de óxido férrico, a relação entre o titânio e o ferro varia amplamente. O óxido férrico em excesso pode ser dividido largamente a inclusões minúsculas de hematita. O magnésio e o manganês podem substituir o ferro ferroso."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível.  Magnética após o aquecimento. O pó fino de ilmenita, fundido na chama redutora com carbonato de sódio, produz massa magnética. Depois da fusão com carbonato de sódio, pode ser dissolvida no ácido sulfúrico, tornando-se a solução amarela, ao juntar-se peróxido de hidrogênio."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "A ilmenita pode distinguir-se da hematita por seu traço, e da magnesita porque lhe falta magnetismo forte. Nos casos duvidosos, como nos intercrescimento com a magnetita, é necessário recorrer-se a ensaios químicos."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A ilmenita ocorre em camadas e em massas lenticulares encaixadas no gnaisse e em outras rochas metamórficas cristalinas. Encontrada frequentemente, em filões ou massas grandes, como um produto de segregação magmática. Associada com a magnetita. Ocorre também como mineral acessório nas rochas ígneas. Um dos constituíntes das areias pretas, associada com a magnetita, o rutílio, o zircão e a monazita.\n\nEncontrada em grandes quantidades em Krägerö e outras localidades na Noruega; na Finlândia; e em cristais em Miask, nas Montanhas Ilmen, na Rússia. Explorada em quantidades consideráveis a partir das areias das praias, notadamente na Índia e no Brasil. Encontrada nos Estados Unidos, em Washington, no Estado de Connecticut; em Orange County, no de Nova Iorque e em muitos depósitos de magnetita da região de Adirondack, notadamente em Tahawus, no Essex County, onde é explorada ativamente. Encontrada também na baía de St. Paul e no lago Allard, em Quebec."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "É empregada  como uma fonte de titânio. O bióxido de titânio fabricado está sendo usado em quantidades cada vez maiores como pigmento, em pintura, substituindo os pigmentos mais antigos, notadamente os compostos de chumbo. Está sendo realizado muito trabalho de pesquisa sobre o uso de titânio metálico como material de estruturas. Por causa do valor elevado da relação resistência para com o peso, o titânio está provando ser material desejável para a construção aeronáutica, seja nas estruturas, seja nos motores. A ilmenita não pode ser usada como minério de ferro por causa das dificuldades em sua fundição, mas as misturas de ilmenita e magnetita, e ilmenita e hematita são separadas, de modo que, possam ser recuperados o titânio e o ferro."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Provém da denominação geográfica Montanhas de Ilmen, na Rússia."
+    }
+  ]
+}

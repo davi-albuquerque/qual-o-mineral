@@ -1,0 +1,55 @@
+{
+  "slug": "jamesonita",
+  "name": "JAMESONITA",
+  "rawName": "JAMESONITA",
+  "formula": "Pb4FeSb6S14",
+  "type": "SULFOSSAL",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico, prismática. Usualmente, em cristais aciculares, ou em formas capilares com aparência de uma pena. também entre fibrosa e maciça compacta. \"Minério em pena\" é a  denominação dada, muitas vezes, a vários compostos diferentes."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem {001}. Quebradiça. Dureza: 2,0 - 3,0; Densidade 5,5 - 6,0. Brilho metálico. Cor e Traço: entre o cinza do aço e o preto-acinzentado. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Um sulfeto de antimônio, ferro e chumbo, provavelmente  Pb4FeSb6S14  . O cobre e o zinco podem estar presentes em pequenas quantidades."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde  ao número 1 na escala de fusibilidade.  Sobre o carvão vegetal, produz uma auréola combinada de óxidos de chumbo e antimômio. Calcinada no tubo aberto, produz sublimados de óxidos de antimônio. Aquecida sobre o carvão vegetal com fluxos de iodeto, produz uma auréola de iodeto  de chumbo de colorido amarelo do cromo."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Reconhecida por sua aparência fibrosa característica (em forma de pena), distinguindo-se da estibnita pela falta de boa clivagem no sentido do comprimento. Difícil de distinguir-se das espécies semelhantes (Ver a seguir)."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A jamesonita encontra-se nos filões de minério formada em temperaturas baixas a moderadas. Associada com outros sulfossais de chumbo, com galena, estibnita, tetraedrita e esfalerita.\n\nEncontrada em Cornwall, na Inglaterra, e em várias outras localidades na Checoslováquia, Rumânia e Saxônia, na Tasmânia e na Bolívia.  Nos estados Unidos, provém do Sevier County, Arkansas e de Silver City, no Estado de Dakota do Sul."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de chumbo de importância reduzida."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em honra do mineralogista Robert Jameson (1774 - 1854) de Edinburgo."
+    },
+    {
+      "key": "especiesSemelhantes",
+      "heading": "Espécies semelhantes:",
+      "body": "Incluem-se sob a denominação minérios em pena alguns minerais semelhantes a jamesonita na composição e nas características físicas gerais. esses minerais são: a zinkenita, Pb6Sb14S27; a boulangerita, Pb5Sb4S11, a meneghinita, Pb13Sb7S23.  Outros minerais de composição semelhante, mas de hábito diferente são:  a plagionita,  Pb5Sb4S17 ; a semseyíta,  Pb9Sb8S4  ; a geocronita, Pb5(Sb,As)2S8."
+    }
+  ]
+}

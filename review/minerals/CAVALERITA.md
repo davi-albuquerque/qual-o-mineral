@@ -1,0 +1,37 @@
+# CAVALERITA
+
+## Cristalografia:
+
+Monoclínico; prismática. Raramente em cristais distintos que são alongados paralelamente ao eixo b; as faces desta zona são estriadas  profundamente. Terminados nas extremidades do eixo b por um grande número de faces. Geminação frequente. Usualmente granular.
+
+## Propriedades físicas:
+
+Dureza: 2,5 ; Densidade 9,35. Brilho metálico. Cor : entre o amarelo do latão e o branco da prata, em alguns casos com embaciamento amarelado. Traço amarelado a cinza-esverdeado. Opaca. Muito quebradiça.
+
+## Composição:
+
+Bitelureto de ouro. AuTe2. Au  44,03 - Te  55,97  por cento. A prata usualmente substitui o ouro em pequena escala.
+
+## Ensaios:
+
+Corresponde ao número 1 na escala de fusibilidade. Funde-se sobre o carvão vegetal com chama verde-azulada, produzindo glóbulos de ouro metálico. Quando decomposta em ácido sulfúrico concentrado, fervente, a solução toma cor vermelha intensa (telúrio), separando-se massa esponjosa de ouro.
+
+## Aspectos diagnósticos:
+
+Distingue-se da silvanita pela presença de pequena quantidade de prata, apenas, e pela falta de clivagem.
+
+## Ocorrência:
+
+A calaverita forma-se sob condições semelhantes às da silvanita, estando associada com esta última e com outros teluretos. Encontrada no distrito de Cripple Creek, no Colorado, e em Kalgoorlie, na Austrália Ocidental.
+
+## Uso:
+
+Um minério de ouro.
+
+## Nome:
+
+O nome deriva de Calaveras County, na Califórnia, onde foi encontrada originalmente, na mina Stanislaus.
+
+## Espécies semelhantes:
+
+Outros teluretos raros são: krennerita, AuTe2; altaíta, PbTe; hessita, Ag2Te; petzita (Ag,Au)2Te  e nagyágita, um sulfotelureto de chumbo e ouro.

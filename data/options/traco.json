@@ -1,0 +1,126 @@
+[
+  {
+    "key": "amarelo-castanho",
+    "label": "Amarelo Castanho"
+  },
+  {
+    "key": "amarelo-claro",
+    "label": "Amarelo Claro"
+  },
+  {
+    "key": "amarelo-laranja",
+    "label": "Amarelo Laranja"
+  },
+  {
+    "key": "amarelo-palido",
+    "label": "Amarelo Pálido"
+  },
+  {
+    "key": "azul-acinzentado",
+    "label": "Azul Acinzentado"
+  },
+  {
+    "key": "azul-claro",
+    "label": "Azul Claro"
+  },
+  {
+    "key": "azul-escuro",
+    "label": "Azul Escuro"
+  },
+  {
+    "key": "branco",
+    "label": "Branco"
+  },
+  {
+    "key": "branco-brilhante",
+    "label": "Branco Brilhante"
+  },
+  {
+    "key": "cinza",
+    "label": "Cinza"
+  },
+  {
+    "key": "cinza-brilhante",
+    "label": "Cinza Brilhante"
+  },
+  {
+    "key": "cinza-escuro",
+    "label": "Cinza Escuro"
+  },
+  {
+    "key": "incolor",
+    "label": "Incolor"
+  },
+  {
+    "key": "marrom",
+    "label": "Marrom"
+  },
+  {
+    "key": "marrom-avermelhado",
+    "label": "Marrom Avermelhado"
+  },
+  {
+    "key": "marrom-claro",
+    "label": "Marrom Claro"
+  },
+  {
+    "key": "marrom-escuro",
+    "label": "Marrom Escuro"
+  },
+  {
+    "key": "ouro",
+    "label": "Ouro"
+  },
+  {
+    "key": "prata",
+    "label": "Prata"
+  },
+  {
+    "key": "preto",
+    "label": "Preto"
+  },
+  {
+    "key": "preto-ao-verde-escuro",
+    "label": "Preto ao Verde Escuro"
+  },
+  {
+    "key": "preto-brilhante",
+    "label": "Preto Brilhante"
+  },
+  {
+    "key": "preto-cinza",
+    "label": "Preto Cinza"
+  },
+  {
+    "key": "roseo",
+    "label": "Róseo"
+  },
+  {
+    "key": "verde",
+    "label": "Verde"
+  },
+  {
+    "key": "verde-claro",
+    "label": "Verde Claro"
+  },
+  {
+    "key": "vermelho-brilhante",
+    "label": "Vermelho Brilhante"
+  },
+  {
+    "key": "vermelho-castanho",
+    "label": "Vermelho Castanho"
+  },
+  {
+    "key": "vermelho-claro",
+    "label": "Vermelho Claro"
+  },
+  {
+    "key": "vermelho-escuro",
+    "label": "Vermelho Escuro"
+  },
+  {
+    "key": "vermelho-indigo",
+    "label": "Vermelho Índigo"
+  }
+]

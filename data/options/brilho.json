@@ -1,0 +1,34 @@
+[
+  {
+    "key": "metalico",
+    "label": "Metálico"
+  },
+  {
+    "key": "adamantino",
+    "label": "Adamantino"
+  },
+  {
+    "key": "gorduroso",
+    "label": "Gorduroso"
+  },
+  {
+    "key": "nacarado",
+    "label": "Nacarado"
+  },
+  {
+    "key": "resinoso",
+    "label": "Resinoso"
+  },
+  {
+    "key": "sedoso",
+    "label": "Sedoso"
+  },
+  {
+    "key": "vitreo",
+    "label": "Vítreo"
+  },
+  {
+    "key": "terroso",
+    "label": "Terroso"
+  }
+]

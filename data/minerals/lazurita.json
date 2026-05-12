@@ -1,0 +1,60 @@
+{
+  "slug": "lazurita",
+  "name": "LAZURITA",
+  "rawName": "LAZURITA",
+  "formula": "- LAPÍS LAZÚLI  (Na,Ca)4(AlSiO4)3(SO4,S,Cl)",
+  "type": "TECTOSSILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "GRUPO DOS FELDSPATÓIDES"
+    },
+    {
+      "key": "preamble",
+      "heading": "",
+      "body": "Os feldspatóides são quimicamente semelhantes aos feldspatos, porque são aluminossilicatos de potássio, de sódio e de cálcio, como elementos principais, mais com quantidades menores de outros íons. A princiapl diferença química entre os feldspatóides e os feldspatos reside no conteúdo de sílica. Os feldspatóides contêm cerca de dois terços da sílica existente nos feldspatos alcalinos e, por isto, tendem a formar soluções ricas em álcalis (sódio e potássio) e pobres em sílica. Suas estruturas são de aluminossilicatos tridimensionais em cujos interstícios estão os catíons; ocasionalmente, hospedam também aníons raros. Assim, na sodalita, o cloro é um constituinte essencial e na, carcrinita, o íon carbonato, ao passo que a noseana contém sulfato, e a lazurita, sulfato, sulfeto e íons de cloro.  As fórmulas destes minerais podem ser concebidas como constituídas por três fórmulas, em peso, de nefelina (NaAlSiO4) para uma fórmula em peso, de NaCl, relativamente à sodalita; uma fórmula, em peso, de Na2SO4, para a noseana, etc.  As estruturas não mostram, naturalmente, esta relação simples e os aníons estranhos estão incluídos  simplesmente nos espaços abertos da estrutura bem espaçosa do aluminossilicato."
+    },
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Isométrico. Cristais raros, usualmente dodecaedros. Comumente maciça, compacta."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem dodecaédrica {011} imperfeita. Dureza 5,0 - 5,5. Densidade 2,4 - 2,45.  Brilho vítreo . Cor:  azul-celeste intenso, azul-esverdeado. Translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "(Na,Ca)4(AlSiO4)3(SO4,S,Cl), essencialmente, mas com a variação considerável nas quantidades de SO4, S e Cl. O sódio pode ser substituído  por pequenas quantidades de rubídio, césio, estrôncio e bário."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Situa-se a meio caminho, entre os números 3 e 4 da escala de fusibilidade, produzindo  a chama amarela (sódio), forte. Solúvel em ácido clorídrico com escasso desenvolvimento progressivo do sulfeto de hidrogênio gasoso."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada por sua cor azul e a presença de pirita associada."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A lazurita é um mineral raro, ocorrendo usualmente em calcários cristalinos, como um produto do metamorfismo de contato. O lápis-lazúli é, usualmente, uma mistura de lazurita com pequenas quantidades de calcita, piroxênio e outros silicatos e contendo, comumente, pequenas partículas de pirita disseminada. A melhor qualidade de lápis-lazúli provém do nordeste do Afeganistão. Encontrada, também, no Lago Baikal, Sibéria e no Chile."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "O lápis-lazúli é altamente apreciado como uma pedra ornamental, para trabalhos de entalhe, etc. Na forma de pó, foi usado antigamente como um pigmento para pintura denominado ultramarino. O azul ultramarino é produzido agora artificialmente."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Lazurita é um sinônimo obsoleto para a azurita, e por isso o mineral é assim designado por causa de sua cor semelhante à da azurita."
+    }
+  ]
+}

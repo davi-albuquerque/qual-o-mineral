@@ -1,0 +1,50 @@
+{
+  "slug": "polibasita",
+  "name": "POLIBASITA",
+  "rawName": "POLIBASITA",
+  "formula": "Ag16Sb2S11",
+  "type": "SULFOSSAL",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Monoclínico, prismática. Na simetria, os cristais são pseudorromboédricos, ocorrendo em prismas hexagonais curtos, muitas vezes tabulares, delgados. Os planos basais mostram marcas triangulares. Também granular."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Dureza: 2,0 - 3,0; Densidade 6,0 - 6,2.  Brilho metálico. Cor :  cinza do aço ou preto do ferro. Traço: negro. Opaca."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Essencialmente, um sulfeto de antimônio e prata, Ag16Sb2S11. Ag  74,3  -  Sb  10,5   - S  15,2  por cento. O cobre pode substituir a prata em cerca de 30 por cento. O arsênico pode substituir o antimônio em cerca de 60 por cento, formando uma série parcial até a pearceíta (Ag,Cu)16As2S11."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde  ao número 1 na escala de fusibilidade. Sobre o carvão vegetal, funde-se formando um glóbulo e produz auréola de cor branca, densa, de trióxido de antimônio, com odor de anidrito sulfuroso."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Distingue-se das espécies semelhantes principalmente por seus cristais."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A polibasita é um mineral de prata comparativamente raro, associado com os outros sulfantimonietos de prata e com minérios de prata em geral.\n\nEncontrado nas minas de prata do México, Chile, Saxônia e Boêmia. Nos Estados Unidos, encontra-se em Comstock Lode e Tonopah, no Estado de Nevada; Ouray e Leadville, no Colorado e em Silver City e Delamar, em Idaho."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Um minério de prata."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "O nome é uma alusão as muitas bases metálicas contidas no mineral."
+    }
+  ]
+}

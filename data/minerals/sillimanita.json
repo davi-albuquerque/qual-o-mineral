@@ -1,0 +1,45 @@
+{
+  "slug": "sillimanita",
+  "name": "SILLIMANITA",
+  "rawName": "SILLIMANITA",
+  "formula": "AlAlO(SiO4)",
+  "type": "SILICATOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Ocorre em cristais delgados, compridos, sem terminações nítidas; muitas vêzes em grupos paralelos, frequentemente fribrosa."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem pinacoidal {010} perfeita.  Dureza 6,0 - 7,0 . Densidade 3,23. Brilho vítreo.Cor: castanho, verde-pálido, branco. Transparente a translúcida."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Silicato de alumínio, igual a andaluzita,  AlAlO(SiO4). Al2O3  63,2  -  SiO2  36,8  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Não é fusível , nem solúvel. O mineral moído finamente, torna-se azul, quando aquecido com solução de nitrato de cobalto."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizada pelos cristais delgados, com uma direção de clivagem.\n\nAlteração:   São comuns os pseudomorfos de moscovita, de  granulação fina (sericita), sobre a andaluzita."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "A sillimanita é um mineral comparativamente raro, encontrado como constituínte do gnaisse e xisto nas rochas de metamorfismo muito acentuado, raramente um mineral metamórfico de contato. Ocorre muitas vezes, com o corindon.\n\nAs localidades notáveis por sua ocorrência são: Maldau, na Boêmia; Fassa no Tirol Austríaco; Bodenmais na Bavária; Freiberg na Saxônia; Minas Gerais no Brasil, sob a forma de massas desgastadas pela água, nas areias diamantíferas. Encontrada nos Estados Unidos, em Worcester, no Estado de Massachusetts; em Norwich e Willimantic, no de Connecticut e em New hampshire.\n\npara gemas."
+    },
+    {
+      "key": "nome",
+      "heading": "Nome:",
+      "body": "Em homenagem a Benjamin Silliman (1779 - 1864), professor de química da Universidade de Yale."
+    }
+  ]
+}

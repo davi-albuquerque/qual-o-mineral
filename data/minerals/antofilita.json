@@ -1,0 +1,20 @@
+{
+  "slug": "antofilita",
+  "name": "ANTOFILITA",
+  "rawName": "ANTOFILITA",
+  "formula": "(Mg,Fe)7(Si8O22)(OH)2",
+  "type": "SILICATOS - FAMÍLIA DOS ANFIBÓLIOS",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrombico , Classe - Bipiramidal Rômbica"
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Sistema Cristalográfico: Ortorrômbico,\n\nCaráter e Sinal Óptico: Biaxial positivo\n\nÍndices de Refração: na= 1,596 a 1,694;  nb= 1,605 a 1,710;  ng= 1,615 a 1,722, ângulo 2V= 70º a 90º\n\nRelevo: Alto positivo\n\nCor: Incolor a cores pálidas nas seções dealgadas\n\nHábito: Prismático\n\nClivagem: Em duas direções na {110} com ângulos de 54º e 126º\n\nBirrefringência: Moderada, variando de 0,016 a 0,025\n\nExtinção: Paralela nas seções longitudinais e simétrica nas basais\n\nSinal de Elongação: Positiva, raio lento paralelo ao eixo C cristalográfico\n\nParagênese: A Antofilita é um mineral de rochas metamórficas, sendo constituinte principal de antofilito xistos e secundário em peridotitos e dunitos\n\nPropriedades Diagnósticas e Minerais Semelhantes: A Antofilita pode ser diferenciada da Actinolita pela extinção paralela."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "nitro",
+  "name": "NITRO",
+  "rawName": "NITRO",
+  "formula": "KNO3",
+  "type": "NITRATO",
+  "isClassSummary": false,
+  "sections": [
+    {
+      "key": "cristalografia",
+      "heading": "Cristalografia:",
+      "body": "Ortorrômbico; bipiramidal. Usualmente, como incrustações delgadas ou como cristais aciculares sedosos. Geminação segundo {110} comum, produzindo agrupamentos pseudo-hexagonais, análogos a aragonita."
+    },
+    {
+      "key": "propriedadesFisicas",
+      "heading": "Propriedades físicas:",
+      "body": "Clivagem perfeita {011}.  Dureza 2,0. Densidade 2,09 - 2,14.  Brilho vítreo. Cor: branco, Translúcido."
+    },
+    {
+      "key": "composicao",
+      "heading": "Composição:",
+      "body": "Nitrato de potássio,KNO3    K2O   46,5  -  N2O5  53, 5  por cento."
+    },
+    {
+      "key": "ensaios",
+      "heading": "Ensaios:",
+      "body": "Corresponde ao número 1 na escala de fusibilidade, dando chama violeta (potássio). Depois da calcinação, dá reação alcalina com o papel de ensaio umedecido.  Aquecido no tubo fechado com bissulfato de potássio, produz vapores vermelhos de dióxido de nitrogênio. Facilmente solúvel na água. Sabor salino e refrescante."
+    },
+    {
+      "key": "aspectosDiagnosticos",
+      "heading": "Aspectos diagnósticos:",
+      "body": "Caracterizado por seu gosto refrescante; distingue-se do salitre do Chile pela reação do potássio e por não ser deliquescente."
+    },
+    {
+      "key": "ocorrencia",
+      "heading": "Ocorrência:",
+      "body": "O nitro encontra-se como crostas delicadas, como eflorescência, nas superfícies da terra, dos muros, das rochas etc. Encontrado como constituinte de certos solos. Também no solo destituído de coesão nas cavernas calcárias. Não é tão comum como o salitre do Chile, sendo produzido entretanto, a partir dos solos, na Espanha, Itália, Egito, Arábia, Pérsia e Índia."
+    },
+    {
+      "key": "uso",
+      "heading": "Uso:",
+      "body": "Usado como uma fonte de compostos nitrogenados."
+    }
+  ]
+}
